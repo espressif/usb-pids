@@ -1,0 +1,8 @@
+Allocated PIDs under Espressifs VID (0x303a). When adding a PID, please take
+the next available one and add it at the bottom of the list, in order to keep 
+the list sequential. For a product name, please include both the name of your
+company (or your own name or nickname) and the name of the device you're 
+registering the PID for (e.g. My Widget Company touch-free WiFi USB keyboard)
+
+PID    | Product name
+0x8000 | Espressif test PID
