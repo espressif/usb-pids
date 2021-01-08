@@ -14,14 +14,16 @@ selected.
 
 # How do I get a PID in this range?
 
-To get a PID, you can clone this repository, edit the allocated-pids.txt file and commit the changes. 
+To get a PID, you can fork this repository, edit the allocated-pids.txt file and commit the changes. 
 Please make sure to use the next available PID in the range allocated, for easy managing purposes we'd
 like to keep the customer allocated PIDs sequential. Finally, file a pull request here so we can merge 
 the result. Make sure to mention the following in the pull request:
 
+- A short description of what the device is going to do (e.g. cat tracker with USB trace download)
+
 - What chip are you using for the device the PID is allocated for (e.g. ESP32-S2)
 
-- A short description of what the device is going to do (e.g. cat tracker with USB trace download)
+- Why you need a custom PID (and can't, for instance, use the default TinyUSB PIDs)
 
 - If you're requesting a PID on behalf of a company, please mention the name of the company
 
