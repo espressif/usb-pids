@@ -1,18 +1,20 @@
-# What is this?
+# Espressif USB customer-allocated PID repository
+
+## What is this?
 
 This is a repository for customer-allocated PIDs under the Espressif VID (0x303A). As getting your own
-USB VID can be expensive for a company only making small runs of products, for customers using
-Espressif chips with USB functionality, we offer the option of using a PID allocating under the
-Espressif VID.
+USB Vendor ID (VID) can be expensive for an individual or a company only making small runs of products, 
+for customers using Espressif chips with USB functionality, we offer the option of using a PID 
+allocated under the Espressif VID.
 
-# When do I need this?
+## When do I need this?
 
 You would need a custom PID if you use a custom USB class on your ESP32 which needs a non-standard
 driver on the host. If you use e.g. TinyUSB with the standard drivers it comes with, you would not
 need a custom PID as TinyUSB by default already uses a pre-allocated PID specific to the classes 
 selected.
 
-# How do I get a PID in this range?
+## How do I get a PID in this range?
 
 To get a PID, you can fork this repository, edit the allocated-pids.txt file and commit the changes. 
 Please make sure to use the next available PID in the range allocated, for easy managing purposes we'd
