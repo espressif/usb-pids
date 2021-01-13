@@ -6,3 +6,9 @@ registering the PID for (e.g. My Widget Company touch-free WiFi USB keyboard)
 
 PID    | Product name
 0x8000 | Espressif test PID
+0x801A | ESPattoZero CircuitS
+0x801B | ESPattoZero Engineering Base
+0x801C | ESPattoZero Test fixture
+0x801D | ESPattozero Logic Analyzer
+0x801E | ESPattoZero Board Tester
+0x801F | ESPattoZero Air quality tester
