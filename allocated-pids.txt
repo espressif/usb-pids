@@ -46,3 +46,6 @@ PID    | Product name
 0x803E | ESPattoZero Health&Fitnees minder  
 0x803F | ESPattoZero DAW-PRO
 0x8040 | ESPattoZero V-bridge
+0x8041 | ESPattoZero CPY-KIT
+0x8042 | ESPattoZero NUTTX-KIT
+0x8043 | ESPattoZero DIY-KIT
