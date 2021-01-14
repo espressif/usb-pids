@@ -32,7 +32,7 @@ PID    | Product name
 0x8031 | ESPattoZero USB-MIDI64
 0x8031 | ESPattoZero USB-MIDI128
 0x8032 | ESPattoZero DMX-BASE-HOME
-0x8033 | ESPattpZero DMX-BASE-PRO
+0x8033 | ESPattoZero DMX-BASE-PRO
 0x8034 | ESPattoZero B4A-Connect
 0x8035 | ESPattoZero Android-Bridge
 0x8036 | ESPattoZero CINEMA-SCOPE-IT
