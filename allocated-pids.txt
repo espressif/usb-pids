@@ -49,3 +49,15 @@ PID    | Product name
 0x8041 | ESPattoZero CPY-KIT
 0x8042 | ESPattoZero NUTTX-KIT
 0x8043 | ESPattoZero DIY-KIT
+0x8044 | ESPattoZero USB-CTM16
+0x8045 | ESPattoZero USB-CTM32
+0x8046 | ESPattoZero USB-CTM64
+0x8047 | ESPattoZero USB-CTM128
+0x8048 | ESPattoZero USB-MTC16
+0x8049 | ESPattoZero USB-MTC32
+0x804A | ESPattoZero USB-MTC64
+0x804B | ESPattoZero USB-MTC128
+0x804C | ESPattoZero CTM PRO
+0x804D | ESPattoZero MTC PRO
+0x804E | ESPattoZero VCP2WiFi
+0x804F | ESPattoZero EIA-485
