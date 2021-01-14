@@ -12,3 +12,37 @@ PID    | Product name
 0x801D | ESPattozero Logic Analyzer
 0x801E | ESPattoZero Board Tester
 0x801F | ESPattoZero Air quality tester
+0x8020 | ESPattoZero X-ThermalPro
+0x8021 | ESPattoZero SECureCAM 
+0x8022 | ESPattoZero StampIT
+0x8023 | ESPattoZero Signalgenerator
+0x8024 | ESPattoZero SnapONzero
+0x8025 | ESPattoZero SnapONmini
+0x8026 | ESPattoZero espKIT Home
+0x8027 | ESPattoZero espKIT Mobil
+0x8028 | ESPattoZero LoRa-X-Home
+0x8029 | ESPattoZero LoRa-X-Mobil
+0x802A | ESPattoZero C3-MINI-Modul-ADD
+0x802B | ESPattoZero C3-WROOM-Modul-ADD
+0x802C | ESPattoZero S2-MINI-Modul-ADD
+0x802D | ESPattoZero S2-WROOM-Modul-ADD
+0x802E | ESPattoZero S2-WROVER-Modul-ADD
+0x802F | ESPattoZero GBRL-DONGLE
+0x8030 | ESPattoZero USB-MIDI32
+0x8031 | ESPattoZero USB-MIDI64
+0x8031 | ESPattoZero USB-MIDI128
+0x8032 | ESPattoZero DMX-BASE-HOME
+0x8033 | ESPattpZero DMX-BASE-PRO
+0x8034 | ESPattoZero B4A-Connect
+0x8035 | ESPattoZero Android-Bridge
+0x8036 | ESPattoZero CINEMA-SCOPE-IT
+0x8037 | ESPattoZero MINI-SCOPE-IT
+0x8038 | ESPattoZero Smart-Homeoffice 
+0x8039 | ESPattoZero X-LINK
+0x803A | ESPattoZero BION-ELV 
+0x803B | ESPattoZero EMU-x-
+0x803C | ESPattoZero Switch-TH-ing
+0x803D | ESPattoZero VFM vehicle fleet manager
+0x803E | ESPattoZero Health&Fitnees minder  
+0x803F | ESPattoZero DAW-PRO
+0x8040 | ESPattoZero V-bridge
