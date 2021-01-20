@@ -6,4 +6,5 @@ registering the PID for (e.g. My Widget Company touch-free WiFi USB keyboard)
 
 PID    | Product name
 0x8000 | Espressif test PID
-0x8001 | Unexpected Maker TinyS2
+0x8001 | Unexpected Maker TinyS2 - Arduino
+0x8002 | Unexpected Maker TinyS2 - CircuitPython
