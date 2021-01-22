@@ -10,3 +10,4 @@ PID    | Product name
 0x8002 | Unexpected Maker TinyS2 - CircuitPython
 0x8003 | Wualabs - Wuard Zero - Vera crypto dev board
 0x8004 | Wualabs - Wuard crypto
+0x8005 | Unexpected Maker TinyS2 - UF2 Bootloader
