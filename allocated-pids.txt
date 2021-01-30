@@ -14,3 +14,6 @@ PID    | Product name
 0x8006 | LILYGO TTGO T8 ESP32-S2 - Arduino
 0x8007 | LILYGO TTGO T8 ESP32-S2 - CircuitPython
 0x8008 | LILYGO TTGO T8 ESP32-S2 - UF2 Bootloader
+0x8009 | ATMegaZero ESP32-S2 - CircuitPython
+0x800A | ATMegaZero ESP32-S2 - Arduino
+0x800B | ATMegaZero ESP32-S2 - UF2 Bootloader
