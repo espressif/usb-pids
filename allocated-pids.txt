@@ -17,5 +17,6 @@ PID    | Product name
 0x8009 | ATMegaZero ESP32-S2 - CircuitPython
 0x800A | ATMegaZero ESP32-S2 - Arduino
 0x800B | ATMegaZero ESP32-S2 - UF2 Bootloader
-0x800C | Troo.com - FarmTRX Yield Monitor
-
+0x800C | GRAVITECH CUCUMBER RIS ESP32S2 - Arduino
+0x800D | GRAVITECH CUCUMBER RIS ESP32S2 - CircuitPython
+0x800E | GRAVITECH CUCUMBER RIS ESP32S2 - UF2 Bootloader
