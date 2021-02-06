@@ -68,7 +68,7 @@ PID    | Product name
 0x803C | ESPattoZero™ ZERO-Arduino 
 0x803D | ESPattoZero™ SIMEPI™-Arduino 
 0x803E | ESPattoZero™ RODI™-Arduino
-0x803F | ESPattoZero™ GBRL-DONGLE
+0x803F | ESPattoZero™ GRBL-DONGLE
 0x8040 | ESPattoZero™ USB-MIDI32
 0x8041 | ESPattoZero™ USB-MIDI64
 0x8042 | ESPattoZero™ USB-MIDI128
