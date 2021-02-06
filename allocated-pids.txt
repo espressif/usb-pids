@@ -21,3 +21,147 @@ PID    | Product name
 0x800D | GRAVITECH CUCUMBER RIS ESP32S2 - CircuitPython
 0x800E | GRAVITECH CUCUMBER RIS ESP32S2 - UF2 Bootloader
 0x800F | Troo - FarmTRX Yield Monitor
+0x8010 | ESP32DE Stickley-MIDI-PRO
+0x8011 | ESP32DE Stickley-Arduino
+0x8012 | ESP32DE Stickley-UF2-Bootloader
+0x8013 | ESP32DE Stickley-CircuitPython
+0x8014 | ESP32DE WiFi-CAN-Bridge-PRO
+0x8015 | ESP32DE WiFi-OTG-Bridge-PRO
+0x8016 | ESP32DE WiFi-MCU-Bridge-PRO
+0x8017 | ESP32DE LIVE-STYLER-PRO 
+0x8018 | ESP32DE STICKLEY-PRO
+0x8019 | ESP32DE MCU-Commander
+0x801A | ESP32DE -A-TESTDRIVE
+0x801B | ESP32DE -B-TESTHOST
+0x801C | ESP32DE -C-TESTDEVICE
+0x801D | ESP32DE -D-NEURONAL
+0x801E | ESP32DE -E-REMOTE
+0x801F | ESP32DE -F-OSZ 
+0x8020 | ESP32DE PSRAMBANK-PRO
+0x8021 | ESP32DE WiFi-DONGLE
+0x8022 | ESP32DE PeripheralBridge
+0x8023 | ESP32DE SIMEPI™ DONGLE
+0x8024 | ESP32DE AIoT-DONGLE
+0x8025 | ESP32DE IoT-DONGLE
+0x8026 | ESP32DE WEBUSB-PRO
+0x8027 | ESP32DE TINY-SHinY
+0x8028 | ESP32DE devflowcharter PRO
+0x8029 | ESP32DE WEBSPI-PRO
+0x802A | ESPattoZero™ CircuitS
+0x802B | ESPattoZero™ Engineering
+0x802C | ESPattoZero™ Test fixture
+0x802D | ESPattozero™ Logic Analyzer
+0x802E | ESPattoZero™ Board Tester
+0x802F | ESPattoZero™ Air quality tester
+0x8030 | ESPattoZero™ X-ThermalPro
+0x8031 | ESPattoZero™ SECureCAM 
+0x8032 | ESPattoZero™ StampIT
+0x8033 | ESPattoZero™ Signalgenerator
+0x8034 | ESPattoZero™ SnapSONzero
+0x8035 | ESPattoZero™ SnapSONmini
+0x8036 | ESPattoZero™ espKIT Home
+0x8037 | ESPattoZero™ espKIT Mobil
+0x8038 | ESPattoZero™ LoRa-X-Home
+0x8039 | ESPattoZero™ LoRa-X-Mobil
+0x803A | ESPattoZero™ ZERO-UF2-Bootloader
+0x803B | ESPattoZero™ ZERO-CircuitPython
+0x803C | ESPattoZero™ ZERO-Arduino 
+0x803D | ESPattoZero™ SIMEPI™-Arduino 
+0x803E | ESPattoZero™ RODI™-Arduino
+0x803F | ESPattoZero™ GRBL-DONGLE
+0x8040 | ESPattoZero™ USB-MIDI32
+0x8041 | ESPattoZero™ USB-MIDI64
+0x8042 | ESPattoZero™ USB-MIDI128
+0x8043 | ESPattoZero™ DMX-BASE-HOME
+0x8044 | ESPattpZero™ DMX-BASE-PRO
+0x8045 | ESPattoZero™ B4A-Connect
+0x8046 | ESPattoZero™ Android-Bridge
+0x8047 | ESPattoZero™ CINEMA-SCOPE-IT
+0x8048 | ESPattoZero™ MINI-SCOPE-IT
+0x8049 | ESPattoZero™ X-LINK
+0x804A | ESPattoZero™ BION-ELV 
+0x804B | ESPattoZero™ EMU-x-
+0x804C | ESPattoZero™ Switch-TH-ing
+0x804D | ESPattoZero™ VFM vehicle fleet manager
+0x804E | ESPattoZero™ Health&Fitnees minder  
+0x804F | ESPattoZero™ DAW-PRO
+0x8050 | ESPattoZero™ V-bridge
+0x8051 | ESPattoZero™ CPY-KIT
+0x8052 | ESPattoZero™ NUTTX-KIT
+0x8053 | ESPattoZero™ DIY-KIT
+0x8054 | ESPattoZero™ USB-CTM16
+0x8055 | ESPattoZero™ USB-CTM32
+0x8056 | ESPattoZero™ USB-CTM64
+0x8057 | ESPattoZero™ USB-CTM128
+0x8058 | ESPattoZero™ USB-MTC16
+0x8059 | ESPattoZero™ USB-MTC32
+0x805A | ESPattoZero™ USB-MTC64
+0x805B | ESPattoZero™ USB-MTC128
+0x805C | ESPattoZero™ CTM PRO
+0x805D | ESPattoZero™ MTC PRO
+0x805E | ESPattoZero™ VCP2WiFi
+0x805F | ESPattoZero™ EIA-485
+0x8060 | ESPattoZero™ ESPattoZero-cero
+0x8061 | ESPattoZero™ ESPattoZero-uno
+0x8062 | ESPattoZero™ ESPattoZero-dos
+0x8063 | ESPattoZero™ ESPattoZero-tres
+0x8064 | ESPattoZero™ ESPattoZero-cuatro
+0x8065 | ESPattoZero™ ESPattoZero-cinco
+0x8066 | ESPattoZero™ ESPattoZero-seis
+0x8067 | ESPattoZero™ ESPattoZero-siete
+0x8068 | ESPattoZero™ ESPattoZero-ocho
+0x8069 | ESPattoZero™ ESPattoZero-nueve
+0x806A | ESPattoZero™ PICOio-UF2
+0x806B | ESPattoZero™ PICOio-CircuitPython
+0x806C | ESPattoZero™ PICOio-Arduino
+0x806D | ESPattoZero™ PICOio-PRO-UF2
+0x806E | ESPattoZero™ PICOio-PRO-CircuitPython
+0x806F | ESPattoZero™ PICOio-PRO-Arduino
+0x8070 | ESPattoZero™ ATTO-UF2
+0x8071 | ESPattoZero™ ATTO-CircuitPython
+0x8072 | ESPattoZero™ ATTO-Arduino
+0x8073 | ESPattoZero™ ATTO-PRO-UF2
+0x8074 | ESPattoZero™ ATTO-PRO-CircuitPython
+0x8075 | ESPattoZero™ ATTO-PRO-Arduino
+0x8076 | ESPattoZero™ MAMAMIA-UF2
+0x8077 | ESPattoZero™ MAMAMIA-CircuitPython
+0x8078 | ESPattoZero™ MAMAMIA-Arduino
+0x8079 | ESPattoZero™ LEONPI-MSI-PRO
+0x807A | ESPattoZero™ LEONPI-MSI-UF2
+0x807B | ESPattoZero™ LEONPI-MSI-CircuitPython
+0x807C | ESPattoZero™ LEONPI-MSI-Arduino
+0x807D | ESPattoZero™ GeoTracking Station
+0x807E | ESPattoZero™ GeoTracking Base
+0x807F | ESPattoZero™ GeoTracking Mobil
+0x8080 | ESPattoZero™ PROXY-NET
+0x8081 | ESPattoZero™ PORT-NET
+0x8082 | ESPattoZero™ Studentenwerk Station
+0x8083 | ESPattoZero™ Studentenwerk Client
+0x8084 | ESPattoZero™ Studentenwerk Mobil
+0x8085 | ESPattoZero™ Studentenwerk YESAR
+0x8086 | ESPattoZero™ UNI VM-iAPX 86
+0x8087 | ESPattoZero™ UNI VM-x87 floating-point
+0x8088 | ESPattoZero™ UNI VM-8088
+0x8089 | ESPattoZero™ UNI VM-DMA
+0x808A | ESPattoZero™ Freifunk S2 Bridge
+0x808B | ESPattoZero™ Voltamere PI Station
+0x808C | ESPattoZero™ Voltamere PI Client
+0x808D | ESPattoZero™ Voltamere PI Mobil
+0x808E | ESPattoZero™ Voltamere PI YESAR
+0x808F | ESPattoZero™ GPS NMEA Locater
+0x8090 | ESPattoZero™ GPS NMEA FOX
+0x8091 | ESPattoZero™ GPS NMEA HUNTER
+0x8092 | ESPattoZero™ GPS NMEA Base
+0x8093 | ESPattoZero™ GPS NMEA Station
+0x8094 | ESPattoZero™ GPS NMEA Mobil
+0x8095 | ESPattoZero™ GPS NMEA YESAR
+0x8096 | ESPattoZero™ NMEA Monitor
+0x8097 | ESPattoZero™ USB Reminder
+0x8098 | ESPattoZero™ USB TrackingStar
+0x8099 | ESPattoZero™ USB Router
+0x809A | ESPattoZero™ USB-INK 
+0x809B | ESPattoZero™ HOMESCHOOLING
+0x809C | ESPattoZero™ UNI-VM-A7150-ROB-VEB
+0x809D | ESPattoZero™ UNI-VM-DCP1700-ROB-VEB
+0x809E | ESPattoZero™ UNI-VM-DCP-GX-ROB-VEB
+0x809F | ESPattoZero™ USB WIFI-HOTSPOT
