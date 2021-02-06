@@ -32,4 +32,13 @@ the result. Make sure to mention the following in the pull request:
 - If applicable/available, a website or other URL with information about your product or company
 
 After you have done that, we will get back to you soon to either merge the request (after which you're
-free to use the PID) or to ask for clarification if needed.
+free to use the PID) or to ask for clarification if needed. Note that we may need to ask you to rebase
+your request to start at a new PID if someone elses request got merged before yours.
+
+## Disclaimer
+
+Espressif reserves the right to deny a pull request to this repository for any reason. A pull
+request granted here does not mean endorsment of your product by Espressif, and should not be
+used as such in marketing material etc. As a PID is just a number, having your pull request
+merged here does not entitle you to anything; it simply serves as a cooperative way for people 
+not to choose the same number for different products.
