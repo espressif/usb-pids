@@ -28,7 +28,7 @@ PID    | Product name
 0x8014 | ESP32DE WiFi-CAN-Bridge-PRO
 0x8015 | ESP32DE WiFi-OTG-Bridge-PRO
 0x8016 | ESP32DE WiFi-MCU-Bridge-PRO
-0x8017 | ESP32DE LIVE-STYLER-PRO 
+0x8017 | ESP32DE LIVE-STYLER-PRO
 0x8018 | ESP32DE STICKLEY-PRO
 0x8019 | ESP32DE MCU-Commander
 0x801A | ESP32DE -A-TESTDRIVE
@@ -36,7 +36,7 @@ PID    | Product name
 0x801C | ESP32DE -C-TESTDEVICE
 0x801D | ESP32DE -D-NEURONAL
 0x801E | ESP32DE -E-REMOTE
-0x801F | ESP32DE -F-OSZ 
+0x801F | ESP32DE -F-OSZ
 0x8020 | ESP32DE PSRAMBANK-PRO
 0x8021 | ESP32DE WiFi-DONGLE
 0x8022 | ESP32DE PeripheralBridge
@@ -54,7 +54,7 @@ PID    | Product name
 0x802E | ESPattoZero™ Board Tester
 0x802F | ESPattoZero™ Air quality tester
 0x8030 | ESPattoZero™ X-ThermalPro
-0x8031 | ESPattoZero™ SECureCAM 
+0x8031 | ESPattoZero™ SECureCAM
 0x8032 | ESPattoZero™ StampIT
 0x8033 | ESPattoZero™ Signalgenerator
 0x8034 | ESPattoZero™ SnapSONzero
@@ -65,8 +65,8 @@ PID    | Product name
 0x8039 | ESPattoZero™ LoRa-X-Mobil
 0x803A | ESPattoZero™ ZERO-UF2-Bootloader
 0x803B | ESPattoZero™ ZERO-CircuitPython
-0x803C | ESPattoZero™ ZERO-Arduino 
-0x803D | ESPattoZero™ SIMEPI™-Arduino 
+0x803C | ESPattoZero™ ZERO-Arduino
+0x803D | ESPattoZero™ SIMEPI™-Arduino
 0x803E | ESPattoZero™ RODI™-Arduino
 0x803F | ESPattoZero™ GRBL-DONGLE
 0x8040 | ESPattoZero™ USB-MIDI32
@@ -79,11 +79,11 @@ PID    | Product name
 0x8047 | ESPattoZero™ CINEMA-SCOPE-IT
 0x8048 | ESPattoZero™ MINI-SCOPE-IT
 0x8049 | ESPattoZero™ X-LINK
-0x804A | ESPattoZero™ BION-ELV 
+0x804A | ESPattoZero™ BION-ELV
 0x804B | ESPattoZero™ EMU-x-
 0x804C | ESPattoZero™ Switch-TH-ing
 0x804D | ESPattoZero™ VFM vehicle fleet manager
-0x804E | ESPattoZero™ Health&Fitnees minder  
+0x804E | ESPattoZero™ Health&Fitnees minder
 0x804F | ESPattoZero™ DAW-PRO
 0x8050 | ESPattoZero™ V-bridge
 0x8051 | ESPattoZero™ CPY-KIT
@@ -159,9 +159,18 @@ PID    | Product name
 0x8097 | ESPattoZero™ USB Reminder
 0x8098 | ESPattoZero™ USB TrackingStar
 0x8099 | ESPattoZero™ USB Router
-0x809A | ESPattoZero™ USB-INK 
+0x809A | ESPattoZero™ USB-INK
 0x809B | ESPattoZero™ HOMESCHOOLING
 0x809C | ESPattoZero™ UNI-VM-A7150-ROB-VEB
 0x809D | ESPattoZero™ UNI-VM-DCP1700-ROB-VEB
 0x809E | ESPattoZero™ UNI-VM-DCP-GX-ROB-VEB
 0x809F | ESPattoZero™ USB WIFI-HOTSPOT
+0x80A0 | GRAVITECH CUCUMBER R ESP32S2 - Arduino
+0x80A1 | GRAVITECH CUCUMBER R ESP32S2 - CircuitPython
+0x80A2 | GRAVITECH CUCUMBER R ESP32S2 - UF2 Bootloader
+0x80A3 | GRAVITECH CUCUMBER M ESP32S2 - Arduino
+0x80A4 | GRAVITECH CUCUMBER M ESP32S2 - CircuitPython
+0x80A5 | GRAVITECH CUCUMBER M ESP32S2 - UF2 Bootloader
+0x80A6 | GRAVITECH CUCUMBER MS ESP32S2 - Arduino
+0x80A7 | GRAVITECH CUCUMBER MS ESP32S2 - CircuitPython
+0x80A8 | GRAVITECH CUCUMBER MS ESP32S2 - UF2 Bootloader
