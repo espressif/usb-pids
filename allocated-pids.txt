@@ -177,3 +177,6 @@ PID    | Product name
 0x80A9 | Franzininho WIFI - Arduino
 0x80AA | Franzininho WIFI - CircuitPython
 0x80AB | Franzininho WIFI - UF2 Bootloader
+0x80AC | Franzininho WIFI Wrover - Arduino
+0x80AD | Franzininho WIFI Wrover - CircuitPython
+0x80AE | Franzininho WIFI Wrover - UF2 Bootloader
