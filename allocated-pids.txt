@@ -180,3 +180,5 @@ PID    | Product name
 0x80AC | Franzininho WIFI Wrover - Arduino
 0x80AD | Franzininho WIFI Wrover - CircuitPython
 0x80AE | Franzininho WIFI Wrover - UF2 Bootloader
+0x80AF | Artisense RD00 - CircuitPython
+0x80B0 | Artisense RD00 - UF2 Bootloader
