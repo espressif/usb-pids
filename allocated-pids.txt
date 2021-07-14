@@ -185,3 +185,5 @@ PID    | Product name
 0x80B1 | Project Stida RoboCloud - CircuitPython
 0x80B2 | Muse Lab nanoESP32-S2 WROVER - CircuitPython
 0x80B3 | Muse Lab nanoESP32-S2 WROVER - UF2 Bootloader
+0x80B4 | Unexpected Maker FeatherS2 Neo - Arduino
+0x80B5 | Unexpected Maker FeatherS2 Neo - CircuitPython
