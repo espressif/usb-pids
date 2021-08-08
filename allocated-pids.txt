@@ -187,3 +187,6 @@ PID    | Product name
 0x80B3 | Muse Lab nanoESP32-S2 WROVER - UF2 Bootloader
 0x80B4 | Unexpected Maker FeatherS2 Neo - Arduino
 0x80B5 | Unexpected Maker FeatherS2 Neo - CircuitPython
+0x80B6 | Morpheans MorphESP-240 - UF2 Bootloader
+0x80B7 | Morpheans MorphESP-240 - UF2 Arduino
+0x80B8 | Morpheans MorphESP-240 - UF2 CircuitPython
