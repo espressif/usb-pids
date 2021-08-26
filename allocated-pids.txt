@@ -190,3 +190,6 @@ PID    | Product name
 0x80B6 | Morpheans MorphESP-240 - UF2 Bootloader
 0x80B7 | Morpheans MorphESP-240 - UF2 Arduino
 0x80B8 | Morpheans MorphESP-240 - UF2 CircuitPython
+0x80B9 | Lolin S2 Mini - Arduino
+0x80BA | Lolin S2 Mini - CircuitPython
+0x80BB | Lolin S2 Mini - UF2 Bootloader
