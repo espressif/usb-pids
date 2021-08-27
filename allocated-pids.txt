@@ -190,3 +190,9 @@ PID    | Product name
 0x80B6 | Morpheans MorphESP-240 - UF2 Bootloader
 0x80B7 | Morpheans MorphESP-240 - UF2 Arduino
 0x80B8 | Morpheans MorphESP-240 - UF2 CircuitPython
+0x80B9 | Hypnocube - HypnoBall
+0x80BA | Hypnocube - HypnoLSD
+0x80BB | Hypnocube - HypnoCube8 
+0x80BC | Hypnocube - HypnoCube4
+0x80BD | Hypnocube - HypnoLights
+0x80BE | Hypnocube - HypnoSquare8
