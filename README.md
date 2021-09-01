@@ -31,6 +31,9 @@ the result. Make sure to mention the following in the pull request:
 
 - If applicable/available, a website or other URL with information about your product or company
 
+(Note that if your application specifically is designed to run on Espressif-built devboards, you will
+need to edit allocated-pids-espressif-devboards.txt instead.)
+
 After you have done that, we will get back to you soon to either merge the request (after which you're
 free to use the PID) or to ask for clarification if needed. Note that we may need to ask you to rebase
 your request to start at a new PID if someone elses request got merged before yours.

@@ -1,0 +1,10 @@
+This file contains PIDs that are allocated to specific uses of Espressif-built hardware. If
+you have a SDK or software that is intended to run on a bare Espressif devkit and you need
+a PID, please request it by adding the PID to the end of this file. When adding a PID, make
+sure to add it at the bottom of the list and use the next (hexadecimal) PID number so the list
+stays sequential.
+
+PID    | Product name
+0x7000 | ESP32-S2-HMI-DevKit-1 - UF2 Bootloader
+0x7001 | ESP32-S2-HMI-DevKit-1 - CircuitPython
+
