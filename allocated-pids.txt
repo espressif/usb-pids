@@ -202,3 +202,6 @@ PID    | Product name
 0x80C2 | Lolin S2 Mini - Arduino
 0x80C3 | Lolin S2 Mini - CircuitPython
 0x80C4 | Lolin S2 Mini - UF2 Bootloader
+0x80C5 | Lolin S2 Pico - Arduino
+0x80C6 | Lolin S2 Pico - CircuitPython
+0x80C7 | Lolin S2 Pico - UF2 Bootloader
