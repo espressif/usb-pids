@@ -202,3 +202,9 @@ PID    | Product name
 0x80C2 | Lolin S2 Mini - Arduino
 0x80C3 | Lolin S2 Mini - CircuitPython
 0x80C4 | Lolin S2 Mini - UF2 Bootloader
+0x80C5 | BrainBoardz Neuron - CircuitPython
+0x80C6 | BrainBoardz NeuronZ - CircuitPython
+0x80C7 | BrainBoardz Neuron - Arduino
+0x80C8 | BrainBoardz NeuronZ - Arduino
+0x80C9 | BrainBoardz Neuron - UF2 Bootloader
+0x80CA | BrainBoardz NeuronZ - UF2 Bootloader
