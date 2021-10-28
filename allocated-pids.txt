@@ -211,3 +211,4 @@ PID    | Product name
 0x80CB | BrainBoardz NeuronZ - Arduino
 0x80CC | BrainBoardz Neuron - UF2 Bootloader
 0x80CD | BrainBoardz NeuronZ - UF2 Bootloader
+0x80CE | Soul Injector Firmware Programmer - Configurator
