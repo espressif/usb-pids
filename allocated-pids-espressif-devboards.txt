@@ -11,3 +11,5 @@ PID    | Product name
 0x7003 | ESP32-S3-DevKitC-1-N8R2 - CircuitPython
 0x7004 | ESP32-S3-DevKitC-1-N8 - UF2 Bootloader
 0x7005 | ESP32-S3-DevKitC-1-N8 - CircuitPython
+0x7006 | ESP32-S3 Box - UF2 Bootloader
+0x7007 | ESP32-S3 Box - CircuitPython
