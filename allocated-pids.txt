@@ -213,3 +213,12 @@ PID    | Product name
 0x80CD | BrainBoardz NeuronZ - UF2 Bootloader
 0x80CE | Soul Injector Firmware Programmer - Configurator
 0x80CF | CM-Manu Alc-Test - USB MSD
+0x80D0 | Unexpected Maker TinyS3 - Arduino
+0x80D1 | Unexpected Maker TinyS3 - CircuitPython
+0x80D2 | Unexpected Maker TinyS3 - UF2 Bootloader
+0x80D3 | Unexpected Maker ProS3 - Arduino
+0x80D4 | Unexpected Maker ProS3 - CircuitPython
+0x80D5 | Unexpected Maker ProS3 - UF2 Bootloader
+0x80D6 | Unexpected Maker FeatherS3 - Arduino
+0x80D7 | Unexpected Maker FeatherS3 - CircuitPython
+0x80D8 | Unexpected Maker FeatherS3 - UF2 Bootloader
