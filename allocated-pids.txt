@@ -224,3 +224,6 @@ PID    | Product name
 0x80D8 | Unexpected Maker FeatherS3 - UF2 Bootloader
 0x80D9 | FutureKeys HexKy S2 - CircuitPython
 0x80DA | FutureKeys HexKy S2 - UF2 Bootloader
+0x80DB | CircuitArt FeatherS3 - Arduino
+0x80DC | CircuitArt FeatherS3 - UF2 Bootloader
+0x80DD | CircuitArt FeatherS3 - CircuitPython
