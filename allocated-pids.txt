@@ -227,3 +227,6 @@ PID    | Product name
 0x80DB | CircuitArt FeatherS3 - Arduino
 0x80DC | CircuitArt FeatherS3 - UF2 Bootloader
 0x80DD | CircuitArt FeatherS3 - CircuitPython
+0x80DE | Banana Pi Leaf-S3 - UF2 Bootloader
+0x80DF | Banana Pi Leaf-S3 - Arduino
+0x80E0 | Banana Pi Leaf-S3 - CircuitPython
