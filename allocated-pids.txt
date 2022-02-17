@@ -236,3 +236,5 @@ PID    | Product name
 0x80E4 | Banana Pi BPI:Bit v2 - UF2 Bootloader
 0x80E5 | Banana Pi BPI:Bit v2 - Arduino
 0x80E6 | Banana Pi BPI:Bit v2 - CircuitPython
+0x80E7 | Hiibot IoTS2 - UF2 Bootloader
+0x80E8 | Hiibot IoTS2 - CircuitPython
