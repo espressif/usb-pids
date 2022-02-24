@@ -238,3 +238,6 @@ PID    | Product name
 0x80E6 | Banana Pi BPI:Bit v2 - CircuitPython
 0x80E7 | Hiibot IoTS2 - UF2 Bootloader
 0x80E8 | Hiibot IoTS2 - CircuitPython
+0x80E9 | LILYGO TTGO T8 ESP32-S2-WROOM - Arduino
+0x80EA | LILYGO TTGO T8 ESP32-S2-WROOM - CircuitPython
+0x80EB | LILYGO TTGO T8 ESP32-S2-WROOM - UF2 Bootloader
