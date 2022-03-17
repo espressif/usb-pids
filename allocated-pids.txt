@@ -246,3 +246,5 @@ PID    | Product name
 0x80EE | LILYGO TTGO T8 ESP32-S2 noDisplay - UF2 Bootloader
 0x80EF | GoGo Board - UF2 Bootloader
 0x80F0 | GoGo Board - Arduino
+0x80F1 | Tevofy Technology LTD - Muro Box MIDI N20
+0x80F2 | Tevofy Technology LTD - Muro Box MIDI N40
