@@ -248,4 +248,5 @@ PID    | Product name
 0x80F0 | GoGo Board - Arduino
 0x80F1 | Tevofy Technology LTD - Muro Box MIDI N20
 0x80F2 | Tevofy Technology LTD - Muro Box MIDI N40
-0x80F3 | Werma Signaltechnik GmbH - eSIGN
+0x80F3 | WERMA Signaltechnik GmbH + Co. KG - eSIGN
+0x80F4 | WERMA Signaltechnik GmbH + Co. KG - eSIGN Bootloader
