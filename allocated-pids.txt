@@ -250,3 +250,4 @@ PID    | Product name
 0x80F2 | Tevofy Technology LTD - Muro Box MIDI N40
 0x80F3 | WERMA Signaltechnik GmbH + Co. KG - eSIGN
 0x80F4 | WERMA Signaltechnik GmbH + Co. KG - eSIGN Bootloader
+0x80F5 | Lolin C3 Mini - CircuitPython
