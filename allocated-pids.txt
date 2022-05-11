@@ -252,3 +252,4 @@ PID    | Product name
 0x80F4 | WERMA Signaltechnik GmbH + Co. KG - eSIGN Bootloader
 0x80F5 | Lolin C3 Mini - CircuitPython
 0x80F6 | Unexpected Maker - Reflow Master Pro
+0x80F7 | Siemens - ECS
