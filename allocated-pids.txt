@@ -256,3 +256,6 @@ PID    | Product name
 0x80F8 | Cytron Maker Feather AIoT S3 - Arduino
 0x80F9 | Cytron Maker Feather AIoT S3 - CircuitPython
 0x80FA | Cytron Maker Feather AIoT S3 - UF2 Bootloader
+0x80FB | MixGo CE - Arduino
+0x80FC | MixGo CE - CircuitPython
+0x80FD | MixGo CE - UF2 Bootloader
