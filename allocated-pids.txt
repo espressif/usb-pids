@@ -259,3 +259,4 @@ PID    | Product name
 0x80FB | MixGo CE - Arduino
 0x80FC | MixGo CE - CircuitPython
 0x80FD | MixGo CE - UF2 Bootloader
+0x80FE | PerpetCal Smart Calendar - Configurator
