@@ -263,3 +263,6 @@ PID    | Product name
 0x80FF | MiniMain ESP32-S2 - Arduino
 0x8100 | MiniMain ESP32-S2 - CircuitPython
 0x8101 | MiniMain ESP32-S2 - UF2 Bootloader
+0x8102 | IoT-PostBox v1 - Arduino
+0x8103 | IoT-PostBox v1 - CircuitPython
+0x8104 | IoT-PostBox v1 - UF2 Bootloader
