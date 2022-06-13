@@ -266,3 +266,7 @@ PID    | Product name
 0x8102 | IoT-PostBox v1 - Arduino
 0x8103 | IoT-PostBox v1 - CircuitPython
 0x8104 | IoT-PostBox v1 - UF2 Bootloader
+0x8105 | MuseLab ESP32-S2 ESPLink - esp-usb-bridge
+0x8106 | MuseLab ESP32-S2 ESPLink - Arduino
+0x8107 | MuseLab ESP32-S2 ESPLink - CircuitPython
+0x8108 | MuseLab ESP32-S2 ESPLink - UF2 Bootloader
