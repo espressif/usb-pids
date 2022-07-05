@@ -17,3 +17,5 @@ PID    | Product name
 0x7009 | ESP32-S2-DevKitC-1 - CircuitPython
 0x700A | ESP32-S3-USB-OTG - UF2 Bootloader
 0x700B | ESP32-S3-USB-OTG - CircuitPython
+0x700C | ESP32-S3 Box Lite - UF2 Bootloader
+0x700D | ESP32-S3 Box Lite - CircuitPython
