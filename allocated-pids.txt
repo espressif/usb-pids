@@ -274,14 +274,14 @@ PID    | Product name
 0x810a | Waveshare ESP32-S2-Pico - CircuitPython
 0x810B | Waveshare ESP32-S2-Pico-LCD - UF2 Bootloader
 0x810C | Waveshare ESP32-S2-Pico-LCD - CircuitPython
-0x8101 | Smart Bee Designs Bee Motion - Arduino
-0x8102 | Smart Bee Designs Bee Motion - CircuitPython
-0x8103 | Smart Bee Designs Bee Motion - UF2 Bootloader
-0x8104 | Smart Bee Designs Bee S3 - Arduino
-0x8105 | Smart Bee Designs Bee S3 - CircuitPython
-0x8106 | Smart Bee Designs Bee S3 - UF2 Bootloader
-0x8107 | Smart Bee Designs Bee Motion S3 - Arduino
-0x8108 | Smart Bee Designs Bee Motion S3 - CircuitPython
-0x8109 | Smart Bee Designs Bee Motion S3 - UF2 Bootloader
+0x810D | Smart Bee Designs Bee Motion - Arduino
+0x810E | Smart Bee Designs Bee Motion - CircuitPython
+0x810F | Smart Bee Designs Bee Motion - UF2 Bootloader
+0x8110 | Smart Bee Designs Bee S3 - Arduino
+0x8111 | Smart Bee Designs Bee S3 - CircuitPython
+0x8112 | Smart Bee Designs Bee S3 - UF2 Bootloader
+0x8113 | Smart Bee Designs Bee Motion S3 - Arduino
+0x8114 | Smart Bee Designs Bee Motion S3 - CircuitPython
+0x8115 | Smart Bee Designs Bee Motion S3 - UF2 Bootloader
 
 
