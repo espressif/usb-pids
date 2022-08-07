@@ -238,3 +238,6 @@ PID    | Product name
 0x80E6 | Banana Pi BPI:Bit v2 - CircuitPython
 0x80E7 | Hiibot IoTS2 - UF2 Bootloader
 0x80E8 | Hiibot IoTS2 - CircuitPython
+0x80E9 | Lolin S3 - Arduino
+0x80EA | Lolin S3 - CircuitPython
+0x80EB | Lolin S3 - UF2 Bootloader
