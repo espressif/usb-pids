@@ -283,5 +283,7 @@ PID    | Product name
 0x8113 | Smart Bee Designs Bee Motion S3 - Arduino
 0x8114 | Smart Bee Designs Bee Motion S3 - CircuitPython
 0x8115 | Smart Bee Designs Bee Motion S3 - UF2 Bootloader
-
+0x8116 | Lolin S3 - Arduino
+0x8117 | Lolin S3 - CircuitPython
+0x8118 | Lolin S3 - UF2 Bootloader
 
