@@ -287,3 +287,9 @@ PID    | Product name
 0x8117 | Lolin S3 - CircuitPython
 0x8118 | Lolin S3 - UF2 Bootloader
 
+... reseved by imliubo for M5STACK boards
+
+0x8122 | Intech Studio Grid - UF2 Bootloader
+0x8123 | Intech Studio Grid - Production Firmware
+0x8124 | Intech Studio Knot - UF2 Bootloader
+0x8125 | Intech Studio Knot - Production Firmware
