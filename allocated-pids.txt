@@ -295,3 +295,7 @@ PID    | Product name
 0x811F | M5STACK AtomS3 - Arduino
 0x8120 | M5STACK AtomS3 - CircuitPython
 0x8121 | M5STACK AtomS3 - UF2 Bootloader
+0x8122 | Intech Studio Grid - UF2 Bootloader
+0x8123 | Intech Studio Grid - Production Firmware
+0x8124 | Intech Studio Knot - UF2 Bootloader
+0x8125 | Intech Studio Knot - Production Firmware
