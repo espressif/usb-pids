@@ -302,4 +302,5 @@ PID    | Product name
 0x8126 | RobotClass Graphite S2 - Arduino
 0x8127 | RobotClass Graphite S2 - CircuitPython
 0x8128 | RobotClass Graphite S2 - UF2 Bootloader
-
+0x8129 | RIKA FireNet 2.0 USB-WiFi Stick - Bootloader
+0x8130 | RIKA FireNet 2.0 USB-WiFi Stick - Production Firmware
