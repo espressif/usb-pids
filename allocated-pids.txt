@@ -299,3 +299,7 @@ PID    | Product name
 0x8123 | Intech Studio Grid - Production Firmware
 0x8124 | Intech Studio Knot - UF2 Bootloader
 0x8125 | Intech Studio Knot - Production Firmware
+0x8126 | RobotClass Graphite S2 - Arduino
+0x8127 | RobotClass Graphite S2 - CircuitPython
+0x8128 | RobotClass Graphite S2 - UF2 Bootloader
+
