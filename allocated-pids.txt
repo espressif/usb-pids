@@ -304,3 +304,6 @@ PID    | Product name
 0x8128 | RobotClass Graphite S2 - UF2 Bootloader
 0x8129 | RIKA FireNet 2.0 USB-WiFi Stick - Bootloader
 0x812A | RIKA FireNet 2.0 USB-WiFi Stick - Production Firmware
+0x812B | Banana Pi BPI-PicoW-S3 - Arduino
+0x812C | Banana Pi BPI-PicoW-S3 - CircuitPython
+0x812D | Banana Pi BPI-PicoW-S3 - UF2 Bootloader
