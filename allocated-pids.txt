@@ -307,3 +307,5 @@ PID    | Product name
 0x812B | Banana Pi BPI-PicoW-S3 - Arduino
 0x812C | Banana Pi BPI-PicoW-S3 - CircuitPython
 0x812D | Banana Pi BPI-PicoW-S3 - UF2 Bootloader
+0x812E | CharaChorder Lite-S2
+0x812F | CharaChorder Lite-S2 UF2 Bootloader
