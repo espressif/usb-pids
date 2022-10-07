@@ -310,4 +310,4 @@ PID    | Product name
 0x812E | CharaChorder Lite-S2
 0x812F | CharaChorder Lite-S2 UF2 Bootloader
 0x8130 | Refract AXIS
-0x8131 | Sensory Bridge - Arduino
+0x8135 | Sensory Bridge - Arduino
