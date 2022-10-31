@@ -315,3 +315,7 @@ PID    | Product name
 0x8133 | SoftRF Prime Edition Mk3
 0x8134 | SoftRF Prime Edition Mk3 - UF2 Bootloader
 0x8135 | Sensory Bridge - Arduino
+0x8136 | Matatalab Universal Robot S3
+0x8137 | Matatalab VinciBot S3
+0x8138 | Matatalab TaleBot S3
+0x8139 | Matatalab MatataBot S3
