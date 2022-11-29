@@ -319,3 +319,6 @@ PID    | Product name
 0x8137 | Matatalab VinciBot S3
 0x8138 | Matatalab TaleBot S3
 0x8139 | Matatalab MatataBot S3
+0x813A | LILYGO T-Display-S3 - Arduino
+0x813B | LILYGO T-Display-S3 - CircuitPython
+0x813C | LILYGO T-Display-S3 - UF2 Bootloader
