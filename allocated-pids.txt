@@ -323,3 +323,6 @@ PID    | Product name
 0x813B | Flash64 UF2 Bootloader
 0x813C | Flash64 Lite
 0x813D | Flash64 Deluxe
+0x813E | LILYGO T-Display-S3 - Arduino
+0x813F | LILYGO T-Display-S3 - CircuitPython
+0x8140 | LILYGO T-Display-S3 - UF2 Bootloader
