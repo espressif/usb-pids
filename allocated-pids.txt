@@ -319,3 +319,7 @@ PID    | Product name
 0x8137 | Matatalab VinciBot S3
 0x8138 | Matatalab TaleBot S3
 0x8139 | Matatalab MatataBot S3
+0x813A | Flash64 Ultra
+0x813B | Flash64 UF2 Bootloader
+0x813C | Flash64 Lite
+0x813D | Flash64 Deluxe
