@@ -326,3 +326,15 @@ PID    | Product name
 0x813E | LILYGO T-Display-S3 - Arduino
 0x813F | LILYGO T-Display-S3 - CircuitPython
 0x8140 | LILYGO T-Display-S3 - UF2 Bootloader
+0x8141 | Deneyap Mini - Arduino
+0x8142 | Deneyap Mini - CircuitPython
+0x8143 | Deneyap Mini - UF2 Bootloader
+0x8144 | Deneyap Mini v2 - Arduino
+0x8145 | Deneyap Mini v2 - CircuitPython
+0x8146 | Deneyap Mini v2 - UF2 Bootloader
+0x8147 | Deneyap Kart 1A v2 - Arduino
+0x8148 | Deneyap Kart 1A v2 - CircuitPython
+0x8149 | Deneyap Kart 1A v2 - UF2 Bootloader
+0x814A | Deneyap Kart G - Arduino
+0x814B | Deneyap Kart G - CircuitPython
+0x814C | Deneyap Kart G - UF2 Bootloader
