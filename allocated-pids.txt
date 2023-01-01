@@ -338,3 +338,11 @@ PID    | Product name
 0x814A | Deneyap Kart G - Arduino
 0x814B | Deneyap Kart G - CircuitPython
 0x814C | Deneyap Kart G - UF2 Bootloader
+0x814D | xProject AI Interface - Arduino
+0x814E | xProject AI Interface - CircuitPython
+0x814F | xProject AI Interface - UF2 Bootloader
+0x8150 | xProject Adapter Interface Pro
+0x8151 | xProject Adapter Interface Lite
+
+
+
