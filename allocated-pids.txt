@@ -338,3 +338,5 @@ PID    | Product name
 0x814A | Deneyap Kart G - Arduino
 0x814B | Deneyap Kart G - CircuitPython
 0x814C | Deneyap Kart G - UF2 Bootloader
+0x814D | Valetron Systems VALTRACK-V4-VTS-ESP32-C3
+0x814E | Valetron Systems VALTRACK-V4-MFW-ESP32-C3
