@@ -338,3 +338,4 @@ PID    | Product name
 0x814A | Deneyap Kart G - Arduino
 0x814B | Deneyap Kart G - CircuitPython
 0x814C | Deneyap Kart G - UF2 Bootloader
+0x814D | Crabik Slot ESP32-S3 - Arduino or CircuitPython
