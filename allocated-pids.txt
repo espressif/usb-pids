@@ -341,3 +341,6 @@ PID    | Product name
 0x814D | Crabik Slot ESP32-S3 - Arduino or CircuitPython
 0x814E | Chroma.tech Canopy
 0x814F | Chroma.tech Canopy - MicroPython
+0x8150 | LILYGO T-Embed-S3 - Arduino
+0x8151 | LILYGO T-Embed-S3 - CircuitPython
+0x8152 | LILYGO T-Embed-S3 - UF2 Bootloader
