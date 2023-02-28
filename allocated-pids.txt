@@ -344,3 +344,6 @@ PID    | Product name
 0x8150 | LILYGO T-Embed-S3 - Arduino
 0x8151 | LILYGO T-Embed-S3 - CircuitPython
 0x8152 | LILYGO T-Embed-S3 - UF2 Bootloader
+0x8153 | LILYGO T-QT - Arduino
+0x8154 | LILYGO T-QT - CircuitPython
+0x8155 | LILYGO T-QT - UF2 Bootloader
