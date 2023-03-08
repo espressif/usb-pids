@@ -348,3 +348,5 @@ PID    | Product name
 0x8154 | LILYGO T-QT - CircuitPython
 0x8155 | LILYGO T-QT - UF2 Bootloader
 0x8156 | CableMate
+0x8157 | MD-PLUG Type C
+0x8158 | MD-PLUG Type A
