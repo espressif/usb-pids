@@ -347,3 +347,4 @@ PID    | Product name
 0x8153 | LILYGO T-QT - Arduino
 0x8154 | LILYGO T-QT - CircuitPython
 0x8155 | LILYGO T-QT - UF2 Bootloader
+0x8156 | GMDSOFT MD-PLUG - ESP32-S3
