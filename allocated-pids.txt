@@ -347,4 +347,5 @@ PID    | Product name
 0x8153 | LILYGO T-QT - Arduino
 0x8154 | LILYGO T-QT - CircuitPython
 0x8155 | LILYGO T-QT - UF2 Bootloader
-0x8156 | CableMate
+0x8156 | MD-PLUG Type C - ESP32-S3
+0x8157 | MD-PLUG Type A - ESP32-S3
