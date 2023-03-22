@@ -350,3 +350,5 @@ PID    | Product name
 0x8156 | CableMate
 0x8157 | MD-PLUG Type C
 0x8158 | MD-PLUG Type A
+0x8159 | Shrooly SH01 - UF2 Bootloader
+0x815A | Shrooly SH01 - Production Firmware 
