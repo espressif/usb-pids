@@ -352,3 +352,4 @@ PID    | Product name
 0x8158 | MD-PLUG Type A
 0x8159 | Shrooly SH01 - UF2 Bootloader
 0x815A | Shrooly SH01 - Production Firmware 
+0x815B | MicroStorm CORE_S3 - ProjectSource
