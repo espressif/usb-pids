@@ -358,3 +358,6 @@ PID    | Product name
 0x815E | Smart Bee Designs Bee Data Logger - UF2 Bootloader
 0x815F | M5STACK AtomS3 Lite - CircuitPython
 0x8160 | M5STACK AtomS3 Lite - UF2 Bootloader
+0x8161 | LOLIN S3 Pro - Arduino
+0x8162 | LOLIN S3 Pro - CircuitPython
+0x8163 | LOLIN S3 Pro - UF2 Bootloader
