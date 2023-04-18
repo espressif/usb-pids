@@ -364,3 +364,6 @@ PID    | Product name
 0x8164 | YD-ESP32-S3 - Arduino
 0x8165 | YD-ESP32-S3 - UF2 Bootloader
 0x8166 | YD-ESP32-S3 - CircuitPython
+0x8167 | LOLIN S3 Mini - Arduino
+0x8168 | LOLIN S3 Mini - CircuitPython
+0x8169 | LOLIN S3 Mini - UF2 Bootloader
