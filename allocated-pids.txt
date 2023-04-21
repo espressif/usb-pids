@@ -367,3 +367,9 @@ PID    | Product name
 0x8167 | LOLIN S3 Mini - Arduino
 0x8168 | LOLIN S3 Mini - CircuitPython
 0x8169 | LOLIN S3 Mini - UF2 Bootloader
+0x816A | M5STACK StampS3 - Arduino
+0x816B | M5STACK StampS3 - CircuitPython
+0x816C | M5STACK StampS3 - UF2 Bootloader
+0x816D | M5STACK TimerCamS3 - Arduino
+0x816E | M5STACK TimerCamS3 - CircuitPython
+0x816F | M5STACK TimerCamS3 - UF2 Bootloader
