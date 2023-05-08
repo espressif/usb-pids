@@ -374,3 +374,7 @@ PID    | Product name
 0x816E | M5STACK TimerCamS3 - CircuitPython
 0x816F | M5STACK TimerCamS3 - UF2 Bootloader
 0x8170 | CaniotBox - Production Firmware
+0x8171 | Talk All Sport - Base Station
+0x8172 | Talk All Sport - Hand Controller
+0x8173 | Talk All Sport - Speech Unit
+0x8174 | Talk All Sport - Arm Remote
