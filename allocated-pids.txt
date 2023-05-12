@@ -374,3 +374,7 @@ PID    | Product name
 0x816E | M5STACK TimerCamS3 - CircuitPython
 0x816F | M5STACK TimerCamS3 - UF2 Bootloader
 0x8170 | CaniotBox - Production Firmware
+0x8171 | 01Space ESP32-S3-0.42OLED - Arduino
+0x8172 | 01Space ESP32-S3-0.42OLED - CircuitPython
+0x8173 | 01Space ESP32-S3-0.42OLED - MicroPython 
+0x8174 | 01Space ESP32-S3-0.42OLED - UF2 Bootloader
