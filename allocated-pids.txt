@@ -378,7 +378,7 @@ PID    | Product name
 0x8172 | 01Space ESP32-S3-0.42OLED - CircuitPython
 0x8173 | 01Space ESP32-S3-0.42OLED - MicroPython 
 0x8174 | 01Space ESP32-S3-0.42OLED - UF2 Bootloader
-0x8175| Talk All Sport - Base Station
-0x8176| Talk All Sport - Hand Controller
-0x8177| Talk All Sport - Speech Unit
-0x8178| Talk All Sport - Arm Remote
+0x8175 | Talk All Sport - Base Station
+0x8176 | Talk All Sport - Hand Controller
+0x8177 | Talk All Sport - Speech Unit
+0x8178 | Talk All Sport - Arm Remote
