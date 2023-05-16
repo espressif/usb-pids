@@ -382,3 +382,12 @@ PID    | Product name
 0x8176 | Talk All Sport - Hand Controller
 0x8177 | Talk All Sport - Speech Unit
 0x8178 | Talk All Sport - Arm Remote
+088179 | Unexpected Maker NanoS3 - Arduino
+0x817A | Unexpected Maker NanoS3 - CircuitPython
+0x817B | Unexpected Maker NanoS3 - UF2 Bootloader
+08817C | Unexpected Maker BlizzardS3 - Arduino
+0x817D | Unexpected Maker BlizzardS3 - CircuitPython
+0x817E | Unexpected Maker BlizzardS3 - UF2 Bootloader
+08817F | Unexpected Maker Bling - Arduino
+0x8180 | Unexpected Maker Bling - CircuitPython
+0x8181 | Unexpected Maker Bling - UF2 Bootloader
