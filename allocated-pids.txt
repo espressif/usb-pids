@@ -391,3 +391,6 @@ PID    | Product name
 08817F | Unexpected Maker Bling - Arduino
 0x8180 | Unexpected Maker Bling - CircuitPython
 0x8181 | Unexpected Maker Bling - UF2 Bootloader
+0x8182 | Banana Pi BPI-Centi-S3 - Arduino
+0x8183 | Banana Pi BPI-Centi-S3 - CircuitPython
+0x8184 | Banana Pi BPI-Centi-S3 - UF2 Bootloader
