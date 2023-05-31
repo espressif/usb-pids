@@ -287,13 +287,13 @@ PID    | Product name
 0x8117 | Lolin S3 - CircuitPython
 0x8118 | Lolin S3 - UF2 Bootloader
 0x8119 | M5STACK CoreS3 - Arduino
-0x811A | M5STACK CoreS3 - CircuitPython
+0x811A | M5STACK CoreS3 - CircuitPython/Micropython
 0x811B | M5STACK CoreS3 - UF2 Bootloader
 0x811C | M5STACK StickS3 - Arduino
-0x811D | M5STACK StickS3 - CircuitPython
+0x811D | M5STACK StickS3 - CircuitPython/Micropython
 0x811E | M5STACK StickS3 - UF2 Bootloader
 0x811F | M5STACK AtomS3 - Arduino
-0x8120 | M5STACK AtomS3 - CircuitPython
+0x8120 | M5STACK AtomS3 - CircuitPython/Micropython
 0x8121 | M5STACK AtomS3 - UF2 Bootloader
 0x8122 | Intech Studio Grid - UF2 Bootloader
 0x8123 | Intech Studio Grid - Production Firmware
@@ -356,7 +356,7 @@ PID    | Product name
 0x815C | Smart Bee Designs Bee Data Logger - Arduino
 0x815D | Smart Bee Designs Bee Data Logger - CircuitPython
 0x815E | Smart Bee Designs Bee Data Logger - UF2 Bootloader
-0x815F | M5STACK AtomS3 Lite - CircuitPython
+0x815F | M5STACK AtomS3 Lite - CircuitPython/Micropython
 0x8160 | M5STACK AtomS3 Lite - UF2 Bootloader
 0x8161 | LOLIN S3 Pro - Arduino
 0x8162 | LOLIN S3 Pro - CircuitPython
@@ -368,10 +368,10 @@ PID    | Product name
 0x8168 | LOLIN S3 Mini - CircuitPython
 0x8169 | LOLIN S3 Mini - UF2 Bootloader
 0x816A | M5STACK StampS3 - Arduino
-0x816B | M5STACK StampS3 - CircuitPython
+0x816B | M5STACK StampS3 - CircuitPython/Micropython
 0x816C | M5STACK StampS3 - UF2 Bootloader
 0x816D | M5STACK TimerCamS3 - Arduino
-0x816E | M5STACK TimerCamS3 - CircuitPython
+0x816E | M5STACK TimerCamS3 - CircuitPython/Micropython
 0x816F | M5STACK TimerCamS3 - UF2 Bootloader
 0x8170 | CaniotBox - Production Firmware
 0x8171 | 01Space ESP32-S3-0.42OLED - Arduino
@@ -394,3 +394,7 @@ PID    | Product name
 0x8182 | Banana Pi BPI-Centi-S3 - Arduino
 0x8183 | Banana Pi BPI-Centi-S3 - CircuitPython
 0x8184 | Banana Pi BPI-Centi-S3 - UF2 Bootloader
+0x8185 | M5STACK AtomS3 Lite - Arduino
+0x8186 | M5STACK ATOMS3U - Arduino
+0x8187 | M5STACK ATOMS3U - CircuitPython/Micropython
+0x8188 | M5STACK ATOMS3U - UF2 Bootloader
