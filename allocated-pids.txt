@@ -287,13 +287,13 @@ PID    | Product name
 0x8117 | Lolin S3 - CircuitPython
 0x8118 | Lolin S3 - UF2 Bootloader
 0x8119 | M5STACK CoreS3 - Arduino
-0x811A | M5STACK CoreS3 - CircuitPython
+0x811A | M5STACK CoreS3 - CircuitPython/Micropython
 0x811B | M5STACK CoreS3 - UF2 Bootloader
 0x811C | M5STACK StickS3 - Arduino
-0x811D | M5STACK StickS3 - CircuitPython
+0x811D | M5STACK StickS3 - CircuitPython/Micropython
 0x811E | M5STACK StickS3 - UF2 Bootloader
 0x811F | M5STACK AtomS3 - Arduino
-0x8120 | M5STACK AtomS3 - CircuitPython
+0x8120 | M5STACK AtomS3 - CircuitPython/Micropython
 0x8121 | M5STACK AtomS3 - UF2 Bootloader
 0x8122 | Intech Studio Grid - UF2 Bootloader
 0x8123 | Intech Studio Grid - Production Firmware
@@ -309,3 +309,98 @@ PID    | Product name
 0x812D | Banana Pi BPI-PicoW-S3 - UF2 Bootloader
 0x812E | CharaChorder Lite-S2
 0x812F | CharaChorder Lite-S2 UF2 Bootloader
+0x8130 | Refract AXIS
+0x8131 | SoftRF WebTop USB S2
+0x8132 | SoftRF Standalone Edition S3
+0x8133 | SoftRF Prime Edition Mk3
+0x8134 | SoftRF Prime Edition Mk3 - UF2 Bootloader
+0x8135 | Sensory Bridge - Arduino
+0x8136 | Matatalab Universal Robot S3
+0x8137 | Matatalab VinciBot S3
+0x8138 | Matatalab TaleBot S3
+0x8139 | Matatalab MatataBot S3
+0x813A | Flash64 Ultra
+0x813B | Flash64 UF2 Bootloader
+0x813C | Flash64 Lite
+0x813D | Flash64 Deluxe
+0x813E | LILYGO T-Display-S3 - Arduino
+0x813F | LILYGO T-Display-S3 - CircuitPython
+0x8140 | LILYGO T-Display-S3 - UF2 Bootloader
+0x8141 | Deneyap Mini - Arduino
+0x8142 | Deneyap Mini - CircuitPython
+0x8143 | Deneyap Mini - UF2 Bootloader
+0x8144 | Deneyap Mini v2 - Arduino
+0x8145 | Deneyap Mini v2 - CircuitPython
+0x8146 | Deneyap Mini v2 - UF2 Bootloader
+0x8147 | Deneyap Kart 1A v2 - Arduino
+0x8148 | Deneyap Kart 1A v2 - CircuitPython
+0x8149 | Deneyap Kart 1A v2 - UF2 Bootloader
+0x814A | Deneyap Kart G - Arduino
+0x814B | Deneyap Kart G - CircuitPython
+0x814C | Deneyap Kart G - UF2 Bootloader
+0x814D | Crabik Slot ESP32-S3 - Arduino or CircuitPython
+0x814E | Chroma.tech Canopy
+0x814F | Chroma.tech Canopy - MicroPython
+0x8150 | LILYGO T-Embed-S3 - Arduino
+0x8151 | LILYGO T-Embed-S3 - CircuitPython
+0x8152 | LILYGO T-Embed-S3 - UF2 Bootloader
+0x8153 | LILYGO T-QT - Arduino
+0x8154 | LILYGO T-QT - CircuitPython
+0x8155 | LILYGO T-QT - UF2 Bootloader
+0x8156 | CableMate
+0x8157 | MD-PLUG Type C
+0x8158 | MD-PLUG Type A
+0x8159 | Shrooly SH01 - UF2 Bootloader
+0x815A | Shrooly SH01 - Production Firmware 
+0x815B | MicroStorm CORE_S3 - ProjectSource
+0x815C | Smart Bee Designs Bee Data Logger - Arduino
+0x815D | Smart Bee Designs Bee Data Logger - CircuitPython
+0x815E | Smart Bee Designs Bee Data Logger - UF2 Bootloader
+0x815F | M5STACK AtomS3 Lite - CircuitPython/Micropython
+0x8160 | M5STACK AtomS3 Lite - UF2 Bootloader
+0x8161 | LOLIN S3 Pro - Arduino
+0x8162 | LOLIN S3 Pro - CircuitPython
+0x8163 | LOLIN S3 Pro - UF2 Bootloader
+0x8164 | YD-ESP32-S3 - Arduino
+0x8165 | YD-ESP32-S3 - UF2 Bootloader
+0x8166 | YD-ESP32-S3 - CircuitPython
+0x8167 | LOLIN S3 Mini - Arduino
+0x8168 | LOLIN S3 Mini - CircuitPython
+0x8169 | LOLIN S3 Mini - UF2 Bootloader
+0x816A | M5STACK StampS3 - Arduino
+0x816B | M5STACK StampS3 - CircuitPython/Micropython
+0x816C | M5STACK StampS3 - UF2 Bootloader
+0x816D | M5STACK TimerCamS3 - Arduino
+0x816E | M5STACK TimerCamS3 - CircuitPython/Micropython
+0x816F | M5STACK TimerCamS3 - UF2 Bootloader
+0x8170 | CaniotBox - Production Firmware
+0x8171 | 01Space ESP32-S3-0.42OLED - Arduino
+0x8172 | 01Space ESP32-S3-0.42OLED - CircuitPython
+0x8173 | 01Space ESP32-S3-0.42OLED - MicroPython 
+0x8174 | 01Space ESP32-S3-0.42OLED - UF2 Bootloader
+0x8175 | Talk All Sport - Base Station
+0x8176 | Talk All Sport - Hand Controller
+0x8177 | Talk All Sport - Speech Unit
+0x8178 | Talk All Sport - Arm Remote
+088179 | Unexpected Maker NanoS3 - Arduino
+0x817A | Unexpected Maker NanoS3 - CircuitPython
+0x817B | Unexpected Maker NanoS3 - UF2 Bootloader
+08817C | Unexpected Maker BlizzardS3 - Arduino
+0x817D | Unexpected Maker BlizzardS3 - CircuitPython
+0x817E | Unexpected Maker BlizzardS3 - UF2 Bootloader
+08817F | Unexpected Maker Bling - Arduino
+0x8180 | Unexpected Maker Bling - CircuitPython
+0x8181 | Unexpected Maker Bling - UF2 Bootloader
+0x8182 | Banana Pi BPI-Centi-S3 - Arduino
+0x8183 | Banana Pi BPI-Centi-S3 - CircuitPython
+0x8184 | Banana Pi BPI-Centi-S3 - UF2 Bootloader
+0x8185 | M5STACK AtomS3 Lite - Arduino
+0x8186 | M5STACK ATOMS3U - Arduino
+0x8187 | M5STACK ATOMS3U - CircuitPython/Micropython
+0x8188 | M5STACK ATOMS3U - UF2 Bootloader
+0x8189 | CharaChorder Engine S2
+0x818A | CharaChorder Engine S2 - UF2 Bootloader
+0x818B | CharaChorder X S2
+0x818C | CharaChorder X S2 - UF2 Bootloader
+0x818D | CharaChorder X S2 Host
+0x818E | CharaChorder X S2 Host - UF2 Bootloader

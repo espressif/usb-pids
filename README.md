@@ -2,10 +2,11 @@
 
 ## What is this?
 
-This is a repository for customer-allocated PIDs under the Espressif VID (0x303A). As getting your own
-USB Vendor ID (VID) can be expensive for an individual or a company only making small runs of products, 
-for customers using Espressif chips with USB functionality, we offer the option of using a PID 
-allocated under the Espressif VID.
+This is a repository for customer-allocated PIDs under the Espressif VID (0x303A). Getting your
+own USB Vendor ID (VID) can be expensive for an individual or a company only making small runs
+of products. As such we offer the option of using a PID allocated under the Espressif VID.
+You can use this service if your device contains an Espressif chip with a USB interface and
+the requested PID is used for that interface.
 
 ## When do I need this?
 
