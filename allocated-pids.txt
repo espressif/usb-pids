@@ -398,3 +398,9 @@ PID    | Product name
 0x8186 | M5STACK ATOMS3U - Arduino
 0x8187 | M5STACK ATOMS3U - CircuitPython/Micropython
 0x8188 | M5STACK ATOMS3U - UF2 Bootloader
+0x8189 | CharaChorder Engine S2
+0x818A | CharaChorder Engine S2 - UF2 Bootloader
+0x818B | CharaChorder X S2
+0x818C | CharaChorder X S2 - UF2 Bootloader
+0x818D | CharaChorder X S2 Host
+0x818E | CharaChorder X S2 Host - UF2 Bootloader
