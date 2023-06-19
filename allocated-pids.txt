@@ -404,3 +404,6 @@ PID    | Product name
 0x818C | CharaChorder X S2 - UF2 Bootloader
 0x818D | CharaChorder X S2 Host
 0x818E | CharaChorder X S2 Host - UF2 Bootloader
+0x818F | LilyGO T-TWR Plus S3 - Arduino
+0x8190 | LilyGO T-TWR Plus S3 - CircuitPython/Micropython
+0x8191 | LilyGO T-TWR Plus S3 - UF2 Bootloader
