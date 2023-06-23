@@ -407,3 +407,4 @@ PID    | Product name
 0x818F | LilyGO T-TWR Plus S3 - Arduino
 0x8190 | LilyGO T-TWR Plus S3 - CircuitPython/Micropython
 0x8191 | LilyGO T-TWR Plus S3 - UF2 Bootloader
+0x8192 | Lunii FLAM
