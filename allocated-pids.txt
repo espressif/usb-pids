@@ -419,3 +419,4 @@ PID    | Product name
 0x819B | uPesy ESP32C3 Mini - Arduino
 0x819C | uPesy ESP32C3 Mini - CircuitPython
 0x819D | uPesy ESP32C3 Mini - UF2 Bootloader
+0x819E | Lunii FLAM
