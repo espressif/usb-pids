@@ -407,4 +407,16 @@ PID    | Product name
 0x818F | LilyGO T-TWR Plus S3 - Arduino
 0x8190 | LilyGO T-TWR Plus S3 - CircuitPython/Micropython
 0x8191 | LilyGO T-TWR Plus S3 - UF2 Bootloader
-0x8192 | Lunii FLAM
+0x8192 | uPesy ESP32S3 Devkit - Arduino
+0x8193 | uPesy ESP32S3 Devkit - CircuitPython
+0x8194 | uPesy ESP32S3 Devkit - UF2 Bootloader
+0x8195 | uPesy ESP32C3 Basic - Arduino
+0x8196 | uPesy ESP32C3 Basic - CircuitPython
+0x8197 | uPesy ESP32C3 Basic - UF2 Bootloader
+0x8198 | uPesy ESP32C3 Pro - Arduino
+0x8199 | uPesy ESP32C3 Pro - CircuitPython
+0x819A | uPesy ESP32C3 Pro - UF2 Bootloader
+0x819B | uPesy ESP32C3 Mini - Arduino
+0x819C | uPesy ESP32C3 Mini - CircuitPython
+0x819D | uPesy ESP32C3 Mini - UF2 Bootloader
+0x819E | Lunii FLAM
