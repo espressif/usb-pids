@@ -423,3 +423,5 @@ PID    | Product name
 0x819F | LAEPI safe.EAR - Arduino
 0x81A0 | SoftRF Midi Edition S3
 0x81A1 | SoftRF Midi Edition S3 - UF2 Bootloader
+0x81A2 | Waveshare ESP32-S3-Pico - UF2 Bootloader
+0x81A3 | Waveshare ESP32-S3-Pico - CircuitPython
