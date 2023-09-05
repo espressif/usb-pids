@@ -425,3 +425,9 @@ PID    | Product name
 0x81A1 | SoftRF Midi Edition S3 - UF2 Bootloader
 0x81A2 | Waveshare ESP32-S3-Pico - UF2 Bootloader
 0x81A3 | Waveshare ESP32-S3-Pico - CircuitPython
+0x81A4 | Kailani Reverb - VTR Effects
+0x81A5 | Narciso Delay - VTR Effects
+0x81A6 | Helios Overdrive - VTR Effects
+0x81A7 | Venator Distortion - VTR Effects
+0x81A8 | Loki Modulation - VTR Effects
+
