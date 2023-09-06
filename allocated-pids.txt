@@ -430,4 +430,8 @@ PID    | Product name
 0x81A6 | Helios Overdrive - VTR Effects
 0x81A7 | Venator Distortion - VTR Effects
 0x81A8 | Loki Modulation - VTR Effects
+0x81A9 | MagiClick S3 - Arduino
+0x81AA | MagiClick S3 - CircuitPython
+0x81AB | MagiClick S3 - MicroPython 
+0x81AC | MagiClick S3 - UF2 Bootloader
 
