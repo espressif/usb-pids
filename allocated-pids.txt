@@ -437,4 +437,6 @@ PID    | Product name
 0x81AD | Creekside S3 - Buzzer Receiver
 0x81AE | Creekside S3 - Buzzer
 0x81AF | Creekside S3 - Buzzer Tool
-
+0881B0 | Unexpected Maker TinyWATCH-S3 - Arduino
+0x81B1 | Unexpected Maker TinyWATCH-S3 - CircuitPython
+0x81B2 | Unexpected Maker TinyWATCH-S3 - UF2 Bootloader
