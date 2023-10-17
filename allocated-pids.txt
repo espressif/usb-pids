@@ -440,3 +440,4 @@ PID    | Product name
 0881B0 | Unexpected Maker TinyWATCH-S3 - Arduino
 0x81B1 | Unexpected Maker TinyWATCH-S3 - CircuitPython
 0x81B2 | Unexpected Maker TinyWATCH-S3 - UF2 Bootloader
+0x81B3 | Prokyber Esp32-C6-Bug - CircuitPython
