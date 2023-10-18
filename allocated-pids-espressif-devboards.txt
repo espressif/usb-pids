@@ -4,7 +4,7 @@ a PID, please request it by adding the PID to the end of this file. When adding 
 sure to add it at the bottom of the list and use the next (hexadecimal) PID number so the list
 stays sequential.
 
-PID    | Product name
+PID x   | Product name
 0x7000 | ESP32-S2-HMI-DevKit-1 - UF2 Bootloader
 0x7001 | ESP32-S2-HMI-DevKit-1 - CircuitPython
 0x7002 | ESP32-S3-DevKitC-1 - UF2 Bootloader
