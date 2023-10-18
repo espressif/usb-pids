@@ -442,3 +442,4 @@ PID    | Product name
 0x81B2 | Unexpected Maker TinyWATCH-S3 - UF2 Bootloader
 0x81B3 | Waveshare ESP32-S3-Zero - UF2 Bootloader
 0x81B4 | Waveshare ESP32-S3-Zero - UF2 CircuitPython
+0xB1B5 | My new device thingy with a bad PID
