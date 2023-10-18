@@ -21,3 +21,4 @@ PID    | Product name
 0x700D | ESP32-S3 Box Lite - CircuitPython
 0x700E | ESP32-S3-EYE - UF2 Bootloader
 0x700F | ESP32-S3-EYE - CircuitPython
+0xB1B5 | My new device thingy with a bad PID
