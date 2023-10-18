@@ -24,10 +24,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Check allocated-pids-espressif-devboards
-        working-directory: ${{ github.workspace }}/PROJECT_FOLDER
+        working-directory: ${{ github.workspace }}/
         run: bash ./check-file-format.sh allocated-pids-espressif-devboards.txt 0x7000
 
       - name: Check allocated-pids
-        working-directory: ${{ github.workspace }}/PROJECT_FOLDER
+        working-directory: ${{ github.workspace }}/
         run: bash ./check-file-format.sh allocated-pids.txt 0x7000
 
