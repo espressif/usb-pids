@@ -29,5 +29,5 @@ jobs:
 
       - name: Check allocated-pids
         working-directory: ${{ github.workspace }}/
-        run: bash ./check-file-format.sh allocated-pids.txt 0x7000
+        run: bash ./check-file-format.sh allocated-pids.txt 0x8000
 
