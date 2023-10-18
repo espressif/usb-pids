@@ -271,7 +271,7 @@ PID    | Product name
 0x8107 | MuseLab ESP32-S2 ESPLink - CircuitPython
 0x8108 | MuseLab ESP32-S2 ESPLink - UF2 Bootloader
 0x8109 | Waveshare ESP32-S2-Pico - UF2 Bootloader
-0x810a | Waveshare ESP32-S2-Pico - CircuitPython
+0x810A | Waveshare ESP32-S2-Pico - CircuitPython
 0x810B | Waveshare ESP32-S2-Pico-LCD - UF2 Bootloader
 0x810C | Waveshare ESP32-S2-Pico-LCD - CircuitPython
 0x810D | Smart Bee Designs Bee Motion - Arduino
