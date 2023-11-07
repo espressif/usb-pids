@@ -442,3 +442,6 @@ PID    | Product name
 0x81B2 | Unexpected Maker TinyWATCH-S3 - UF2 Bootloader
 0x81B3 | Waveshare ESP32-S3-Zero - UF2 Bootloader
 0x81B4 | Waveshare ESP32-S3-Zero - UF2 CircuitPython
+0x81B5 | LILYGO T-Deck - Arduino
+0x81B6 | LILYGO T-Deck - CircuitPython/Micropython
+0x81B7 | LILYGO T-Deck - UF2 Bootloader
