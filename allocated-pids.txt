@@ -445,3 +445,7 @@ PID    | Product name
 0x81B5 | LILYGO T-Deck - Arduino
 0x81B6 | LILYGO T-Deck - CircuitPython/Micropython
 0x81B7 | LILYGO T-Deck - UF2 Bootloader
+0x81B8 | senseBox MCU-S2 ESP32-S2 - Arduino
+0x81B9 | senseBox MCU-S2 ESP32-S2 - CircuitPython
+0x81BA | senseBox MCU-S2 ESP32-S2 - UF2 Bootloader
+
