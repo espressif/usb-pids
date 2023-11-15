@@ -450,4 +450,5 @@ PID    | Product name
 0x81BA | senseBox MCU-S2 ESP32-S2 - UF2 Bootloader
 0x81BB | ESP32-S3 PowerFeather ESP32-S3 - Arduino
 0x81BC | ESP32-S3 PowerFeather ESP32-S3 - CircuitPython
+0x81BD | ESP32-S3 PowerFeather ESP32-S3 - UF2 Bootloader
 
