@@ -451,4 +451,7 @@ PID    | Product name
 0x81BB | ESP32-S3 PowerFeather ESP32-S3 - Arduino
 0x81BC | ESP32-S3 PowerFeather ESP32-S3 - CircuitPython
 0x81BD | ESP32-S3 PowerFeather ESP32-S3 - UF2 Bootloader
+0x81BE | Makerfabs MaTouch ESP32-S3 - Arduino
+0x81BF | Makerfabs MaTouch ESP32-S3 - CircuitPython
+0x81C0 | Makerfabs MaTouch ESP32-S3 - UF2 Bootloader
 
