@@ -454,4 +454,8 @@ PID    | Product name
 0x81BE | Makerfabs MaTouch ESP32-S3 - Arduino
 0x81BF | Makerfabs MaTouch ESP32-S3 - CircuitPython
 0x81C0 | Makerfabs MaTouch ESP32-S3 - UF2 Bootloader
+0x81C1 | ADRIA-electronic - UF2 Bootloader
+0x81C2 | ADRIA-electronic - AECE5 - Card encoder
+0x81C3 | ADRIA-electronic - AEOFF - Offline flasher
+0x81C4 | ADRIA-electronic - AEMPG - Multi-protocol gateway
 
