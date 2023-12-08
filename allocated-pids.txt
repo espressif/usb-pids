@@ -458,4 +458,13 @@ PID    | Product name
 0x81C2 | ADRIA-electronic - AECE5 - Card encoder
 0x81C3 | ADRIA-electronic - AEOFF - Offline flasher
 0x81C4 | ADRIA-electronic - AEMPG - Multi-protocol gateway
-
+0x81C5 | Ultradrom - USB HID Plus
+0x81C6 | Ultradrom - USB MIDI Controller Plus
+0x81C7 | Ultradrom - USB Mass Storage Plus
+0x81C8 | Ultradrom - USB Joystick Plus
+0x81C9 | Ultradrom - USB Gamepad Plus
+0x81CA | Ultradrom - USB HID
+0x81CB | Ultradrom - USB MIDI Controller
+0x81CC | Ultradrom - USB Mass Storage
+0x81CD | Ultradrom - USB Joystick
+0x81CE | Ultradrom - USB Gamepad
