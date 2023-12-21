@@ -468,3 +468,4 @@ PID    | Product name
 0x81CC | Ultradrom - USB Mass Storage
 0x81CD | Ultradrom - USB Joystick
 0x81CE | Ultradrom - USB Gamepad
+0x81CF | Flipper Devices - WiFi Devboard for Flipper Zero
