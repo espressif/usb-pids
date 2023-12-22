@@ -468,3 +468,6 @@ PID    | Product name
 0x81CC | Ultradrom - USB Mass Storage
 0x81CD | Ultradrom - USB Joystick
 0x81CE | Ultradrom - USB Gamepad
+0x81CF | Columbia DSL Sensor Board - Arduino
+0x81D0 | Columbia DSL Sensor Board - CircuitPython
+0x81D1 | Columbia DSL Sensor Board - UF2 Bootloader
