@@ -471,3 +471,4 @@ PID    | Product name
 0x81CF | Columbia DSL Sensor Board - Arduino
 0x81D0 | Columbia DSL Sensor Board - CircuitPython
 0x81D1 | Columbia DSL Sensor Board - UF2 Bootloader
+0x81D2 | Sterling Hawk - SterlingKey
