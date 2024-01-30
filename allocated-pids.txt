@@ -474,3 +474,5 @@ PID    | Product name
 0x81D2 | Sterling Hawk - SterlingKey
 0x81D3 | Meocap Receiver
 0x81D4 | Meocap Receiver - UF2 Bootloader
+0x81D5 | HSBL-ko-gyo HSBL-S100 Chameleon Key
+0x81D6 | HSBL-ko-gyo HSBL-S100 Chameleon Key - UF2 Bootloader
