@@ -477,3 +477,4 @@ PID    | Product name
 0x81D5 | HSBL-ko-gyo HSBL-S100 Chameleon Key
 0x81D6 | HSBL-ko-gyo HSBL-S100 Chameleon Key - UF2 Bootloader
 0x81D7 | Kailani Reverb Black Edition - VTR Effects
+0x81D8 | CCLLC Sensor Mesh Node
