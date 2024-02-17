@@ -481,3 +481,6 @@ PID    | Product name
 0x81D9 | M5STACK Cardputer - Arduino
 0x81DA | M5STACK Cardputer - CircuitPython
 0x81DB | M5STACK Cardputer - UF2 Bootloader
+0x81DC | M5STACK Dial - Arduino
+0x81DD | M5STACK Dial - CircuitPython
+0x81DE | M5STACK Dial - UF2 Bootloader
