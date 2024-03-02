@@ -485,3 +485,4 @@ PID    | Product name
 0x81DD | M5STACK Dial - CircuitPython
 0x81DE | M5STACK Dial - UF2 Bootloader
 0x81DF | GREYNUT - BUSY TAG
+0x81DG | QRP Labs - LightTracker Plus
