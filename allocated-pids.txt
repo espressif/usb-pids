@@ -485,3 +485,7 @@ PID    | Product name
 0x81DD | M5STACK Dial - CircuitPython
 0x81DE | M5STACK Dial - UF2 Bootloader
 0x81DF | GREYNUT - BUSY TAG
+0x81E0 | SimKTech - SF1000
+0x81E1 | SimKTech - Evo Plus
+0x81E2 | SimKTech - Evo
+0x81E3 | SimKTech - 488
