@@ -490,3 +490,4 @@ PID    | Product name
 0x81E2 | SimKTech - Evo Plus
 0x81E3 | SimKTech - Evo
 0x81E4 | SimKTech - 488
+0x81E5 | Narciso Delay Black Edition - VTR Effects
