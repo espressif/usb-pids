@@ -495,3 +495,4 @@ PID    | Product name
 0x81E7 | MRC Nexxt Command Station
 0x81E8 | MRC Nexxt Throttle
 0x81E9 | MRC Nexxt Booster
+0x81EA | Waveshare ESP32-S3-GEEK - CircuitPython
