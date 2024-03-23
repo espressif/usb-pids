@@ -491,3 +491,7 @@ PID    | Product name
 0x81E3 | SimKTech - Evo
 0x81E4 | SimKTech - 488
 0x81E5 | Narciso Delay Black Edition - VTR Effects
+0x81E6 | MRC Nexxt Gateway
+0x81E7 | MRC Nexxt Command Station
+0x81E8 | MRC Nexxt Throttle
+0x81E9 | MRC Nexxt Booster
