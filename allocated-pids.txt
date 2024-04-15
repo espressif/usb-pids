@@ -497,3 +497,4 @@ PID    | Product name
 0x81E9 | MRC Nexxt Booster
 0x81EA | Waveshare ESP32-S3-GEEK - CircuitPython
 0x81EB | BlueRetro - X BT adapter
+0x81EC | PaxoPhone - Paxo
