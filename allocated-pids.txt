@@ -497,3 +497,7 @@ PID    | Product name
 0x81E9 | MRC Nexxt Booster
 0x81EA | Waveshare ESP32-S3-GEEK - CircuitPython
 0x81EB | BlueRetro - X BT adapter
+0x81EC | LILYGO T-Keyboard-S3 - Arduino
+0x81ED | LILYGO T-Keyboard-S3 - CircuitPython
+0x81EE | LILYGO T-Keyboard-S3 - MicroPython
+0x81EF | LILYGO T-Keyboard-S3 - UF2 Bootloader
