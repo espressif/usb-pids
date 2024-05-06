@@ -501,3 +501,14 @@ PID    | Product name
 0x81ED | LILYGO T-Keyboard-S3 - CircuitPython
 0x81EE | LILYGO T-Keyboard-S3 - MicroPython
 0x81EF | LILYGO T-Keyboard-S3 - UF2 Bootloader
+0x81F0 | KairoTech - Arcade Card Reader
+0x81F1 | KairoTech - CHUNITHM Controller
+0x81F2 | KairoTech - ONGEKI Controller
+0x81F3 | KairoTech - maimaiDX Controller
+0x81F4 | KairoTech - beatmania IIDX Controller
+0x81F5 | KairoTech - Sound Voltex Controller
+0x81F6 | KairoTech - PSoC Flasher
+0x81F7 | KairoTech - Universal IO
+0x81F8 | KairoTech - Reserved
+0x81F9 | KairoTech - Reserved
+
