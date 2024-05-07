@@ -509,6 +509,4 @@ PID    | Product name
 0x81F5 | KairoTech - Sound Voltex Controller
 0x81F6 | KairoTech - PSoC Flasher
 0x81F7 | KairoTech - Universal IO
-0x81F8 | KairoTech - Reserved
-0x81F9 | KairoTech - Reserved
 
