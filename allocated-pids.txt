@@ -512,4 +512,10 @@ PID    | Product name
 0x81F8 | Waveshare ESP32-S3-Tiny - CircuitPython
 0x81F9 | Wirmo SkysyLight ESP32-S2 - Busylight
 0x81FA | Wirmo SkysyLight ESP32-S2 - UF2 Bootloader
-0x81FB | UMD - Logger
+0x81FB | Unexpected Maker FeatherS3 Neo - Arduino
+0x81FC | Unexpected Maker FeatherS3 Neo - CircuitPython
+0x81FD | Unexpected Maker FeatherS3 Neo - UF2 Bootloader
+0x81FE | Unexpected Maker RGBTouch Mini - Arduino
+0x81FF | Unexpected Maker RGBTouch Mini - CircuitPython
+0x8200 | Unexpected Maker RGBTouch Mini - UF2 Bootloader
+0x8201 | UMD - Logger
