@@ -512,3 +512,4 @@ PID    | Product name
 0x81F8 | Waveshare ESP32-S3-Tiny - CircuitPython
 0x81F9 | Wirmo SkysyLight ESP32-S2 - Busylight
 0x81FA | Wirmo SkysyLight ESP32-S2 - UF2 Bootloader
+0x81FB | UMD - Logger
