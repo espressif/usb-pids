@@ -518,3 +518,4 @@ PID    | Product name
 0x81FE | Unexpected Maker RGBTouch Mini - Arduino
 0x81FF | Unexpected Maker RGBTouch Mini - CircuitPython
 0x8200 | Unexpected Maker RGBTouch Mini - UF2 Bootloader
+0x8201 | UMD - Logger
