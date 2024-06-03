@@ -520,3 +520,6 @@ PID    | Product name
 0x8200 | Unexpected Maker RGBTouch Mini - UF2 Bootloader
 0x8201 | UMD - Logger
 0x8203 | EMC - EMCFFB
+0x8204 | ThingPulse Pendrive S3 128MB - Arduino
+0x8205 | ThingPulse Pendrive S3 128MB - Circuit Python
+0x8206 | ThingPulse Pendrive S3 128MB - UF2 Bootloader
