@@ -22,7 +22,10 @@ done
 #See if the lines a. have a '| desc' bit that is not zero, and if they
 #start with the next PID in order.
 pid=$(($2))
-while read l <&6; do
+# https://stackoverflow.com/questions/4165135/how-to-use-while-read-bash-to-read-the-last-line-in-a-file-if-there-s-no-new
+DONE=false
+until $DONE; do
+	read l <&6 || DONE=true
 	if [ -n "$l" ]; then
 		#Split the line into pid and desc
 		rpid="${l% |*}"
