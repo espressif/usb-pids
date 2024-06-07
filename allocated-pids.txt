@@ -523,3 +523,7 @@ PID    | Product name
 0x8203 | EMC - EMCFFB
 0x8204 | ThingPulse Pendrive S3 128MB - Circuit Python
 0x8205 | ThingPulse Pendrive S3 128MB - UF2 Bootloader
+0x8206 | modue® One Touch - main
+0x8207 | modue® One Touch - bootloader
+0x8208 | modue® One XLR - main
+0x8209 | modue® One XLR - bootloader
