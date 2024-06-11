@@ -527,3 +527,6 @@ PID    | Product name
 0x8207 | modue® One Touch - bootloader
 0x8208 | modue® One XLR - main
 0x8209 | modue® One XLR - bootloader
+0x820A | LilyGO T3-S3 - Arduino
+0x820B | LilyGO T3-S3 - CircuitPython/Micropython
+0x820C | LilyGO T3-S3 - UF2 Bootloader
