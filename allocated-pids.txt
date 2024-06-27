@@ -531,5 +531,5 @@ PID    | Product name
 0x820B | LilyGO T3-S3 - CircuitPython/Micropython
 0x820C | LilyGO T3-S3 - UF2 Bootloader
 0x820D | Bits and Droids - Flight Companion Unit
-0x820E | Domino4 - CWA
-0x820F | Domino4 - CWV
+0x820E | Domino4 - CWA - Core WiFi Alpha (ESP32-S3 8MB)
+0x820F | Domino4 - CWV - Core WiFi Vertebra (ESP32-S3 8MB)
