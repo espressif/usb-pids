@@ -533,3 +533,6 @@ PID    | Product name
 0x820D | Bits and Droids - Flight Companion Unit
 0x820E | Domino4 - CWA - Core WiFi Alpha (ESP32-S3 8MB)
 0x820F | Domino4 - CWV - Core WiFi Vertebra (ESP32-S3 8MB)
+0x8210 | LILYGO T-Display-S3-Pro - Arduino
+0x8211 | LILYGO T-Display-S3-Pro - CircuitPython
+0x8212 | LILYGO T-Display-S3-Pro - UF2 Bootloader
