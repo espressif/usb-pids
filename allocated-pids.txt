@@ -207,6 +207,7 @@ PID    | Product name
 0x80C7 | Lolin S2 Pico - UF2 Bootloader
 0x80C8 | BrainBoardz Neuron - CircuitPython
 0x80C9 | BrainBoardz NeuronZ - CircuitPython
+0x80CA | BrainBoardz Neuron - Arduino
 0x80CB | BrainBoardz NeuronZ - Arduino
 0x80CC | BrainBoardz Neuron - UF2 Bootloader
 0x80CD | BrainBoardz NeuronZ - UF2 Bootloader
@@ -250,7 +251,6 @@ PID    | Product name
 0x80F3 | WERMA Signaltechnik GmbH + Co. KG - eSIGN
 0x80F4 | WERMA Signaltechnik GmbH + Co. KG - eSIGN Bootloader
 0x80F5 | Lolin C3 Mini - CircuitPython
-0x80CA | BrainBoardz Neuron - Arduino
 0x80F6 | Unexpected Maker - Reflow Master Pro
 0x80F7 | Siemens - ECS
 0x80F8 | Cytron Maker Feather AIoT S3 - Arduino
