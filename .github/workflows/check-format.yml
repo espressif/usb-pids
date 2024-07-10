@@ -22,7 +22,12 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v3
+      # Checkout entire repo; it's tiny and we need the main branch for comparison to
+      # check for removed lines.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Check allocated-pids-espressif-devboards
         working-directory: ${{ github.workspace }}/
         run: bash ./check-file-format.sh allocated-pids-espressif-devboards.txt 0x7000
@@ -31,3 +36,6 @@ jobs:
         working-directory: ${{ github.workspace }}/
         run: bash ./check-file-format.sh allocated-pids.txt 0x8000
 
+      - name: Check removed lines
+        working-directory: ${{ github.workspace }}/
+        run: bash -c "! git diff origin/main | grep '^-0'"
