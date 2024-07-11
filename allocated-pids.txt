@@ -536,3 +536,6 @@ PID    | Product name
 0x8210 | LILYGO T-Display-S3-Pro - Arduino
 0x8211 | LILYGO T-Display-S3-Pro - CircuitPython
 0x8212 | LILYGO T-Display-S3-Pro - UF2 Bootloader
+0x8213 | LILYGO T4-S3 - Arduino
+0x8214 | LILYGO T4-S3 - CircuitPython
+0x8215 | LILYGO T4-S3 - UF2 Bootloader
