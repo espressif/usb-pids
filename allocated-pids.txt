@@ -539,3 +539,6 @@ PID    | Product name
 0x8213 | LILYGO T4-S3 - Arduino
 0x8214 | LILYGO T4-S3 - CircuitPython
 0x8215 | LILYGO T4-S3 - UF2 Bootloader
+0x8216 | LOLIN S3 Mini Pro - Arduino
+0x8217 | LOLIN S3 Mini Pro - CircuitPython
+0x8218 | LOLIN S3 Mini Pro - UF2 Bootloader
