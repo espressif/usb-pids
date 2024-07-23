@@ -542,3 +542,4 @@ PID    | Product name
 0x8216 | LOLIN S3 Mini Pro - Arduino
 0x8217 | LOLIN S3 Mini Pro - CircuitPython
 0x8218 | LOLIN S3 Mini Pro - UF2 Bootloader
+0x8219 | WERMA Signaltechnik GmbH + Co. KG - MC55 Touch Smart
