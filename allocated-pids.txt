@@ -543,4 +543,4 @@ PID    | Product name
 0x8217 | LOLIN S3 Mini Pro - CircuitPython
 0x8218 | LOLIN S3 Mini Pro - UF2 Bootloader
 0x8219 | WERMA Signaltechnik GmbH + Co. KG - MC55 Touch Smart
-0x8220 | CBMSTUFF.COM - SuperCard Pro Deluxe (ESP32-S3-N4R2)
+0x821A | CBMSTUFF.COM - SuperCard Pro Deluxe (ESP32-S3-N4R2)
