@@ -544,3 +544,6 @@ PID    | Product name
 0x8218 | LOLIN S3 Mini Pro - UF2 Bootloader
 0x8219 | WERMA Signaltechnik GmbH + Co. KG - MC55 Touch Smart
 0x821A | CBMSTUFF.COM - SuperCard Pro Deluxe (ESP32-S3-N4R2)
+0x821B | LILYGO T-Watch-S3 - Arduino
+0x821C | LILYGO T-Watch-S3 - CircuitPython/MicroPython
+0x821D | LILYGO T-Watch-S3 - UF2 Bootloader
