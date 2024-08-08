@@ -547,3 +547,9 @@ PID    | Product name
 0x821B | LILYGO T-Watch-S3 - Arduino
 0x821C | LILYGO T-Watch-S3 - CircuitPython/MicroPython
 0x821D | LILYGO T-Watch-S3 - UF2 Bootloader
+0x821E | Waveshare ESP32-S3-Touch-LCD-1.69 - Arduino
+0x821F | Waveshare ESP32-S3-Touch-LCD-1.69 - CircuitPython/MicroPython
+0x8220 | Waveshare ESP32-S3-Touch-LCD-1.69 - UF2 Bootloader
+0x8221 | Waveshare ESP32-S3-LCD-1.69 - Arduino
+0x8222 | Waveshare ESP32-S3-LCD-1.69 - CircuitPython/MicroPython
+0x8223 | Waveshare ESP32-S3-LCD-1.69 - UF2 Bootloader
