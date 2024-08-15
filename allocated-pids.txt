@@ -553,3 +553,6 @@ PID    | Product name
 0x8221 | Waveshare ESP32-S3-LCD-1.69 - Arduino
 0x8222 | Waveshare ESP32-S3-LCD-1.69 - CircuitPython/MicroPython
 0x8223 | Waveshare ESP32-S3-LCD-1.69 - UF2 Bootloader
+0x8224 | Unexpected Maker OMGS3 - Arduino
+0x8225 | Unexpected Maker OMGS3 - CircuitPython/MicroPython
+0x8226 | Unexpected Maker OMGS3 - UF2 Bootloader
