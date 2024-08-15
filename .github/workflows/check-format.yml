@@ -38,4 +38,4 @@ jobs:
 
       - name: Check removed lines
         working-directory: ${{ github.workspace }}/
-        run: bash -c "! git diff origin/main | grep '^-0'"
+        run: bash -c "! git diff -b origin/main | grep '^-0'"
