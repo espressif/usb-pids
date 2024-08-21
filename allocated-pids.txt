@@ -556,3 +556,4 @@ PID    | Product name
 0x8224 | Unexpected Maker OMGS3 - Arduino
 0x8225 | Unexpected Maker OMGS3 - CircuitPython/MicroPython
 0x8226 | Unexpected Maker OMGS3 - UF2 Bootloader
+0x8227 | ATLNS Flasher
