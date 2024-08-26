@@ -560,3 +560,6 @@ PID    | Product name
 0x8228 | LILYGO T-Watch-Ultra - CircuitPython/MicroPython
 0x8229 | LILYGO T-Watch-Ultra - UF2 Bootloader
 0x822A | ATLNS Flasher
+0x822B | Waveshare ESP32-S3-Zero - Arduino
+0x822C | Waveshare ESP32-S3-Zero - CircuitPython/MicroPython
+0x822D | Waveshare ESP32-S3-Zero - UF2 Bootloader
