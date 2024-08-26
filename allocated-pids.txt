@@ -578,3 +578,6 @@ PID    | Product name
 0x823A | Waveshare ESP32-S3-Touch-LCD-5B - Arduino
 0x823B | Waveshare ESP32-S3-Touch-LCD-5B - CircuitPython/MicroPython
 0x823C | Waveshare ESP32-S3-Touch-LCD-5B - UF2 Bootloader
+0x823D | Waveshare ESP32-S3-Touch-LCD-4 - Arduino
+0x823E | Waveshare ESP32-S3-Touch-LCD-4 - CircuitPython/MicroPython
+0x823F | Waveshare ESP32-S3-Touch-LCD-4 - UF2 Bootloader
