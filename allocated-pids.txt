@@ -563,3 +563,18 @@ PID    | Product name
 0x822B | Waveshare ESP32-S3-Zero - Arduino
 0x822C | Waveshare ESP32-S3-Zero - CircuitPython/MicroPython
 0x822D | Waveshare ESP32-S3-Zero - UF2 Bootloader
+0x822E | Waveshare ESP32-S3-Touch-LCD-4.3 - Arduino
+0x822F | Waveshare ESP32-S3-Touch-LCD-4.3 - CircuitPython/MicroPython
+0x8230 | Waveshare ESP32-S3-Touch-LCD-4.3 - UF2 Bootloader
+0x822E | Waveshare ESP32-S3-Touch-LCD-4.3B - Arduino
+0x822F | Waveshare ESP32-S3-Touch-LCD-4.3B - CircuitPython/MicroPython
+0x8230 | Waveshare ESP32-S3-Touch-LCD-4.3B - UF2 Bootloader
+0x822E | Waveshare ESP32-S3-Touch-LCD-7 - Arduino
+0x822F | Waveshare ESP32-S3-Touch-LCD-7 - CircuitPython/MicroPython
+0x8230 | Waveshare ESP32-S3-Touch-LCD-7 - UF2 Bootloader
+0x822E | Waveshare ESP32-S3-Touch-LCD-5 - Arduino
+0x822F | Waveshare ESP32-S3-Touch-LCD-5 - CircuitPython/MicroPython
+0x8230 | Waveshare ESP32-S3-Touch-LCD-5 - UF2 Bootloader
+0x822E | Waveshare ESP32-S3-Touch-LCD-5B - Arduino
+0x822F | Waveshare ESP32-S3-Touch-LCD-5B - CircuitPython/MicroPython
+0x8230 | Waveshare ESP32-S3-Touch-LCD-5B - UF2 Bootloader
