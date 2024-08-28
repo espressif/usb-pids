@@ -581,3 +581,4 @@ PID    | Product name
 0x823D | Waveshare ESP32-S3-Touch-LCD-4 - Arduino
 0x823E | Waveshare ESP32-S3-Touch-LCD-4 - CircuitPython/MicroPython
 0x823F | Waveshare ESP32-S3-Touch-LCD-4 - UF2 Bootloader
+0x8240 | kohacraft.com Padauk Programmer - Arduino
