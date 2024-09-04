@@ -224,9 +224,9 @@ PID    | Product name
 0x80D8 | Unexpected Maker FeatherS3 - UF2 Bootloader
 0x80D9 | FutureKeys HexKy S2 - CircuitPython
 0x80DA | FutureKeys HexKy S2 - UF2 Bootloader
-0x80DB | CircuitArt FeatherS3 - Arduino
-0x80DC | CircuitArt FeatherS3 - UF2 Bootloader
-0x80DD | CircuitArt FeatherS3 - CircuitPython
+0x80DB | CircuitArt ESP32S3 zero - Arduino
+0x80DC | CircuitArt ESP32S3 zero - UF2 Bootloader
+0x80DD | CircuitArt ESP32S3 zero - CircuitPython
 0x80DE | Banana Pi BPI-Leaf-S3 - UF2 Bootloader
 0x80DF | Banana Pi BPI-Leaf-S3 - Arduino
 0x80E0 | Banana Pi BPI-Leaf-S3 - CircuitPython
