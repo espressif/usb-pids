@@ -583,3 +583,4 @@ PID    | Product name
 0x823F | Waveshare ESP32-S3-Touch-LCD-4 - UF2 Bootloader
 0x8240 | kohacraft.com Padauk Programmer - Arduino
 0x8241 | EASYBCI Bio Amp 1
+0x8242 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - Arduino
