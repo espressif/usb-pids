@@ -584,3 +584,6 @@ PID    | Product name
 0x8240 | kohacraft.com Padauk Programmer - Arduino
 0x8241 | EASYBCI Bio Amp 1
 0x8242 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - Arduino
+0x8243 | Barduino 4 - Arduino
+0x8244 | Barduino 4 - CircuitPython/MicroPython
+0x8245 | Barduino 4 - UF2 Bootloader
