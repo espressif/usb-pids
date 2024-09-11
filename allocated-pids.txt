@@ -587,3 +587,6 @@ PID    | Product name
 0x8243 | Barduino 4 - Arduino
 0x8244 | Barduino 4 - CircuitPython/MicroPython
 0x8245 | Barduino 4 - UF2 Bootloader
+0x8246 | Aliexpress - ESP32-S3-Super-Mini - Arduino
+0x8247 | Aliexpress - ESP32-S3-Super-Mini - CircuitPython/MicroPython
+0x8248 | Aliexpress - ESP32-S3-Super-Mini - UF2 Bootloader
