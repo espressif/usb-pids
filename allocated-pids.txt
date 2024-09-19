@@ -590,7 +590,6 @@ PID    | Product name
 0x8246 | Generic ESP32-S3-Super-Mini - Arduino
 0x8247 | Generic ESP32-S3-Super-Mini - CircuitPython/MicroPython
 0x8248 | Generic ESP32-S3-Super-Mini - UF2 Bootloader
-0x8248 | Generic ESP32-S3-Super-Mini - UF2 Bootloader
 0x8249 | Waveshare ESP32-S3-Touch-AMOLED-1.64 - Arduino
 0x824A | Waveshare ESP32-S3-Touch-AMOLED-1.43 - Arduino
 0x824B | Waveshare ESP32-S3-Touch-AMOLED-1.91 - Arduino
