@@ -593,5 +593,11 @@ PID    | Product name
 0x8249 | Waveshare ESP32-S3-Touch-AMOLED-1.64 - Arduino
 0x824A | Waveshare ESP32-S3-Touch-AMOLED-1.43 - Arduino
 0x824B | Waveshare ESP32-S3-Touch-AMOLED-1.91 - Arduino
-0x824C | CharaChorder Two S3
-0x824D | CharaChorder Two S3 - UF2 Bootloader
+0x824C | LILYGO T7-S3 - Arduino
+0x824D | LILYGO T7-S3 - CircuitPython
+0x824E | LILYGO T7-S3 - UF2 Bootloader
+0x824F | CircuitArt ESP32S3 CamTFT - Arduino
+0x8250 | CircuitArt ESP32S3 CamTFT - UF2 Bootloader
+0x8251 | CircuitArt ESP32S3 CamTFT - CircuitPython
+0x8252 | CharaChorder Two S3
+0x8253 | CharaChorder Two S3 - UF2 Bootloader
