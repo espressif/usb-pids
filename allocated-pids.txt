@@ -599,5 +599,6 @@ PID    | Product name
 0x824F | CircuitArt ESP32S3 CamTFT - Arduino
 0x8250 | CircuitArt ESP32S3 CamTFT - UF2 Bootloader
 0x8251 | CircuitArt ESP32S3 CamTFT - CircuitPython
-0x8252 | CharaChorder Two S3
-0x8253 | CharaChorder Two S3 - UF2 Bootloader
+0x8252 | HE-FMX digital thickness gauge - Marconilab
+0x8253 | CharaChorder Two S3
+0x8254 | CharaChorder Two S3 - UF2 Bootloader
