@@ -602,3 +602,6 @@ PID    | Product name
 0x8252 | HE-FMX digital thickness gauge - Marconilab
 0x8253 | CharaChorder Two S3
 0x8254 | CharaChorder Two S3 - UF2 Bootloader
+0x8255 | Waveshare ESP32-S3-Touch-AMOLED-1.8 - Arduino
+0x8256 | Waveshare ESP32-S3-Touch-AMOLED-1.8 - CircuitPython/MicroPython
+0x8257 | Waveshare ESP32-S3-TOUCH-AMOLED-1.8 - UF2 Bootloader
