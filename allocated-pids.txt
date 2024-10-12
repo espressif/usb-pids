@@ -593,18 +593,18 @@ PID    | Product name
 0x8249 | Waveshare ESP32-S3-Touch-AMOLED-1.64 - Arduino
 0x824A | Waveshare ESP32-S3-Touch-AMOLED-1.43 - Arduino
 0x824B | Waveshare ESP32-S3-Touch-AMOLED-1.91 - Arduino
-0x824C | Waveshare ESP32-S3-Touch-LCD-1.85-Box - Arduino
-0x824D | Waveshare ESP32-S3-Touch-LCD-1.85-Box - CircuitPython/MicroPython
-0x824E | Waveshare ESP32-S3-Touch-LCD-1.85-Box - UF2 Bootloader
-0x824F | Waveshare ESP32-S3-LCD-1.47 - Arduino
-0x8250 | Waveshare ESP32-S3-LCD-1.47 - CircuitPython/MicroPython
-0x8251 | Waveshare ESP32-S3-LCD-1.47 - UF2 Bootloader
-0x8252 | Waveshare ESP32-C6-LCD-1.47 - Arduino
-0x8253 | Waveshare ESP32-C6-LCD-1.47 - CircuitPython/MicroPython
-0x8254 | Waveshare ESP32-C6-LCD-1.47 - UF2 Bootloader
-0x8255 | Waveshare ESP32-S3-Touch-LCD-1.85 - Arduino
-0x8256 | Waveshare ESP32-S3-Touch-LCD-1.85 - CircuitPython/MicroPython
-0x8257 | Waveshare ESP32-S3-Touch-LCD-1.85 - UF2 Bootloader
+0x824C | LILYGO T7-S3 - Arduino
+0x824D | LILYGO T7-S3 - CircuitPython
+0x824E | LILYGO T7-S3 - UF2 Bootloader
+0x824F | CircuitArt ESP32S3 CamTFT - Arduino
+0x8250 | CircuitArt ESP32S3 CamTFT - UF2 Bootloader
+0x8251 | CircuitArt ESP32S3 CamTFT - CircuitPython
+0x8252 | HE-FMX digital thickness gauge - Marconilab
+0x8253 | CharaChorder Two S3
+0x8254 | CharaChorder Two S3 - UF2 Bootloader
+0x8255 | Waveshare ESP32-S3-Touch-AMOLED-1.8 - Arduino
+0x8256 | Waveshare ESP32-S3-Touch-AMOLED-1.8 - CircuitPython/MicroPython
+0x8257 | Waveshare ESP32-S3-TOUCH-AMOLED-1.8 - UF2 Bootloader
 0x8258 | Waveshare ESP32-S3-Touch-LCD-1.46 - Arduino
 0x8259 | Waveshare ESP32-S3-Touch-LCD-1.46 - CircuitPython/MicroPython
 0x825A | Waveshare ESP32-S3-Touch-LCD-1.46 - UF2 Bootloader
@@ -652,3 +652,15 @@ PID    | Product name
 0x8284 | Waveshare ESP32-S3-LCD-Driver-Board - Arduino
 0x8285 | Waveshare ESP32-S3-LCD-Driver-Board - CircuitPython/MicroPython
 0x8286 | Waveshare ESP32-S3-LCD-Driver-Board - UF2 Bootloader
+0x8287 | Waveshare ESP32-S3-Touch-LCD-1.85-Box - Arduino
+0x8288 | Waveshare ESP32-S3-Touch-LCD-1.85-Box - CircuitPython/MicroPython
+0x8289 | Waveshare ESP32-S3-Touch-LCD-1.85-Box - UF2 Bootloader
+0x828A | Waveshare ESP32-S3-LCD-1.47 - Arduino
+0x828B | Waveshare ESP32-S3-LCD-1.47 - CircuitPython/MicroPython
+0x828C | Waveshare ESP32-S3-LCD-1.47 - UF2 Bootloader
+0x828D | Waveshare ESP32-C6-LCD-1.47 - Arduino
+0x828E | Waveshare ESP32-C6-LCD-1.47 - CircuitPython/MicroPython
+0x828F | Waveshare ESP32-C6-LCD-1.47 - UF2 Bootloader
+0x8290 | Waveshare ESP32-S3-Touch-LCD-1.85 - Arduino
+0x8291 | Waveshare ESP32-S3-Touch-LCD-1.85 - CircuitPython/MicroPython
+0x8292 | Waveshare ESP32-S3-Touch-LCD-1.85 - UF2 Bootloader
