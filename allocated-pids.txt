@@ -192,7 +192,7 @@ PID    | Product name
 0x80B8 | Morpheans MorphESP-240 - UF2 CircuitPython
 0x80B9 | Hypnocube - HypnoBall
 0x80BA | Hypnocube - HypnoLSD
-0x80BB | Hypnocube - HypnoCube8
+0x80BB | Hypnocube - HypnoCube8 
 0x80BC | Hypnocube - HypnoCube4
 0x80BD | Hypnocube - HypnoLights
 0x80BE | Hypnocube - HypnoSquare8
@@ -351,7 +351,7 @@ PID    | Product name
 0x8157 | MD-PLUG Type C
 0x8158 | MD-PLUG Type A
 0x8159 | Shrooly SH01 - UF2 Bootloader
-0x815A | Shrooly SH01 - Production Firmware
+0x815A | Shrooly SH01 - Production Firmware 
 0x815B | MicroStorm CORE_S3 - ProjectSource
 0x815C | Smart Bee Designs Bee Data Logger - Arduino
 0x815D | Smart Bee Designs Bee Data Logger - CircuitPython
@@ -376,7 +376,7 @@ PID    | Product name
 0x8170 | CaniotBox - Production Firmware
 0x8171 | 01Space ESP32-S3-0.42OLED - Arduino
 0x8172 | 01Space ESP32-S3-0.42OLED - CircuitPython
-0x8173 | 01Space ESP32-S3-0.42OLED - MicroPython
+0x8173 | 01Space ESP32-S3-0.42OLED - MicroPython 
 0x8174 | 01Space ESP32-S3-0.42OLED - UF2 Bootloader
 0x8175 | Talk All Sport - Base Station
 0x8176 | Talk All Sport - Hand Controller
