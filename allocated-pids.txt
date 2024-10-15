@@ -432,7 +432,7 @@ PID    | Product name
 0x81A8 | Loki Modulation - VTR Effects
 0x81A9 | MagiClick S3 - Arduino
 0x81AA | MagiClick S3 - CircuitPython
-0x81AB | MagiClick S3 - MicroPython
+0x81AB | MagiClick S3 - MicroPython 
 0x81AC | MagiClick S3 - UF2 Bootloader
 0x81AD | Creekside S3 - Buzzer Receiver
 0x81AE | Creekside S3 - Buzzer
