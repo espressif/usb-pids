@@ -665,3 +665,8 @@ PID    | Product name
 0x8291 | Waveshare ESP32-S3-Touch-LCD-1.85 - CircuitPython/MicroPython
 0x8292 | Waveshare ESP32-S3-Touch-LCD-1.85 - UF2 Bootloader
 0x8293 | Piston Medical - BLE Heart Rate Monitor Adapter
+0x8294 | Work Louder - Nomad [E] v1 - ANSI
+0x8295 | Work Louder - Nomad [E] v1 - ISO
+0x8296 | Work Louder - Knob1
+0x8297 | Work Louder - Creator Micro v2
+0x8298 | Work Louder - Creator Micro v2 - BLE
