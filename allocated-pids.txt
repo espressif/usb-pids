@@ -670,3 +670,6 @@ PID    | Product name
 0x8296 | Work Louder - Knob1
 0x8297 | Work Louder - Creator Micro v2
 0x8298 | Work Louder - Creator Micro v2 - BLE
+0x8299 | cezerio dev ESP32C6 - Arduino
+0x829A | cezerio dev ESP32C6 - CircuitPython
+0x829B | cezerio dev ESP32C6 - UF2 Bootloader
