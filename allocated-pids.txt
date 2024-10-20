@@ -670,3 +670,5 @@ PID    | Product name
 0x8296 | Work Louder - Knob1
 0x8297 | Work Louder - Creator Micro v2
 0x8298 | Work Louder - Creator Micro v2 - BLE
+0x8299 | CharaChorder Master Forge S3
+0x829A | CharaChorder Master Forge S3 - UF2 Bootloader
