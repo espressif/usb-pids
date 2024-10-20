@@ -623,24 +623,24 @@ PID    | Product name
 0x8267 | Waveshare ESP32-S3-Tiny - Arduino
 0x8268 | Waveshare ESP32-S3-Tiny - CircuitPython/MicroPython
 0x8269 | Waveshare ESP32-S3-Tiny - UF2 Bootloader
-0x826A | Waveshare ESP32-C6-Zero - Arduino
-0x826B | Waveshare ESP32-C6-Zero - CircuitPython/MicroPython
-0x826C | Waveshare ESP32-C6-Zero - UF2 Bootloader
+0x826A | Unallocated
+0x826B | Unallocated
+0x826C | Unallocated
 0x826D | Waveshare ESP32-S3-Matrix - Arduino
 0x826E | Waveshare ESP32-S3-Matrix  - CircuitPython/MicroPython
 0x826F | Waveshare ESP32-S3-Matrix  - UF2 Bootloader
-0x8270 | Waveshare ESP32-C6-Pico - Arduino
-0x8271 | Waveshare ESP32-C6-Pico - CircuitPython/MicroPython
-0x8272 | Waveshare ESP32-C6-Pico - UF2 Bootloader
+0x8270 | Unallocated
+0x8271 | Unallocated
+0x8272 | Unallocated
 0x8273 | Waveshare ESP32-S3-Relay-6CH - Arduino
 0x8274 | Waveshare ESP32-S3-Relay-6CH - CircuitPython/MicroPython
 0x8275 | Waveshare ESP32-S3-Relay-6CH - UF2 Bootloader
-0x8276 | Waveshare ESP32-H2-DEV-KIT-N4 - Arduino
-0x8277 | Waveshare ESP32-H2-DEV-KIT-N4 - CircuitPython/MicroPython
-0x8278 | Waveshare ESP32-H2-DEV-KIT-N4 - UF2 Bootloader
-0x8279 | Waveshare ESP32-C6-DEV-KIT-N8 - Arduino
-0x827A | Waveshare ESP32-C6-DEV-KIT-N8 - CircuitPython/MicroPython
-0x827B | Waveshare ESP32-C6-DEV-KIT-N8 - UF2 Bootloader
+0x8276 | Unallocated
+0x8277 | Unallocated
+0x8278 | Unallocated
+0x8279 | Unallocated
+0x827A | Unallocated
+0x827B | Unallocated
 0x827C | Waveshare ESP32-S3-GEEK - Arduino
 0x827D | Waveshare ESP32-S3-GEEK - UF2 Bootloader
 0x827E | Waveshare ESP32-S3-LCD-1.28 - Arduino
@@ -658,9 +658,9 @@ PID    | Product name
 0x828A | Waveshare ESP32-S3-LCD-1.47 - Arduino
 0x828B | Waveshare ESP32-S3-LCD-1.47 - CircuitPython/MicroPython
 0x828C | Waveshare ESP32-S3-LCD-1.47 - UF2 Bootloader
-0x828D | Waveshare ESP32-C6-LCD-1.47 - Arduino
-0x828E | Waveshare ESP32-C6-LCD-1.47 - CircuitPython/MicroPython
-0x828F | Waveshare ESP32-C6-LCD-1.47 - UF2 Bootloader
+0x828D | Unallocated
+0x828E | Unallocated
+0x828F | Unallocated
 0x8290 | Waveshare ESP32-S3-Touch-LCD-1.85 - Arduino
 0x8291 | Waveshare ESP32-S3-Touch-LCD-1.85 - CircuitPython/MicroPython
 0x8292 | Waveshare ESP32-S3-Touch-LCD-1.85 - UF2 Bootloader
