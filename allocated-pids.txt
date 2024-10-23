@@ -671,3 +671,5 @@ PID    | Product name
 0x8297 | Work Louder - Creator Micro v2
 0x8298 | Work Louder - Creator Micro v2 - BLE
 0x8299 | Work Louder - USB Dongle v1
+0x829A | CharaChorder Master Forge S3
+0x829B | CharaChorder Master Forge S3 - UF2 Bootloader
