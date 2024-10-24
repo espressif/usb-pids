@@ -673,3 +673,8 @@ PID    | Product name
 0x8299 | Work Louder - USB Dongle v1
 0x829A | CharaChorder Master Forge S3
 0x829B | CharaChorder Master Forge S3 - UF2 Bootloader
+0x829C | Bantam Tools Serama Rooster ArtFrame 1824
+0x829D | Bantam Tools Serama Rooster ArtFrame 2436
+0x829E | Bantam Tools Serama Rooster ArtFrame XXL
+0x829F | Bantam Tools Serama Handwriter
+0x82A0 | Bantam Tools Serama 
