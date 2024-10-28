@@ -678,3 +678,6 @@ PID    | Product name
 0x829E | Bantam Tools Serama Rooster ArtFrame XXL
 0x829F | Bantam Tools Serama Handwriter
 0x82A0 | Bantam Tools Serama 
+0x82A1 | RobotClass Graphite S3 - Arduino
+0x82A2 | RobotClass Graphite S3 - CircuitPython
+0x82A3 | RobotClass Graphite S3 - UF2 Bootloader
