@@ -681,3 +681,4 @@ PID    | Product name
 0x82A1 | RobotClass Graphite S3 - Arduino
 0x82A2 | RobotClass Graphite S3 - CircuitPython
 0x82A3 | RobotClass Graphite S3 - UF2 Bootloader
+0x82A4 | ENERTY Module M - UF2 Bootloader
