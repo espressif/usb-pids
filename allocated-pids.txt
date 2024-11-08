@@ -682,3 +682,4 @@ PID    | Product name
 0x82A2 | RobotClass Graphite S3 - CircuitPython
 0x82A3 | RobotClass Graphite S3 - UF2 Bootloader
 0x82A4 | ENERTY Module M - UF2 Bootloader
+0x82A5 | OpenRemise - S3Main
