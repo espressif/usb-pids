@@ -658,9 +658,9 @@ PID    | Product name
 0x828A | Waveshare ESP32-S3-LCD-1.47 - Arduino
 0x828B | Waveshare ESP32-S3-LCD-1.47 - CircuitPython/MicroPython
 0x828C | Waveshare ESP32-S3-LCD-1.47 - UF2 Bootloader
-0x828D | Unallocated
-0x828E | Unallocated
-0x828F | Unallocated
+0x828D | Waveshare ESP32-C6-Zero - Arduino
+0x828E | Waveshare ESP32-C6-Zero - CircuitPython/MicroPython
+0x828F | Waveshare ESP32-C6-Zero - UF2 Bootloader
 0x8290 | Waveshare ESP32-S3-Touch-LCD-1.85 - Arduino
 0x8291 | Waveshare ESP32-S3-Touch-LCD-1.85 - CircuitPython/MicroPython
 0x8292 | Waveshare ESP32-S3-Touch-LCD-1.85 - UF2 Bootloader
