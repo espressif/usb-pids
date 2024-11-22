@@ -683,3 +683,4 @@ PID    | Product name
 0x82A3 | RobotClass Graphite S3 - UF2 Bootloader
 0x82A4 | ENERTY Module M - UF2 Bootloader
 0x82A5 | OpenRemise - S3Main
+0x82A6 | Undalogic miniSMU MS01
