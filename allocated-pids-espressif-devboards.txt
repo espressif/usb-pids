@@ -23,3 +23,5 @@ PID    | Product name
 0x700F | ESP32-S3-EYE - CircuitPython
 0x7010 | ESP32-S3-LCD-EV-Board v1.5 - UF2 Bootloader
 0x7011 | ESP32-S3-LCD-EV-Board v1.5 - CircuitPython
+0x7012 | ESP32-P4-Function-EV - UF2 Bootloader
+0x7013 | ESP32-P4-Function-EV - CircuitPython
