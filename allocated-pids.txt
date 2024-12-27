@@ -685,3 +685,19 @@ PID    | Product name
 0x82A5 | OpenRemise - S3Main
 0x82A6 | Undalogic miniSMU MS01
 0x82A7 | Waveshare ESP32-S3-ETH - Circuitpython
+0x82A8 | MIDI Dobrynya Aurora
+0x82A9 | MIDI Dobrynya Aurora UF2 Bootloader
+0x82AA | MIDI Dobrynya Aurora Pro
+0x82AB | MIDI Dobrynya Aurora Pro UF2 Bootloader
+0x82AC | MIDI Dobrynya Pocket
+0x82AD | MIDI Dobrynya Pocket UF2 Bootloader
+0x82AE | MIDI Dobrynya Pocket Pro
+0x82AF | MIDI Dobrynya Pocket Pro UF2 Bootloader
+0x82B0 | MIDI Dobrynya Micro V3
+0x82B1 | MIDI Dobrynya Micro V3 UF2 Bootloader
+0x82B2 | MIDI Dobrynya Mini V3
+0x82B3 | MIDI Dobrynya Mini V3 UF2 Bootloader
+0x82B4 | MIDI Dobrynya Pro V2
+0x82B5 | MIDI Dobrynya Pro V2 UF2 Bootloader
+0x82B6 | MIDI Dobrynya 32
+0x82B7 | MIDI Dobrynya 32 UF2 Bootloader
