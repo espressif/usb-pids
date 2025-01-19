@@ -701,3 +701,7 @@ PID    | Product name
 0x82B5 | MIDI Dobrynya Pro V2 UF2 Bootloader
 0x82B6 | MIDI Dobrynya 32
 0x82B7 | MIDI Dobrynya 32 UF2 Bootloader
+0x82B9 | neway navpad controller v1 (boot)
+0x82BA | neway navpad controller v1
+0x82BB | neway navpad controller mini v1 (boot)
+0x82BC | neway navpad controller mini v1
