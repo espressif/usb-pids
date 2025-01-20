@@ -701,3 +701,4 @@ PID    | Product name
 0x82B5 | MIDI Dobrynya Pro V2 UF2 Bootloader
 0x82B6 | MIDI Dobrynya 32
 0x82B7 | MIDI Dobrynya 32 UF2 Bootloader
+0x82B8 | HOJA Gamepad Device
