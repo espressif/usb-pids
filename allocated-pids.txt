@@ -708,3 +708,4 @@ PID    | Product name
 0x82BC | neway navpad controller mini v1
 0x82BD | Enilinx™ Flexbar
 0x82BE | SONULAB™ StompStation
+0x82BF | Enilinx™ Flexbar-CDC
