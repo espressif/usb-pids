@@ -709,3 +709,4 @@ PID    | Product name
 0x82BD | Enilinx™ Flexbar
 0x82BE | SONULAB™ StompStation
 0x82BF | Enilinx™ Flexbar-CDC
+0x82C0 | Dinnosys Llc. - SpeakNGo
