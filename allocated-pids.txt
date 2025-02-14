@@ -710,3 +710,6 @@ PID    | Product name
 0x82BE | SONULAB™ StompStation
 0x82BF | Enilinx™ Flexbar-CDC
 0x82C0 | Dinnosys Llc. - SpeakNGo
+0x82C1 | LILYGO T-Dongle-S3 - Arduino
+0x82C2 | LILYGO T-Dongle-S3 - CircuitPython
+0x82C3 | LILYGO T-Dongle-S3 - UF2 Bootloader
