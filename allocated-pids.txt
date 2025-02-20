@@ -714,3 +714,6 @@ PID    | Product name
 0x82C2 | LILYGO T-Dongle-S3 - CircuitPython
 0x82C3 | LILYGO T-Dongle-S3 - UF2 Bootloader
 0x82C4 | Generic Red ESP32-S2-WROOM with Type-C - CircuitPython
+0x82C5 | Geekble Geekble Nano ESP32-S3 - Arduino
+0x82C6 | Geekble Geekble Nano ESP32-S3 - CircuitPython
+0x82C7 | Geekble Geekble Nano ESP32-S3 - UF2 Bootloader
