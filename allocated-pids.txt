@@ -717,3 +717,7 @@ PID    | Product name
 0x82C5 | Geekble Geekble Nano ESP32-S3 - Arduino
 0x82C6 | Geekble Geekble Nano ESP32-S3 - CircuitPython
 0x82C7 | Geekble Geekble Nano ESP32-S3 - UF2 Bootloader
+0x82C8 | Heltec Vision Master E290 - UF2 Bootloader
+0x82C9 | Heltec Vision Master E290 - CircuitPython
+0x82CA | Heltec Vision Master E290 - Arduino
+
