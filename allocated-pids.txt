@@ -722,3 +722,4 @@ PID    | Product name
 0x82CA | Heltec Vision Master E290 - Arduino
 0x82CB | METADOX Soundproof Mask Headset USB - ESP32-S3
 0x82CC | EVO X1E
+0x82CD | WERMA Signaltechnik GmbH + Co. KG - LineLIGHT Fusion Smart
