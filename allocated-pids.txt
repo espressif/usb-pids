@@ -723,3 +723,5 @@ PID    | Product name
 0x82CB | METADOX Soundproof Mask Headset USB - ESP32-S3
 0x82CC | EVO X1E
 0x82CD | WERMA Signaltechnik GmbH + Co. KG - LineLIGHT Fusion Smart
+0x82CE | Waveshare ESP32-S3-Touch-LCD-2 - CircuitPython
+0x82CF | Waveshare ESP32-S3-Touch-LCD-2 - UF2 Bootloader
