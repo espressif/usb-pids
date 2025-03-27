@@ -729,7 +729,3 @@ PID    | Product name
 0x82D1 | senseBox-eye ESP32-S3 - Arduino
 0x82D2 | senseBox-eye ESP32-S3 - CircuitPython
 0x82D3 | senseBox-eye ESP32-S3 - Uf2 Bootloader
-
-
-
-
