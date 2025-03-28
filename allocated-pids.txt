@@ -726,3 +726,6 @@ PID    | Product name
 0x82CE | Waveshare ESP32-S3-Touch-LCD-2 - CircuitPython
 0x82CF | Waveshare ESP32-S3-Touch-LCD-2 - UF2 Bootloader
 0x82D0 | SHED Makerspace Access Control Core (ESP32 S2)
+0x82D1 | senseBox-eye ESP32-S3 - Arduino
+0x82D2 | senseBox-eye ESP32-S3 - CircuitPython
+0x82D3 | senseBox-eye ESP32-S3 - Uf2 Bootloader
