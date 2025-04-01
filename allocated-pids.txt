@@ -732,3 +732,4 @@ PID    | Product name
 0x82D4 | LILYGO T-LoRa-Pager - Arduino
 0x82D5 | LILYGO T-LoRa-Pager - CircuitPython/MicroPython
 0x82D6 | LILYGO T-LoRa-Pager - UF2 Bootloader
+0x82D7 | Glydr Galactic Holdings Inc - Glydr™
