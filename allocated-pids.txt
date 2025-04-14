@@ -734,3 +734,6 @@ PID    | Product name
 0x82D6 | LILYGO T-LoRa-Pager - UF2 Bootloader
 0x82D7 | Glydr Galactic Holdings Inc - Glydr™
 0x82D8 | DanioVision Observation Chamber - Noldus Information Technology BV
+0x82D9 | Elecrow ThinkNode M2 - Arduino
+0x82DA | Elecrow ThinkNode M2 - CircuitPython/Micropython
+0x82DB | Elecrow ThinkNode M2 - UF2 Bootloader
