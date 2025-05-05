@@ -737,3 +737,9 @@ PID    | Product name
 0x82D9 | Elecrow ThinkNode M2 - Arduino
 0x82DA | Elecrow ThinkNode M2 - CircuitPython/Micropython
 0x82DB | Elecrow ThinkNode M2 - UF2 Bootloader
+0x82DC | Unexpected Maker EDGES3 - Arduino
+0x82DD | Unexpected Maker EDGES3 - CircuitPython/MicroPython
+0x82DE | Unexpected Maker EDGES3 - UF2 Bootloader
+0x82DF | Unexpected Maker SQUiXL - Arduino
+0x82E0 | Unexpected Maker SQUiXL - CircuitPython/MicroPython
+0x82E1 | Unexpected Maker SQUiXL - UF2 Bootloader
