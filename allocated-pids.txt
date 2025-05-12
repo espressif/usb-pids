@@ -743,3 +743,4 @@ PID    | Product name
 0x82DF | Unexpected Maker SQUiXL - Arduino
 0x82E0 | Unexpected Maker SQUiXL - CircuitPython/MicroPython
 0x82E1 | Unexpected Maker SQUiXL - UF2 Bootloader
+0x82E2 | Dilon Tech Probe (ESP32 S3)
