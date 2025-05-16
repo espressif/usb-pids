@@ -667,7 +667,7 @@ PID    | Product name
 0x8293 | Piston Medical - BLE Heart Rate Monitor Adapter
 0x8294 | Work Louder - Nomad [E] v1 - ANSI
 0x8295 | Work Louder - Nomad [E] v1 - ISO
-0x8296 | Work Louder - Knob1
+0x8296 | Work Louder - Knob v1 - ANSI
 0x8297 | Work Louder - Creator Micro v2
 0x8298 | Work Louder - Creator Micro v2 - BLE
 0x8299 | Work Louder - USB Dongle v1
@@ -744,3 +744,4 @@ PID    | Product name
 0x82E0 | Unexpected Maker SQUiXL - CircuitPython/MicroPython
 0x82E1 | Unexpected Maker SQUiXL - UF2 Bootloader
 0x82E2 | Dilon Tech Probe (ESP32 S3)
+0x82E3 | Work Louder - Knob v1 - ISO
