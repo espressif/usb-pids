@@ -745,3 +745,4 @@ PID    | Product name
 0x82E1 | Unexpected Maker SQUiXL - UF2 Bootloader
 0x82E2 | Dilon Tech Probe (ESP32 S3)
 0x82E3 | Work Louder - Knob v1 - ISO
+0x82E4 | Domino4 - CWS - Springbot (ESP32-S2) - UF2 Bootloader
