@@ -583,7 +583,7 @@ PID    | Product name
 0x823F | Waveshare ESP32-S3-Touch-LCD-4 - UF2 Bootloader
 0x8240 | kohacraft.com Padauk Programmer - Arduino
 0x8241 | EASYBCI Bio Amp 1
-0x8242 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - Arduino
+** Consider move to 0X8279: 0x8242 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - Arduino
 0x8243 | Barduino 4 - Arduino
 0x8244 | Barduino 4 - CircuitPython/MicroPython
 0x8245 | Barduino 4 - UF2 Bootloader
@@ -591,7 +591,7 @@ PID    | Product name
 0x8247 | Generic ESP32-S3-Super-Mini - CircuitPython/MicroPython
 0x8248 | Generic ESP32-S3-Super-Mini - UF2 Bootloader
 0x8249 | Waveshare ESP32-S3-Touch-AMOLED-1.64 - Arduino
-0x824A | Waveshare ESP32-S3-Touch-AMOLED-1.43 - Arduino
+** Consider move to 0x8276:  0x824A | Waveshare ESP32-S3-Touch-AMOLED-1.43 - Arduino
 0x824B | Waveshare ESP32-S3-Touch-AMOLED-1.91 - Arduino
 0x824C | LILYGO T7-S3 - Arduino
 0x824D | LILYGO T7-S3 - CircuitPython
@@ -623,24 +623,24 @@ PID    | Product name
 0x8267 | Waveshare ESP32-S3-Tiny - Arduino
 0x8268 | Waveshare ESP32-S3-Tiny - CircuitPython/MicroPython
 0x8269 | Waveshare ESP32-S3-Tiny - UF2 Bootloader
-0x826A | Unallocated
-0x826B | Unallocated
-0x826C | Unallocated
+0x826A | Waveshare ESP32-S3-Touch-LCD-1.3 - Arduino
+0x826B | Waveshare ESP32-S3-Touch-LCD-1.3 - CircuitPython/MicroPython
+0x826C | Waveshare ESP32-S3-Touch-LCD-1.3 - UF2 Bootloader
 0x826D | Waveshare ESP32-S3-Matrix - Arduino
 0x826E | Waveshare ESP32-S3-Matrix  - CircuitPython/MicroPython
 0x826F | Waveshare ESP32-S3-Matrix  - UF2 Bootloader
-0x8270 | Unallocated
-0x8271 | Unallocated
-0x8272 | Unallocated
+0x8270 | Waveshare ESP32-S3-Touch-LCD-3.5 - Arduino
+0x8271 | Waveshare ESP32-S3-Touch-LCD-3.5 - CircuitPython/MicroPython
+0x8272 | Waveshare ESP32-S3-Touch-LCD-3.5 - UF2 Bootloader
 0x8273 | Waveshare ESP32-S3-Relay-6CH - Arduino
 0x8274 | Waveshare ESP32-S3-Relay-6CH - CircuitPython/MicroPython
 0x8275 | Waveshare ESP32-S3-Relay-6CH - UF2 Bootloader
-0x8276 | Unallocated
-0x8277 | Unallocated
-0x8278 | Unallocated
-0x8279 | Unallocated
-0x827A | Unallocated
-0x827B | Unallocated
+0x8276 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - Arduino
+0x8277 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - CircuitPython/MicroPython
+0x8278 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - UF2 Bootloader
+0x8279 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - Arduino
+0x827A | Waveshare ESP32-S3-Touch-AMOLED-2.41 - CircuitPython/MicroPython
+0x827B | Waveshare ESP32-S3-Touch-AMOLED-2.41 - UF2 Bootloader
 0x827C | Waveshare ESP32-S3-GEEK - Arduino
 0x827D | Waveshare ESP32-S3-GEEK - UF2 Bootloader
 0x827E | Waveshare ESP32-S3-LCD-1.28 - Arduino
