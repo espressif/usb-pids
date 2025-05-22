@@ -623,22 +623,22 @@ PID    | Product name
 0x8267 | Waveshare ESP32-S3-Tiny - Arduino
 0x8268 | Waveshare ESP32-S3-Tiny - CircuitPython/MicroPython
 0x8269 | Waveshare ESP32-S3-Tiny - UF2 Bootloader
-0x826A | Unallocated
-0x826B | Unallocated
-0x826C | Unallocated
+0x826A | Waveshare ESP32-S3-Touch-LCD-1.3 - Arduino
+0x826B | Waveshare ESP32-S3-Touch-LCD-1.3 - CircuitPython/MicroPython
+0x826C | Waveshare ESP32-S3-Touch-LCD-1.3 - UF2 Bootloader
 0x826D | Waveshare ESP32-S3-Matrix - Arduino
 0x826E | Waveshare ESP32-S3-Matrix  - CircuitPython/MicroPython
 0x826F | Waveshare ESP32-S3-Matrix  - UF2 Bootloader
-0x8270 | Unallocated
-0x8271 | Unallocated
-0x8272 | Unallocated
+0x8270 | Waveshare ESP32-S3-Touch-LCD-3.5 - Arduino
+0x8271 | Waveshare ESP32-S3-Touch-LCD-3.5 - CircuitPython/MicroPython
+0x8272 | Waveshare ESP32-S3-Touch-LCD-3.5 - UF2 Bootloader
 0x8273 | Waveshare ESP32-S3-Relay-6CH - Arduino
 0x8274 | Waveshare ESP32-S3-Relay-6CH - CircuitPython/MicroPython
 0x8275 | Waveshare ESP32-S3-Relay-6CH - UF2 Bootloader
-0x8276 | Unallocated
-0x8277 | Unallocated
-0x8278 | Unallocated
-0x8279 | Unallocated
+0x8276 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - CircuitPython/MicroPython
+0x8277 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - UF2 Bootloader
+0x8278 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - CircuitPython/MicroPython
+0x8279 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - UF2 Bootloader
 0x827A | Unallocated
 0x827B | Unallocated
 0x827C | Waveshare ESP32-S3-GEEK - Arduino
