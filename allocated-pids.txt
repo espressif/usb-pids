@@ -639,7 +639,7 @@ PID    | Product name
 0x8277 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - UF2 Bootloader
 0x8278 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - CircuitPython/MicroPython
 0x8279 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - UF2 Bootloader
-0x827A | Unallocated
+0x827A | kenny's Labs - WaKu Controller
 0x827B | Unallocated
 0x827C | Waveshare ESP32-S3-GEEK - Arduino
 0x827D | Waveshare ESP32-S3-GEEK - UF2 Bootloader
