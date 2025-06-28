@@ -749,3 +749,6 @@ PID    | Product name
 0x82E5 | FED4 - Arduino
 0x82E6 | FED4 - CircuitPython
 0x82E7 | FED4 - Uf2 Bootloader
+0x82E8 | Wireless-tag WT99P4C5 - Arduino
+0x82E9 | Wireless-tag WT99P4C5 - CircuitPython
+0x82EA | Wireless-tag WT99P4C5 - Uf2 Bootloader
