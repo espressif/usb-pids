@@ -752,3 +752,6 @@ PID    | Product name
 0x82E8 | Wireless-tag WT99P4C5 - Arduino
 0x82E9 | Wireless-tag WT99P4C5 - CircuitPython
 0x82EA | Wireless-tag WT99P4C5 - Uf2 Bootloader
+0x82EB | Deneyap Kart v2 - Arduino
+0x82EC | Deneyap Kart v2 - CircuitPython
+0x82ED | Deneyap Kart v2 - UF2 Bootloader
