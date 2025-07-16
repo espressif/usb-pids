@@ -756,3 +756,7 @@ PID    | Product name
 0x82EC | Deneyap Kart v2 - CircuitPython
 0x82ED | Deneyap Kart v2 - UF2 Bootloader
 0x82EE | Sentient Computing - Tyr
+0x82EF | Laptitude™ - Bootloader
+0x82F0 | Laptitude™ - Main
+0x82F1 | Laptitude™ - Reserved 1
+0x82F2 | Laptitude™ - Reserved 2
