@@ -758,3 +758,4 @@ PID    | Product name
 0x82EE | Sentient Computing - Tyr
 0x82EF | Laptitude™ - Bootloader
 0x82F0 | Laptitude™ - Main
+0x82F1 | WERMA Signaltechnik GmbH + Co. KG - MC55 Smart
