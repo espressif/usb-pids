@@ -759,3 +759,5 @@ PID    | Product name
 0x82EF | Laptitude™ - Bootloader
 0x82F0 | Laptitude™ - Main
 0x82F1 | WERMA Signaltechnik GmbH + Co. KG - MC55 Smart
+0x82F2 | CharaChorder Forge Trackball S2
+0x82F3 | CharaChorder Forge Trackball S2 - UF2 Bootloader
