@@ -761,3 +761,6 @@ PID    | Product name
 0x82F1 | WERMA Signaltechnik GmbH + Co. KG - MC55 Smart
 0x82F2 | CharaChorder Forge Trackball S2
 0x82F3 | CharaChorder Forge Trackball S2 - UF2 Bootloader
+0x82F4 | FoBE Quill ESP32-S3 Mesh - Arduino
+0x82F5 | FoBE Quill ESP32-S3 Mesh - CircuitPython/MicroPython
+0x82F6 | FoBE Quill ESP32-S3 Mesh - UF2 Bootloader
