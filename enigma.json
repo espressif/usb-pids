@@ -1,0 +1,7 @@
+{
+  "pid": "auto",
+  "description": "escape room control panel elements",
+  "vendor": "MadGoat Labs",
+  "url": "https://github.com/kskelm/esp32-usb-pids",
+  "notes": "puzzle room i/o, esp32-s3"
+}
