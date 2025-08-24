@@ -1,7 +1,7 @@
 {
   "pid": "auto",
-  "description": "escape room control panel elements",
+  "description": "enigma control device family",
   "vendor": "MadGoat Labs",
-  "url": "https://github.com/kskelm/esp32-usb-pids",
-  "notes": "puzzle room i/o, esp32-s3"
+  "url": "https://github.com/kskelm/enigma",
+  "notes": "set of 8 usb hid+msc control devices (controls, lighting, displays, etc.) built on esp32-s3"
 }
