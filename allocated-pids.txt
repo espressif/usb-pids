@@ -766,3 +766,6 @@ PID    | Product name
 0x82F6 | FoBE Quill ESP32-S3 Mesh - UF2 Bootloader
 0x82F7 | Namaka Reverb - Silver Series - VTR Effects
 0x82F8 | Ignis Amp Modeler - Diamond Series - VTR Effects 
+0x82F9 | Elecrow ThinkNode M5 - Arduino
+0x82FA | Elecrow ThinkNode M5 - CircuitPython/Micropython
+0x82FB | Elecrow ThinkNode M5 - UF2 Bootloader
