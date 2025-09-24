@@ -769,3 +769,6 @@ PID    | Product name
 0x82F9 | Elecrow ThinkNode M5 - Arduino
 0x82FA | Elecrow ThinkNode M5 - CircuitPython/Micropython
 0x82FB | Elecrow ThinkNode M5 - UF2 Bootloader
+0x82FC | Soldered NULA DeepSleep ESP32-S3
+0x82FD | Soldered NULA Vision ESP32-S3
+0x82FE | Vulintus RePlay IMU
