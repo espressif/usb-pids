@@ -773,3 +773,13 @@ PID    | Product name
 0x82FD | Soldered NULA Vision ESP32-S3
 0x82FE | Vulintus RePlay IMU
 0x82FF | Digimet WIC5 Control
+0x8300 | SEIKAN Akari NEW Card Reader
+0x8301 | SEIKAN Stavona R Controller
+0x8302 | SEIKAN Stavona Lite Controller
+0x8303 | SEIKAN Stavona Evo Controller
+0x8304 | SEIKAN ONGEKI Controller
+0x8305 | SEIKAN maimaiDX Controller
+0x8306 | SEIKAN beatmania IIDX Controller
+0x8307 | SEIKAN Sound Voltex Controller
+0x8308 | SEIKAN Fate Grand/Order Controller
+0x8309 | SEIKAN VR Tracker
