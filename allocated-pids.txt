@@ -783,3 +783,6 @@ PID    | Product name
 0x8307 | SEIKAN Sound Voltex Controller
 0x8308 | SEIKAN Fate Grand/Order Controller
 0x8309 | SEIKAN VR Tracker
+0x830A | M5STACK DinMeter - Arduino
+0x830B | M5STACK DinMeter - Micropython/CircuitPython
+0x830C | M5STACK DinMeter - UF2 Bootloader
