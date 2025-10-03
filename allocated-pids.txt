@@ -786,3 +786,4 @@ PID    | Product name
 0x830A | M5STACK DinMeter - Arduino
 0x830B | M5STACK DinMeter - Micropython/CircuitPython
 0x830C | M5STACK DinMeter - UF2 Bootloader
+0x830D | Soundskrit Firefly
