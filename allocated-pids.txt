@@ -800,3 +800,7 @@ PID    | Product name
 0x8318 | INBRAT - PVTracer
 0x8319 | Nabu Casa - Home Assistant Connect ZWA-2
 0x831A | Nabu Casa - Home Assistant Connect ZBT-2
+0x831B | PilotWisdom - Autopilot module
+0x831C | PilotWisdom - Starter SimPanel
+0x831D | PilotWisdom - DoubleSwitch SimPanel
+0x831E | PilotWisdom - Lights SimPanel
