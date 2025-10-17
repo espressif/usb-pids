@@ -801,3 +801,7 @@ PID    | Product name
 0x8319 | Nabu Casa - Home Assistant Connect ZWA-2
 0x831A | Nabu Casa - Home Assistant Connect ZBT-2
 0x831B | ecoprintQ - Fingerprint Release
+0x831C | PilotWisdom - Autopilot module
+0x831D | PilotWisdom - Starter SimPanel
+0x831E | PilotWisdom - DoubleSwitch SimPanel
+0x831F | PilotWisdom - Lights SimPanel
