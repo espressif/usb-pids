@@ -800,3 +800,4 @@ PID    | Product name
 0x8318 | INBRAT - PVTracer
 0x8319 | Nabu Casa - Home Assistant Connect ZWA-2
 0x831A | Nabu Casa - Home Assistant Connect ZBT-2
+0x831B | ecoprintQ - Fingerprint Release
