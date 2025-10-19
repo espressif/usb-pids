@@ -805,3 +805,7 @@ PID    | Product name
 0x831D | PilotWisdom - Starter SimPanel
 0x831E | PilotWisdom - DoubleSwitch SimPanel
 0x831F | PilotWisdom - Lights SimPanel
+0x8320 | Neubras – Universal RFID Reader
+0x8321 | Neubras – Universal RFID Reader WIFI
+0x8322 | Neubras – FingerPrint RFID Reader
+0x8323 | Neubras – Face RFID Reader
