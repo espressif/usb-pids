@@ -809,3 +809,6 @@ PID    | Product name
 0x8321 | Neubras – Universal RFID Reader WIFI
 0x8322 | Neubras – FingerPrint RFID Reader
 0x8323 | Neubras – Face RFID Reader
+0x8324 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - Arduino
+0x8325 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - CircuitPython/MicroPython
+0x8326 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - UF2 Bootloader
