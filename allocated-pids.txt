@@ -813,3 +813,4 @@ PID    | Product name
 0x8325 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - CircuitPython/MicroPython
 0x8326 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - UF2 Bootloader
 0x8327 | JoLaBi SonicSense Ultrasonic Microphone
+0x8328 | Robotic Sports Games - Pocorobo
