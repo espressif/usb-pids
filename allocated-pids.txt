@@ -815,4 +815,7 @@ PID    | Product name
 0x8327 | JoLaBi SonicSense Ultrasonic Microphone
 0x8328 | Robotic Sports Games - Pocorobo
 0x8329 | Javiju555 DIY SimRacing Peripheral Ecosystem (umbrella PID)
-0x832A | Nuavos - Oasis Desktop Speaker Hub
+0x832A | M5STACK Tab5 - Arduino
+0x832B | M5STACK Tab5 - Micropython/CircuitPython
+0x832C | M5STACK Tab5 - UF2 Bootloader
+0x832D | Nuavos - Oasis Desktop Speaker Hub
