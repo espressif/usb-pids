@@ -818,3 +818,4 @@ PID    | Product name
 0x832A | M5STACK Tab5 - Arduino
 0x832B | M5STACK Tab5 - Micropython/CircuitPython
 0x832C | M5STACK Tab5 - UF2 Bootloader
+0x832D | Nuavos - Oasis Desktop Speaker Hub
