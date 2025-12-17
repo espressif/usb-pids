@@ -820,3 +820,5 @@ PID    | Product name
 0x832C | M5STACK Tab5 - UF2 Bootloader
 0x832D | Nuavos - Oasis Desktop Speaker Hub
 0x832E | GREYNUT - Luxafor Signal
+0x832F | Croxel - HTS Heated Tip Syringe Controller
+0x8330 | Croxel - RPC Rapid PreCure Controller
