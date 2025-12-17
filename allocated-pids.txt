@@ -822,3 +822,7 @@ PID    | Product name
 0x832E | GREYNUT - Luxafor Signal
 0x832F | Croxel - HTS Heated Tip Syringe Controller
 0x8330 | Croxel - RPC Rapid PreCure Controller
+0x8331 | DIY FFB Pedal - Wireless Controller
+0x8332 | DIY FFB Pedal - Pedal Clutch
+0x8333 | DIY FFB Pedal - Pedal Brake
+0x8334 | DIY FFB Pedal - Pedal Throttle
