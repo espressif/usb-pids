@@ -828,3 +828,4 @@ PID    | Product name
 0x8334 | DIY FFB Pedal - Pedal Throttle
 0x8335 | Smart UPS W180 - WalleCube
 0x8336 | AI MOUSE PID
+0x8337 | XT Motion Simulators XT-CB1
