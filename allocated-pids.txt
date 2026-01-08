@@ -829,3 +829,12 @@ PID    | Product name
 0x8335 | Smart UPS W180 - WalleCube
 0x8336 | AI MOUSE PID
 0x8337 | XT Motion Simulators XT-CB1
+0x8338 | PilotWisdom - Garmin1x
+0x8339 | PilotWisdom - Garmin3x touch
+0x833A | PilotWisdom - Flaps control
+0x833B | PilotWisdom - Trim control
+0x833C | PilotWisdom - Gear control
+0x833D | PilotWisdom - Frequency control
+0x833E | PilotWisdom - Transponder
+0x833F | PilotWisdom - SimpleAutopilot
+0x8340 | PilotWisdom - Radio selector
