@@ -838,3 +838,4 @@ PID    | Product name
 0x833E | PilotWisdom - Transponder
 0x833F | PilotWisdom - SimpleAutopilot
 0x8340 | PilotWisdom - Radio selector
+0x8341 | EMC PARTNER ESDEX - ESD Generator
