@@ -843,5 +843,5 @@ PID    | Product name
 0x8343 | LilyGO T-Display-P4 - Arduino
 0x8344 | LilyGO T-Display-P4 - CircuitPython/MicroPython
 0x8345 | LilyGO T-Display-P4 - UF2 Bootloader
-0x8346 | Meatdryer - Smart Hook
+0x8347 | Meatdryer - Smart Hook
 
