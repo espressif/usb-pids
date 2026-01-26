@@ -844,3 +844,4 @@ PID    | Product name
 0x8344 | LilyGO T-Display-P4 - CircuitPython/MicroPython
 0x8345 | LilyGO T-Display-P4 - UF2 Bootloader
 0x8346 | Work Louder - XYZ Work Board r2
+0x8347 | Meatdryer - Smart Hook
