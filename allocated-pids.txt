@@ -845,3 +845,5 @@ PID    | Product name
 0x8345 | LilyGO T-Display-P4 - UF2 Bootloader
 0x8346 | Work Louder - XYZ Work Board r2
 0x8347 | Meatdryer - Smart Hook
+0x8348 | ESP32-S3 - Jksimtech HapticPro6 Haptic System
+0x8349 | ESP32-S3 - Jksimtech Hypercar Lenkrad
