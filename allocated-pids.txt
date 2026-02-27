@@ -849,3 +849,5 @@ PID    | Product name
 0x8349 | NHB Systems - JL401-S3 - Arduino
 0x834A | NHB Systems - JL401-S3 - CircuitPython/MicroPython
 0x834B | NHB Systems - JL401-S3 - UF2 Bootloader
+0x834C | KiraLive - KEY
+0x834D | KiraLive - BIO
