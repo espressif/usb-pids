@@ -851,3 +851,4 @@ PID    | Product name
 0x834B | NHB Systems - JL401-S3 - UF2 Bootloader
 0x834C | KiraLive - KEY
 0x834D | KiraLive - BIO
+0x834E | EasyTune - EasyFlash OBD Vehicle Interface
