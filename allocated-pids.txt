@@ -852,3 +852,4 @@ PID    | Product name
 0x834C | KiraLive - KEY
 0x834D | KiraLive - BIO
 0x834E | EasyTune - EasyFlash OBD Vehicle Interface
+0x834F | WERMA Signaltechnik GmbH + Co. KG - MC55 High Smart
