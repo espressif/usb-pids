@@ -856,3 +856,5 @@ PID    | Product name
 0x8350 | PAUSCH-e - Schwelltritt und Pistons über USB
 0x8351 | oryzn - Volume Controller
 0x8352 | oryzn - System Controller
+0x8353 | Fenby - Puddle Remote DFU
+0x8354 | Fenby - Puddle Remote
