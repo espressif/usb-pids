@@ -858,3 +858,4 @@ PID    | Product name
 0x8352 | oryzn - System Controller
 0x8353 | Fenby - Puddle Remote DFU
 0x8354 | Fenby - Puddle Remote
+0x8355 | Nexus
