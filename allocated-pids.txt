@@ -863,3 +863,4 @@ PID    | Product name
 0x8357 | Bilbos - Spira
 0x8358 | Bilbos - Sound Level Calibrator
 0x8359 | Bilbos - Flow Meter Calibrator
+0x835A | F5 Datalink Adapter - Remote Camera Control
