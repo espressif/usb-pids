@@ -864,10 +864,4 @@ PID    | Product name
 0x8358 | Bilbos - Sound Level Calibrator
 0x8359 | Bilbos - Flow Meter Calibrator
 0x835A | F5 Datalink Adapter - Remote Camera Control
-
 0x835B | SynthHead - Midi Controller
-- Our SynthHead Midi Controller serves as a Frontend for DAWs, SoftSynths or other Music Production Software on Windows, Linux and MAC
-- We are using ESP32-S3 microcontrollers currently
-- A custom PID is required due to custom usb midi/midi sysex implementation and we are building commercial products. 
-- Company name is SynthHead Electronics e.K. (Shortly named SynthHead)
-- See https://www.synthhead.de or https://www.instagram.com/synthhead.de
