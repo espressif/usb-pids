@@ -865,3 +865,4 @@ PID    | Product name
 0x8359 | Bilbos - Flow Meter Calibrator
 0x835A | F5 Datalink Adapter - Remote Camera Control
 0x835B | SynthHead - Midi Controller
+0x835C | Siemens - Einbauleuchte 8WD56 
