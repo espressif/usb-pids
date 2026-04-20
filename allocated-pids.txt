@@ -867,3 +867,4 @@ PID    | Product name
 0x835B | SynthHead - Midi Controller
 0x835C | Siemens - Einbauleuchte 8WD56 
 0x835D | Smart Solution For International Trade LLC - Tensai BLE HID Dongle
+0x835E | CamSync - Camera Sync Controller
