@@ -869,3 +869,4 @@ PID    | Product name
 0x835D | Smart Solution For International Trade LLC - Tensai BLE HID Dongle
 0x835E | CamSync - Camera Sync Controller
 0x835F | Barbiani Solucoes em Tecnologia LTDA
+0x8360 | Work Louder - Creator Micro v2 - Project 2077
