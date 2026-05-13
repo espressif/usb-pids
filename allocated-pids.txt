@@ -872,3 +872,4 @@ PID    | Product name
 0x8360 | Work Louder - Creator Micro v2 - Project 2077
 0x8361 | Gevto - Digital Scale Type A
 0x8362 | Gevto - Digital Scale Type B
+0x8363 | PenEngineering S.R.L - AkiraConsole
