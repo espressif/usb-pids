@@ -870,3 +870,5 @@ PID    | Product name
 0x835E | CamSync - Camera Sync Controller
 0x835F | Barbiani Solucoes em Tecnologia LTDA
 0x8360 | Work Louder - Creator Micro v2 - Project 2077
+0x8361 | Gevto - Digital Scale Type A
+0x8362 | Gevto - Digital Scale Type B
