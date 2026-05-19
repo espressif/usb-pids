@@ -875,3 +875,4 @@ PID    | Product name
 0x8363 | PenEngineering S.R.L - AkiraConsole
 0x8364 | Paige Braille - Paige Writer
 0x8365 | Paige Braille - Paige Connect
+0x8366 | Kende - FIDO2 Key Project
