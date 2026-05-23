@@ -881,13 +881,3 @@ PID    | Product name
 0x836D | Starpoint Australis - RC Focus
 0x836E | Starpoint Australis - Chameleon IQ
 0x836F | Starpoint Australis - Pavo Power
-0x8370 | Starpoint Australis - Reserved
-0x8371 | Starpoint Australis - Reserved
-0x8372 | Starpoint Australis - Reserved
-0x8373 | Starpoint Australis - Reserved
-0x8374 | Starpoint Australis - Reserved
-0x8375 | Starpoint Australis - Reserved
-0x8376 | Starpoint Australis - Reserved
-0x8377 | Starpoint Australis - Reserved
-0x8378 | Starpoint Australis - Reserved
-0x8379 | Starpoint Australis - Reserved
