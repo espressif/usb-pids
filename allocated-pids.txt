@@ -875,6 +875,10 @@ PID    | Product name
 0x8363 | PenEngineering S.R.L - AkiraConsole
 0x8364 | Paige Braille - Paige Writer
 0x8365 | Paige Braille - Paige Connect
+0x8366 | LilyGO T-Beam 1W - Arduino
+0x8367 | LilyGO T-Beam 1W - CircuitPython/MicroPython
+0x8368 | LilyGO T-Beam 1W - UF2 Bootloader
+0x8369 | Geeksville - Touchy-pad
 0x836A | Starpoint Australis - SP3 Focus
 0x836B | Starpoint Australis - Vela 7
 0x836C | Starpoint Australis - Vela 9
