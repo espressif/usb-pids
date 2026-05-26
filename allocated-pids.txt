@@ -878,3 +878,4 @@ PID    | Product name
 0x8366 | LilyGO T-Beam 1W - Arduino
 0x8367 | LilyGO T-Beam 1W - CircuitPython/MicroPython
 0x8368 | LilyGO T-Beam 1W - UF2 Bootloader
+0x8369 | Geeksville - Touchy-pad
