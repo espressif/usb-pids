@@ -879,3 +879,9 @@ PID    | Product name
 0x8367 | LilyGO T-Beam 1W - CircuitPython/MicroPython
 0x8368 | LilyGO T-Beam 1W - UF2 Bootloader
 0x8369 | Geeksville - Touchy-pad
+0x836A | Starpoint Australis - SP3 Focus
+0x836B | Starpoint Australis - Vela 7
+0x836C | Starpoint Australis - Vela 9
+0x836D | Starpoint Australis - RC Focus
+0x836E | Starpoint Australis - Chameleon IQ
+0x836F | Starpoint Australis - Pavo Power
