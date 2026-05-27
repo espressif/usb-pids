@@ -893,3 +893,6 @@ PID    | Product name
 0x8375 | PCBCupid Glyph S3 with PSRAM - Arduino
 0x8376 | PCBCupid Glyph S3 with PSRAM - CircuitPython/MicroPython
 0x8377 | PCBCupid Glyph S3 with PSRAM - UF2 Bootloader
+0x8378 | Waveshare ESP32-S3-Tiny-N8R8 - Arduino
+0x8379 | Waveshare ESP32-S3-Tiny-N8R8 - CircuitPython/MicroPython
+0x837A | Waveshare ESP32-S3-Tiny-N8R8 - UF2 Bootloader
