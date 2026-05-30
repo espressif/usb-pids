@@ -885,3 +885,5 @@ PID    | Product name
 0x836D | Starpoint Australis - RC Focus
 0x836E | Starpoint Australis - Chameleon IQ
 0x836F | Starpoint Australis - Pavo Power
+0x8370 | Work Louder - Nomad [E] v2 - ISO
+0x8371 | Work Louder - Nomad [E] v2 - ANSI
