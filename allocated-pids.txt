@@ -887,3 +887,9 @@ PID    | Product name
 0x836F | Starpoint Australis - Pavo Power
 0x8370 | Work Louder - Nomad [E] v2 - ISO
 0x8371 | Work Louder - Nomad [E] v2 - ANSI
+0x8372 | PCBCupid Glyph S3 - Arduino
+0x8373 | PCBCupid Glyph S3 - CircuitPython/MicroPython
+0x8374 | PCBCupid Glyph S3 - UF2 Bootloader
+0x8375 | PCBCupid Glyph S3 with PSRAM - Arduino
+0x8376 | PCBCupid Glyph S3 with PSRAM - CircuitPython/MicroPython
+0x8377 | PCBCupid Glyph S3 with PSRAM - UF2 Bootloader
