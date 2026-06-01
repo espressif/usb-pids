@@ -224,9 +224,9 @@ PID    | Product name
 0x80D8 | Unexpected Maker FeatherS3 - UF2 Bootloader
 0x80D9 | FutureKeys HexKy S2 - CircuitPython
 0x80DA | FutureKeys HexKy S2 - UF2 Bootloader
-0x80DB | CircuitArt FeatherS3 - Arduino
-0x80DC | CircuitArt FeatherS3 - UF2 Bootloader
-0x80DD | CircuitArt FeatherS3 - CircuitPython
+0x80DB | CircuitArt ESP32S3 zero - Arduino
+0x80DC | CircuitArt ESP32S3 zero - UF2 Bootloader
+0x80DD | CircuitArt ESP32S3 zero - CircuitPython
 0x80DE | Banana Pi BPI-Leaf-S3 - UF2 Bootloader
 0x80DF | Banana Pi BPI-Leaf-S3 - Arduino
 0x80E0 | Banana Pi BPI-Leaf-S3 - CircuitPython
@@ -472,3 +472,427 @@ PID    | Product name
 0x81D0 | Columbia DSL Sensor Board - CircuitPython
 0x81D1 | Columbia DSL Sensor Board - UF2 Bootloader
 0x81D2 | Sterling Hawk - SterlingKey
+0x81D3 | Meocap Receiver
+0x81D4 | Meocap Receiver - UF2 Bootloader
+0x81D5 | HSBL-ko-gyo HSBL-S100 Chameleon Key
+0x81D6 | HSBL-ko-gyo HSBL-S100 Chameleon Key - UF2 Bootloader
+0x81D7 | Kailani Reverb Black Edition - VTR Effects
+0x81D8 | CCLLC Sensor Mesh Node
+0x81D9 | M5STACK Cardputer - Arduino
+0x81DA | M5STACK Cardputer - CircuitPython
+0x81DB | M5STACK Cardputer - UF2 Bootloader
+0x81DC | M5STACK Dial - Arduino
+0x81DD | M5STACK Dial - CircuitPython
+0x81DE | M5STACK Dial - UF2 Bootloader
+0x81DF | GREYNUT - BUSY TAG
+0x81E0 | QRP Labs - LightTracker Plus
+0x81E1 | SimKTech - SF1000
+0x81E2 | SimKTech - Evo Plus
+0x81E3 | SimKTech - Evo
+0x81E4 | SimKTech - 488
+0x81E5 | Narciso Delay Black Edition - VTR Effects
+0x81E6 | MRC Nexxt Gateway
+0x81E7 | MRC Nexxt Command Station
+0x81E8 | MRC Nexxt Throttle
+0x81E9 | MRC Nexxt Booster
+0x81EA | Waveshare ESP32-S3-GEEK - CircuitPython
+0x81EB | BlueRetro - X BT adapter
+0x81EC | LILYGO T-Keyboard-S3 - Arduino
+0x81ED | LILYGO T-Keyboard-S3 - CircuitPython
+0x81EE | LILYGO T-Keyboard-S3 - MicroPython
+0x81EF | LILYGO T-Keyboard-S3 - UF2 Bootloader
+0x81F0 | KairoTech - Arcade Card Reader
+0x81F1 | KairoTech - CHUNITHM Controller
+0x81F2 | KairoTech - ONGEKI Controller
+0x81F3 | KairoTech - maimaiDX Controller
+0x81F4 | KairoTech - beatmania IIDX Controller
+0x81F5 | KairoTech - Sound Voltex Controller
+0x81F6 | KairoTech - PSoC Flasher
+0x81F7 | KairoTech - Universal IO
+0x81F8 | Waveshare ESP32-S3-Tiny - CircuitPython
+0x81F9 | Wirmo SkysyLight ESP32-S2 - Busylight
+0x81FA | Wirmo SkysyLight ESP32-S2 - UF2 Bootloader
+0x81FB | Unexpected Maker FeatherS3 Neo - Arduino
+0x81FC | Unexpected Maker FeatherS3 Neo - CircuitPython
+0x81FD | Unexpected Maker FeatherS3 Neo - UF2 Bootloader
+0x81FE | Unexpected Maker RGBTouch Mini - Arduino
+0x81FF | Unexpected Maker RGBTouch Mini - CircuitPython
+0x8200 | Unexpected Maker RGBTouch Mini - UF2 Bootloader
+0x8201 | UMD - Logger
+0x8202 | ThingPulse Pendrive S3 128MB - Arduino
+0x8203 | EMC - EMCFFB
+0x8204 | ThingPulse Pendrive S3 128MB - Circuit Python
+0x8205 | ThingPulse Pendrive S3 128MB - UF2 Bootloader
+0x8206 | modue® One Touch - main
+0x8207 | modue® One Touch - bootloader
+0x8208 | modue® One XLR - main
+0x8209 | modue® One XLR - bootloader
+0x820A | LilyGO T3-S3 - Arduino
+0x820B | LilyGO T3-S3 - CircuitPython/Micropython
+0x820C | LilyGO T3-S3 - UF2 Bootloader
+0x820D | Bits and Droids - Flight Companion Unit
+0x820E | Domino4 - CWA - Core WiFi Alpha (ESP32-S3 8MB)
+0x820F | Domino4 - CWV - Core WiFi Vertebra (ESP32-S3 8MB)
+0x8210 | LILYGO T-Display-S3-Pro - Arduino
+0x8211 | LILYGO T-Display-S3-Pro - CircuitPython
+0x8212 | LILYGO T-Display-S3-Pro - UF2 Bootloader
+0x8213 | LILYGO T4-S3 - Arduino
+0x8214 | LILYGO T4-S3 - CircuitPython
+0x8215 | LILYGO T4-S3 - UF2 Bootloader
+0x8216 | LOLIN S3 Mini Pro - Arduino
+0x8217 | LOLIN S3 Mini Pro - CircuitPython
+0x8218 | LOLIN S3 Mini Pro - UF2 Bootloader
+0x8219 | WERMA Signaltechnik GmbH + Co. KG - MC55 Touch Smart
+0x821A | CBMSTUFF.COM - SuperCard Pro Deluxe (ESP32-S3-N4R2)
+0x821B | LILYGO T-Watch-S3 - Arduino
+0x821C | LILYGO T-Watch-S3 - CircuitPython/MicroPython
+0x821D | LILYGO T-Watch-S3 - UF2 Bootloader
+0x821E | Waveshare ESP32-S3-Touch-LCD-1.69 - Arduino
+0x821F | Waveshare ESP32-S3-Touch-LCD-1.69 - CircuitPython/MicroPython
+0x8220 | Waveshare ESP32-S3-Touch-LCD-1.69 - UF2 Bootloader
+0x8221 | Waveshare ESP32-S3-LCD-1.69 - Arduino
+0x8222 | Waveshare ESP32-S3-LCD-1.69 - CircuitPython/MicroPython
+0x8223 | Waveshare ESP32-S3-LCD-1.69 - UF2 Bootloader
+0x8224 | Unexpected Maker OMGS3 - Arduino
+0x8225 | Unexpected Maker OMGS3 - CircuitPython/MicroPython
+0x8226 | Unexpected Maker OMGS3 - UF2 Bootloader
+0x8227 | LILYGO T-Watch-Ultra - Arduino
+0x8228 | LILYGO T-Watch-Ultra - CircuitPython/MicroPython
+0x8229 | LILYGO T-Watch-Ultra - UF2 Bootloader
+0x822A | ATLNS Flasher
+0x822B | Waveshare ESP32-S3-Zero - Arduino
+0x822C | Waveshare ESP32-S3-Zero - CircuitPython/MicroPython
+0x822D | Waveshare ESP32-S3-Zero - UF2 Bootloader
+0x822E | Waveshare ESP32-S3-Touch-LCD-4.3 - Arduino
+0x822F | Waveshare ESP32-S3-Touch-LCD-4.3 - CircuitPython/MicroPython
+0x8230 | Waveshare ESP32-S3-Touch-LCD-4.3 - UF2 Bootloader
+0x8231 | Waveshare ESP32-S3-Touch-LCD-4.3B - Arduino
+0x8232 | Waveshare ESP32-S3-Touch-LCD-4.3B - CircuitPython/MicroPython
+0x8233 | Waveshare ESP32-S3-Touch-LCD-4.3B - UF2 Bootloader
+0x8234 | Waveshare ESP32-S3-Touch-LCD-7 - Arduino
+0x8235 | Waveshare ESP32-S3-Touch-LCD-7 - CircuitPython/MicroPython
+0x8236 | Waveshare ESP32-S3-Touch-LCD-7 - UF2 Bootloader
+0x8237 | Waveshare ESP32-S3-Touch-LCD-5 - Arduino
+0x8238 | Waveshare ESP32-S3-Touch-LCD-5 - CircuitPython/MicroPython
+0x8239 | Waveshare ESP32-S3-Touch-LCD-5 - UF2 Bootloader
+0x823A | Waveshare ESP32-S3-Touch-LCD-5B - Arduino
+0x823B | Waveshare ESP32-S3-Touch-LCD-5B - CircuitPython/MicroPython
+0x823C | Waveshare ESP32-S3-Touch-LCD-5B - UF2 Bootloader
+0x823D | Waveshare ESP32-S3-Touch-LCD-4 - Arduino
+0x823E | Waveshare ESP32-S3-Touch-LCD-4 - CircuitPython/MicroPython
+0x823F | Waveshare ESP32-S3-Touch-LCD-4 - UF2 Bootloader
+0x8240 | kohacraft.com Padauk Programmer - Arduino
+0x8241 | EASYBCI Bio Amp 1
+0x8242 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - Arduino
+0x8243 | Barduino 4 - Arduino
+0x8244 | Barduino 4 - CircuitPython/MicroPython
+0x8245 | Barduino 4 - UF2 Bootloader
+0x8246 | Generic ESP32-S3-Super-Mini - Arduino
+0x8247 | Generic ESP32-S3-Super-Mini - CircuitPython/MicroPython
+0x8248 | Generic ESP32-S3-Super-Mini - UF2 Bootloader
+0x8249 | Waveshare ESP32-S3-Touch-AMOLED-1.64 - Arduino
+0x824A | Waveshare ESP32-S3-Touch-AMOLED-1.43 - Arduino
+0x824B | Waveshare ESP32-S3-Touch-AMOLED-1.91 - Arduino
+0x824C | LILYGO T7-S3 - Arduino
+0x824D | LILYGO T7-S3 - CircuitPython
+0x824E | LILYGO T7-S3 - UF2 Bootloader
+0x824F | CircuitArt ESP32S3 CamTFT - Arduino
+0x8250 | CircuitArt ESP32S3 CamTFT - UF2 Bootloader
+0x8251 | CircuitArt ESP32S3 CamTFT - CircuitPython
+0x8252 | HE-FMX digital thickness gauge - Marconilab
+0x8253 | CharaChorder Two S3
+0x8254 | CharaChorder Two S3 - UF2 Bootloader
+0x8255 | Waveshare ESP32-S3-Touch-AMOLED-1.8 - Arduino
+0x8256 | Waveshare ESP32-S3-Touch-AMOLED-1.8 - CircuitPython/MicroPython
+0x8257 | Waveshare ESP32-S3-TOUCH-AMOLED-1.8 - UF2 Bootloader
+0x8258 | Waveshare ESP32-S3-Touch-LCD-1.46 - Arduino
+0x8259 | Waveshare ESP32-S3-Touch-LCD-1.46 - CircuitPython/MicroPython
+0x825A | Waveshare ESP32-S3-Touch-LCD-1.46 - UF2 Bootloader
+0x825B | Waveshare ESP32-S3-Touch-LCD-2.1 - Arduino
+0x825C | Waveshare ESP32-S3-Touch-LCD-2.1 - CircuitPython/MicroPython
+0x825D | Waveshare ESP32-S3-Touch-LCD-2.1 - UF2 Bootloader
+0x825E | Waveshare ESP32-S3-Touch-LCD-2.8 - Arduino
+0x825F | Waveshare ESP32-S3-Touch-LCD-2.8 - CircuitPython/MicroPython
+0x8260 | Waveshare ESP32-S3-Touch-LCD-2.8 - UF2 Bootloader
+0x8261 | Waveshare ESP32-S3-Touch-LCD-2.8B - Arduino
+0x8262 | Waveshare ESP32-S3-Touch-LCD-2.8B - CircuitPython/MicroPython
+0x8263 | Waveshare ESP32-S3-Touch-LCD-2.8B - UF2 Bootloader
+0x8264 | Waveshare ESP32-S3-Touch-LCD-2.8C - Arduino
+0x8265 | Waveshare ESP32-S3-Touch-LCD-2.8C - CircuitPython/MicroPython
+0x8266 | Waveshare ESP32-S3-Touch-LCD-2.8C - UF2 Bootloader
+0x8267 | Waveshare ESP32-S3-Tiny - Arduino
+0x8268 | Waveshare ESP32-S3-Tiny - CircuitPython/MicroPython
+0x8269 | Waveshare ESP32-S3-Tiny - UF2 Bootloader
+0x826A | Waveshare ESP32-S3-Touch-LCD-1.3 - Arduino
+0x826B | Waveshare ESP32-S3-Touch-LCD-1.3 - CircuitPython/MicroPython
+0x826C | Waveshare ESP32-S3-Touch-LCD-1.3 - UF2 Bootloader
+0x826D | Waveshare ESP32-S3-Matrix - Arduino
+0x826E | Waveshare ESP32-S3-Matrix  - CircuitPython/MicroPython
+0x826F | Waveshare ESP32-S3-Matrix  - UF2 Bootloader
+0x8270 | Waveshare ESP32-S3-Touch-LCD-3.5 - Arduino
+0x8271 | Waveshare ESP32-S3-Touch-LCD-3.5 - CircuitPython/MicroPython
+0x8272 | Waveshare ESP32-S3-Touch-LCD-3.5 - UF2 Bootloader
+0x8273 | Waveshare ESP32-S3-Relay-6CH - Arduino
+0x8274 | Waveshare ESP32-S3-Relay-6CH - CircuitPython/MicroPython
+0x8275 | Waveshare ESP32-S3-Relay-6CH - UF2 Bootloader
+0x8276 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - CircuitPython/MicroPython
+0x8277 | Waveshare ESP32-S3-Touch-AMOLED-1.43 - UF2 Bootloader
+0x8278 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - CircuitPython/MicroPython
+0x8279 | Waveshare ESP32-S3-Touch-AMOLED-2.41 - UF2 Bootloader
+0x827A | kenny's Labs - WaKu Controller
+0x827B | Unallocated
+0x827C | Waveshare ESP32-S3-GEEK - Arduino
+0x827D | Waveshare ESP32-S3-GEEK - UF2 Bootloader
+0x827E | Waveshare ESP32-S3-LCD-1.28 - Arduino
+0x827F | Waveshare ESP32-S3-LCD-1.28 - CircuitPython/MicroPython
+0x8280 | Waveshare ESP32-S3-LCD-1.28 - UF2 Bootloader
+0x8281 | Waveshare ESP32-S3-Touch-LCD-1.28 - Arduino
+0x8282 | Waveshare ESP32-S3-Touch-LCD-1.28 - CircuitPython/MicroPython
+0x8283 | Waveshare ESP32-S3-Touch-LCD-1.28 - UF2 Bootloader
+0x8284 | Waveshare ESP32-S3-LCD-Driver-Board - Arduino
+0x8285 | Waveshare ESP32-S3-LCD-Driver-Board - CircuitPython/MicroPython
+0x8286 | Waveshare ESP32-S3-LCD-Driver-Board - UF2 Bootloader
+0x8287 | Waveshare ESP32-S3-Touch-LCD-1.85-Box - Arduino
+0x8288 | Waveshare ESP32-S3-Touch-LCD-1.85-Box - CircuitPython/MicroPython
+0x8289 | Waveshare ESP32-S3-Touch-LCD-1.85-Box - UF2 Bootloader
+0x828A | Waveshare ESP32-S3-LCD-1.47 - Arduino
+0x828B | Waveshare ESP32-S3-LCD-1.47 - CircuitPython/MicroPython
+0x828C | Waveshare ESP32-S3-LCD-1.47 - UF2 Bootloader
+0x828D | Waveshare ESP32-S3-Touch-AMOLED-1.75 - Arduino
+0x828E | Waveshare ESP32-S3-Touch-AMOLED-1.75 - CircuitPython/MicroPython
+0x828F | Waveshare ESP32-S3-Touch-AMOLED-1.75 - UF2 Bootloader
+0x8290 | Waveshare ESP32-S3-Touch-LCD-1.85 - Arduino
+0x8291 | Waveshare ESP32-S3-Touch-LCD-1.85 - CircuitPython/MicroPython
+0x8292 | Waveshare ESP32-S3-Touch-LCD-1.85 - UF2 Bootloader
+0x8293 | Piston Medical - BLE Heart Rate Monitor Adapter
+0x8294 | Work Louder - Nomad [E] v1 - ANSI
+0x8295 | Work Louder - Nomad [E] v1 - ISO
+0x8296 | Work Louder - Knob v1 - ANSI
+0x8297 | Work Louder - Creator Micro v2
+0x8298 | Work Louder - Creator Micro v2 - BLE
+0x8299 | Work Louder - USB Dongle v1
+0x829A | CharaChorder Master Forge S3
+0x829B | CharaChorder Master Forge S3 - UF2 Bootloader
+0x829C | Bantam Tools Serama Rooster ArtFrame 1824
+0x829D | Bantam Tools Serama Rooster ArtFrame 2436
+0x829E | Bantam Tools Serama Rooster ArtFrame XXL
+0x829F | Bantam Tools Serama Handwriter
+0x82A0 | Bantam Tools Serama 
+0x82A1 | RobotClass Graphite S3 - Arduino
+0x82A2 | RobotClass Graphite S3 - CircuitPython
+0x82A3 | RobotClass Graphite S3 - UF2 Bootloader
+0x82A4 | ENERTY Module M - UF2 Bootloader
+0x82A5 | OpenRemise - S3Main
+0x82A6 | Undalogic miniSMU MS01
+0x82A7 | Waveshare ESP32-S3-ETH - Circuitpython
+0x82A8 | MIDI Dobrynya Aurora
+0x82A9 | MIDI Dobrynya Aurora UF2 Bootloader
+0x82AA | MIDI Dobrynya Aurora Pro
+0x82AB | MIDI Dobrynya Aurora Pro UF2 Bootloader
+0x82AC | MIDI Dobrynya Pocket
+0x82AD | MIDI Dobrynya Pocket UF2 Bootloader
+0x82AE | MIDI Dobrynya Pocket Pro
+0x82AF | MIDI Dobrynya Pocket Pro UF2 Bootloader
+0x82B0 | MIDI Dobrynya Micro V3
+0x82B1 | MIDI Dobrynya Micro V3 UF2 Bootloader
+0x82B2 | MIDI Dobrynya Mini V3
+0x82B3 | MIDI Dobrynya Mini V3 UF2 Bootloader
+0x82B4 | MIDI Dobrynya Pro V2
+0x82B5 | MIDI Dobrynya Pro V2 UF2 Bootloader
+0x82B6 | MIDI Dobrynya 32
+0x82B7 | MIDI Dobrynya 32 UF2 Bootloader
+0x82B8 | HOJA Gamepad Device
+0x82B9 | neway navpad controller v1 (boot)
+0x82BA | neway navpad controller v1
+0x82BB | neway navpad controller mini v1 (boot)
+0x82BC | neway navpad controller mini v1
+0x82BD | Enilinx™ Flexbar
+0x82BE | SONULAB™ StompStation
+0x82BF | Enilinx™ Flexbar-CDC
+0x82C0 | Dinnosys Llc. - SpeakNGo
+0x82C1 | LILYGO T-Dongle-S3 - Arduino
+0x82C2 | LILYGO T-Dongle-S3 - CircuitPython
+0x82C3 | LILYGO T-Dongle-S3 - UF2 Bootloader
+0x82C4 | Generic Red ESP32-S2-WROOM with Type-C - CircuitPython
+0x82C5 | Geekble Geekble Nano ESP32-S3 - Arduino
+0x82C6 | Geekble Geekble Nano ESP32-S3 - CircuitPython
+0x82C7 | Geekble Geekble Nano ESP32-S3 - UF2 Bootloader
+0x82C8 | Heltec Vision Master E290 - UF2 Bootloader
+0x82C9 | Heltec Vision Master E290 - CircuitPython
+0x82CA | Heltec Vision Master E290 - Arduino
+0x82CB | METADOX Soundproof Mask Headset USB - ESP32-S3
+0x82CC | EVO X1E
+0x82CD | WERMA Signaltechnik GmbH + Co. KG - LineLIGHT Fusion Smart
+0x82CE | Waveshare ESP32-S3-Touch-LCD-2 - CircuitPython
+0x82CF | Waveshare ESP32-S3-Touch-LCD-2 - UF2 Bootloader
+0x82D0 | SHED Makerspace Access Control Core (ESP32 S2)
+0x82D1 | senseBox-eye ESP32-S3 - Arduino
+0x82D2 | senseBox-eye ESP32-S3 - CircuitPython
+0x82D3 | senseBox-eye ESP32-S3 - Uf2 Bootloader
+0x82D4 | LILYGO T-LoRa-Pager - Arduino
+0x82D5 | LILYGO T-LoRa-Pager - CircuitPython/MicroPython
+0x82D6 | LILYGO T-LoRa-Pager - UF2 Bootloader
+0x82D7 | Glydr Galactic Holdings Inc - Glydr™
+0x82D8 | DanioVision Observation Chamber - Noldus Information Technology BV
+0x82D9 | Elecrow ThinkNode M2 - Arduino
+0x82DA | Elecrow ThinkNode M2 - CircuitPython/Micropython
+0x82DB | Elecrow ThinkNode M2 - UF2 Bootloader
+0x82DC | Unexpected Maker EDGES3 - Arduino
+0x82DD | Unexpected Maker EDGES3 - CircuitPython/MicroPython
+0x82DE | Unexpected Maker EDGES3 - UF2 Bootloader
+0x82DF | Unexpected Maker SQUiXL - Arduino
+0x82E0 | Unexpected Maker SQUiXL - CircuitPython/MicroPython
+0x82E1 | Unexpected Maker SQUiXL - UF2 Bootloader
+0x82E2 | Dilon Tech Probe (ESP32 S3)
+0x82E3 | Work Louder - Knob v1 - ISO
+0x82E4 | Domino4 - CWS - Springbot (ESP32-S2) - UF2 Bootloader
+0x82E5 | FED4 - Arduino
+0x82E6 | FED4 - CircuitPython
+0x82E7 | FED4 - Uf2 Bootloader
+0x82E8 | Wireless-tag WT99P4C5 - Arduino
+0x82E9 | Wireless-tag WT99P4C5 - CircuitPython
+0x82EA | Wireless-tag WT99P4C5 - Uf2 Bootloader
+0x82EB | Deneyap Kart v2 - Arduino
+0x82EC | Deneyap Kart v2 - CircuitPython
+0x82ED | Deneyap Kart v2 - UF2 Bootloader
+0x82EE | Sentient Computing - Tyr
+0x82EF | Laptitude™ - Bootloader
+0x82F0 | Laptitude™ - Main
+0x82F1 | WERMA Signaltechnik GmbH + Co. KG - MC55 Smart
+0x82F2 | CharaChorder Forge Trackball S2
+0x82F3 | CharaChorder Forge Trackball S2 - UF2 Bootloader
+0x82F4 | FoBE Quill ESP32-S3 Mesh - Arduino
+0x82F5 | FoBE Quill ESP32-S3 Mesh - CircuitPython/MicroPython
+0x82F6 | FoBE Quill ESP32-S3 Mesh - UF2 Bootloader
+0x82F7 | Namaka Reverb - Silver Series - VTR Effects
+0x82F8 | Ignis Amp Modeler - Diamond Series - VTR Effects 
+0x82F9 | Elecrow ThinkNode M5 - Arduino
+0x82FA | Elecrow ThinkNode M5 - CircuitPython/Micropython
+0x82FB | Elecrow ThinkNode M5 - UF2 Bootloader
+0x82FC | Soldered NULA DeepSleep ESP32-S3
+0x82FD | Soldered NULA Vision ESP32-S3
+0x82FE | Vulintus RePlay IMU
+0x82FF | Digimet WIC5 Control
+0x8300 | SEIKAN Akari NEW Card Reader
+0x8301 | SEIKAN Stavona R Controller
+0x8302 | SEIKAN Stavona Lite Controller
+0x8303 | SEIKAN Stavona Evo Controller
+0x8304 | SEIKAN ONGEKI Controller
+0x8305 | SEIKAN maimaiDX Controller
+0x8306 | SEIKAN beatmania IIDX Controller
+0x8307 | SEIKAN Sound Voltex Controller
+0x8308 | SEIKAN Fate Grand/Order Controller
+0x8309 | SEIKAN VR Tracker
+0x830A | M5STACK DinMeter - Arduino
+0x830B | M5STACK DinMeter - Micropython/CircuitPython
+0x830C | M5STACK DinMeter - UF2 Bootloader
+0x830D | Soundskrit Firefly
+0x830E | INBRAT - INMD1
+0x830F | INBRAT - INMD10
+0x8310 | INBRAT - INMD100
+0x8311 | INBRAT - INMD200
+0x8312 | INBRAT - INMG5
+0x8313 | INBRAT - INMG10
+0x8314 | INBRAT - INMG15
+0x8315 | INBRAT - INTR
+0x8316 | INBRAT - INTTR8000
+0x8317 | INBRAT - PVOne
+0x8318 | INBRAT - PVTracer
+0x8319 | Nabu Casa - Home Assistant Connect ZWA-2
+0x831A | Nabu Casa - Home Assistant Connect ZBT-2
+0x831B | ecoprintQ - Fingerprint Release
+0x831C | PilotWisdom - Autopilot module
+0x831D | PilotWisdom - Starter SimPanel
+0x831E | PilotWisdom - DoubleSwitch SimPanel
+0x831F | PilotWisdom - Lights SimPanel
+0x8320 | Neubras – Universal RFID Reader
+0x8321 | Neubras – Universal RFID Reader WIFI
+0x8322 | Neubras – FingerPrint RFID Reader
+0x8323 | Neubras – Face RFID Reader
+0x8324 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - Arduino
+0x8325 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - CircuitPython/MicroPython
+0x8326 | Waveshare ESP32-S3-TOUCH-LCD-1.47 - UF2 Bootloader
+0x8327 | JoLaBi SonicSense Ultrasonic Microphone
+0x8328 | Robotic Sports Games - Pocorobo
+0x8329 | Javiju555 DIY SimRacing Peripheral Ecosystem (umbrella PID)
+0x832A | M5STACK Tab5 - Arduino
+0x832B | M5STACK Tab5 - Micropython/CircuitPython
+0x832C | M5STACK Tab5 - UF2 Bootloader
+0x832D | Nuavos - Oasis Desktop Speaker Hub
+0x832E | GREYNUT - Luxafor Signal
+0x832F | Croxel - HTS Heated Tip Syringe Controller
+0x8330 | Croxel - RPC Rapid PreCure Controller
+0x8331 | DIY FFB Pedal - Wireless Controller
+0x8332 | DIY FFB Pedal - Pedal Clutch
+0x8333 | DIY FFB Pedal - Pedal Brake
+0x8334 | DIY FFB Pedal - Pedal Throttle
+0x8335 | Smart UPS W180 - WalleCube
+0x8336 | AI MOUSE PID
+0x8337 | XT Motion Simulators XT-CB1
+0x8338 | PilotWisdom - Garmin1x
+0x8339 | PilotWisdom - Garmin3x touch
+0x833A | PilotWisdom - Flaps control
+0x833B | PilotWisdom - Trim control
+0x833C | PilotWisdom - Gear control
+0x833D | PilotWisdom - Frequency control
+0x833E | PilotWisdom - Transponder
+0x833F | PilotWisdom - SimpleAutopilot
+0x8340 | PilotWisdom - Radio selector
+0x8341 | Openloop Hardware Wallet
+0x8342 | EMC PARTNER ESDEX - ESD Generator
+0x8343 | LilyGO T-Display-P4 - Arduino
+0x8344 | LilyGO T-Display-P4 - CircuitPython/MicroPython
+0x8345 | LilyGO T-Display-P4 - UF2 Bootloader
+0x8346 | Work Louder - XYZ Work Board r2
+0x8347 | Meatdryer - Smart Hook
+0x8348 | M5Stack CoreS3 SE - CircuitPython
+0x8349 | NHB Systems - JL401-S3 - Arduino
+0x834A | NHB Systems - JL401-S3 - CircuitPython/MicroPython
+0x834B | NHB Systems - JL401-S3 - UF2 Bootloader
+0x834C | KiraLive - KEY
+0x834D | KiraLive - BIO
+0x834E | EasyTune - EasyFlash OBD Vehicle Interface
+0x834F | WERMA Signaltechnik GmbH + Co. KG - MC55 High Smart
+0x8350 | PAUSCH-e - Schwelltritt und Pistons über USB
+0x8351 | oryzn - Volume Controller
+0x8352 | oryzn - System Controller
+0x8353 | Fenby - Puddle Remote DFU
+0x8354 | Fenby - Puddle Remote
+0x8355 | Bilbos - Auris
+0x8356 | Bilbos - Echos
+0x8357 | Bilbos - Spira
+0x8358 | Bilbos - Sound Level Calibrator
+0x8359 | Bilbos - Flow Meter Calibrator
+0x835A | F5 Datalink Adapter - Remote Camera Control
+0x835B | SynthHead - Midi Controller
+0x835C | Siemens - Einbauleuchte 8WD56 
+0x835D | Smart Solution For International Trade LLC - Tensai BLE HID Dongle
+0x835E | CamSync - Camera Sync Controller
+0x835F | Barbiani Solucoes em Tecnologia LTDA
+0x8360 | Work Louder - Creator Micro v2 - Project 2077
+0x8361 | Gevto - Digital Scale Type A
+0x8362 | Gevto - Digital Scale Type B
+0x8363 | PenEngineering S.R.L - AkiraConsole
+0x8364 | Paige Braille - Paige Writer
+0x8365 | Paige Braille - Paige Connect
+0x8366 | LilyGO T-Beam 1W - Arduino
+0x8367 | LilyGO T-Beam 1W - CircuitPython/MicroPython
+0x8368 | LilyGO T-Beam 1W - UF2 Bootloader
+0x8369 | Geeksville - Touchy-pad
+0x836A | Starpoint Australis - SP3 Focus
+0x836B | Starpoint Australis - Vela 7
+0x836C | Starpoint Australis - Vela 9
+0x836D | Starpoint Australis - RC Focus
+0x836E | Starpoint Australis - Chameleon IQ
+0x836F | Starpoint Australis - Pavo Power
+0x8370 | Work Louder - Nomad [E] v2 - ISO
+0x8371 | Work Louder - Nomad [E] v2 - ANSI
+0x8372 | PCBCupid Glyph S3 - Arduino
+0x8373 | PCBCupid Glyph S3 - CircuitPython/MicroPython
+0x8374 | PCBCupid Glyph S3 - UF2 Bootloader
+0x8375 | PCBCupid Glyph S3 with PSRAM - Arduino
+0x8376 | PCBCupid Glyph S3 with PSRAM - CircuitPython/MicroPython
+0x8377 | PCBCupid Glyph S3 with PSRAM - UF2 Bootloader
+0x8378 | Waveshare ESP32-S3-Tiny-N8R8 - Arduino
+0x8379 | Waveshare ESP32-S3-Tiny-N8R8 - CircuitPython/MicroPython
+0x837A | Waveshare ESP32-S3-Tiny-N8R8 - UF2 Bootloader
