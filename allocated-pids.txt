@@ -896,3 +896,4 @@ PID    | Product name
 0x8378 | Waveshare ESP32-S3-Tiny-N8R8 - Arduino
 0x8379 | Waveshare ESP32-S3-Tiny-N8R8 - CircuitPython/MicroPython
 0x837A | Waveshare ESP32-S3-Tiny-N8R8 - UF2 Bootloader
+0x837B | Sterling Hawk - USB 2.4GHz Receiver
