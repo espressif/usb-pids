@@ -899,3 +899,5 @@ PID    | Product name
 0x837B | Sterling Hawk - USB 2.4GHz Receiver
 0x837C | TEILE Elektronik MIB GmbH - DSP - UAC2.0 Audio + Custom DFU/RPC
 0x837D | TEILE Elektronik MIB GmbH - DSP - Vendor Specific Interface (alternative mode)
+0x0030 | MeXkey3
+0x0032 | MeXkey3 (recovery mode)
