@@ -901,3 +901,9 @@ PID    | Product name
 0x837D | TEILE Elektronik MIB GmbH - DSP - Vendor Specific Interface (alternative mode)
 0x837E | MeXkey3
 0x837F | MeXkey3 (recovery mode)
+0x8380 | Eliobot-S2 - Arduino
+0x8381 | Eliobot-S2 - CircuitPython
+0x8382 | Eliobot-S2 - UF2 Bootloader
+0x8383 | Eliobot-S3 - Arduino
+0x8384 | Eliobot-S3 - CircuitPython
+0x8385 | Eliobot-S3 - UF2 Bootloader
