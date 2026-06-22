@@ -907,3 +907,4 @@ PID    | Product name
 0x8383 | Eliobot-S3 - Arduino
 0x8384 | Eliobot-S3 - CircuitPython
 0x8385 | Eliobot-S3 - UF2 Bootloader
+0x8386 | NexusHID - BLE to USB Bridge
