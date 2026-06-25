@@ -909,3 +909,6 @@ PID    | Product name
 0x8385 | Eliobot-S3 - UF2 Bootloader
 0x8386 | NexusHID - BLE to USB Bridge
 0x8387 | Scensai Electronic Nose
+0x8388 | PCBCupid Cypher - Arduino
+0x8389 | PCBCupid Cypher - CircuitPython/MicroPython
+0x838A | PCBCupid Cypher - UF2 Bootloader
