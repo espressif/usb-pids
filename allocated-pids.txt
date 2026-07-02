@@ -912,3 +912,6 @@ PID    | Product name
 0x8388 | PCBCupid Cypher - Arduino
 0x8389 | PCBCupid Cypher - CircuitPython/MicroPython
 0x838A | PCBCupid Cypher - UF2 Bootloader
+0x838B | TMR - CAN Interface
+0x838C | TMR - CAN Logger
+0x838D | TMR - GPSdevice
