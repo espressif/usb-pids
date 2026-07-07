@@ -915,3 +915,6 @@ PID    | Product name
 0x838B | TMR - CAN Interface
 0x838C | TMR - CAN Logger
 0x838D | TMR - GPSdevice
+0x838E | Pipo Interfaces - Pipo Motion
+0x838F | Pipo Interfaces - Pipo Range
+0x8390 | Pipo Interfaces - Pipo Analog
