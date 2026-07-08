@@ -918,3 +918,8 @@ PID    | Product name
 0x838E | Pipo Interfaces - Pipo Motion
 0x838F | Pipo Interfaces - Pipo Range
 0x8390 | Pipo Interfaces - Pipo Analog
+0x8391 | AglaiaSense - MS500 Face
+0x8392 | AglaiaSense - MS500 Gaze
+0x8393 | AglaiaSense - MS500 Pedestrian Detection
+0x8394 | AglaiaSense - MS500 License Plate Recognition
+0x8395 | AglaiaSense - MS500 Traffic
