@@ -923,3 +923,4 @@ PID    | Product name
 0x8393 | AglaiaSense - MS500 Pedestrian Detection
 0x8394 | AglaiaSense - MS500 License Plate Recognition
 0x8395 | AglaiaSense - MS500 Traffic
+0x8396 | Aethl - NIR Wound Camera
