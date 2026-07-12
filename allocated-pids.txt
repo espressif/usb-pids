@@ -925,3 +925,4 @@ PID    | Product name
 0x8395 | AglaiaSense - MS500 Traffic
 0x8396 | Work Louder - Knob F1 v1 - ANSI
 0x8397 | Work Louder - Knob F1 v1 - ISO
+0x8398 | Mushroom Soft - Mushroom Radio Module
