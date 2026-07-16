@@ -927,3 +927,5 @@ PID    | Product name
 0x8397 | Work Louder - Knob F1 v1 - ISO
 0x8398 | Handheld NIR multispectral camera
 0x8399 | Sanctum Reverb - Platinum Series - VTR Effects
+0x839A | NXI - LyriX Remote
+0x839B | NXI - LyriX Extender
