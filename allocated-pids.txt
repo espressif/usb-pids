@@ -929,3 +929,6 @@ PID    | Product name
 0x8399 | Sanctum Reverb - Platinum Series - VTR Effects
 0x839A | PicoView
 0x839B | PalmBlock Technology - DexoPad
+0x839C | Waveshare ESP32-S3-ETH-8DI-8RO-C - Arduino
+0x839D | Waveshare ESP32-S3-ETH-8DI-8RO-C - CircuitPython
+0x839E | Waveshare ESP32-S3-ETH-8DI-8RO-C - UF2 Bootloader
