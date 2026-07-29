@@ -932,3 +932,4 @@ PID    | Product name
 0x839C | Waveshare ESP32-S3-ETH-8DI-8RO-C - Arduino
 0x839D | Waveshare ESP32-S3-ETH-8DI-8RO-C - CircuitPython
 0x839E | Waveshare ESP32-S3-ETH-8DI-8RO-C - UF2 Bootloader
+0x839F | LumiLynx 16P
