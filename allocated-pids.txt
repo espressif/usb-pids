@@ -928,3 +928,4 @@ PID    | Product name
 0x8398 | Handheld NIR multispectral camera
 0x8399 | Sanctum Reverb - Platinum Series - VTR Effects
 0x839A | PicoView
+0x839B | PalmBlock Technology - DexoPad
