@@ -939,3 +939,4 @@ PID    | Product name
 0x83A3 | Waveshare ESP32-S3-ETH-8DI-8RO - UF2 Bootloader
 0x83A4 | NXI - LyriX Remote
 0x83A5 | NXI - LyriX Extender
+0x83A6 | ZEuON - Link G8
