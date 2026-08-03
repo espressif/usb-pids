@@ -941,3 +941,4 @@ PID    | Product name
 0x83A5 | NXI - LyriX Extender
 0x83A6 | Fargo Engineering FB1000 CAN RLU
 0x83A7 | LHR - USB LIN Box
+0x83A8 | ZEuON - Link G8
