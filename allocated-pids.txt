@@ -943,3 +943,4 @@ PID    | Product name
 0x83A7 | LHR - USB LIN Box
 0x83A8 | ZEuON - Link G8
 0x83A9 | Fujian CxPerfect Technology Co., Ltd - USB Earphone Adapter Cable
+0x83AA | STRATA Flasher V2
