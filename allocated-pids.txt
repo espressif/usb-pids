@@ -945,3 +945,4 @@ PID    | Product name
 0x83A9 | Fujian CxPerfect Technology Co., Ltd - USB Earphone Adapter Cable
 0x83AA | BurnSlap - FAV-EQ
 0x83AB | IMSHOX - OX SENTINEL KEY - FIDO/HSM
+0x83AC | FloatStone - DualNet DMX4
