@@ -946,3 +946,4 @@ PID    | Product name
 0x83AA | BurnSlap - FAV-EQ
 0x83AB | IMSHOX - OX SENTINEL KEY - FIDO/HSM
 0x83AC | FloatStone - DualNet DMX4
+0x83AD | Meng Qingyao - KeyLock smart security USB device
