@@ -946,3 +946,5 @@ PID    | Product name
 0x83AA | BurnSlap - FAV-EQ
 0x83AB | IMSHOX - OX SENTINEL KEY - FIDO/HSM
 0x83AC | FloatStone - DualNet DMX4
+0x83AD | AL-KO VT - Mammut Galaxy: Remote Control
+0x83AE | AL-KO VT - Mammut Galaxy: Central Control Unit
