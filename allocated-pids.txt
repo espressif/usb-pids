@@ -947,3 +947,4 @@ PID    | Product name
 0x83AB | IMSHOX - OX SENTINEL KEY - FIDO/HSM
 0x83AC | FloatStone - DualNet DMX4
 0x83AD | INBRAT - PVSense
+0x83AE | KiraLive - DFU
