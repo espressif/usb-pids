@@ -946,4 +946,4 @@ PID    | Product name
 0x83AA | BurnSlap - FAV-EQ
 0x83AB | IMSHOX - OX SENTINEL KEY - FIDO/HSM
 0x83AC | FloatStone - DualNet DMX4
-0x83AE | Opzaro Security - FIDO2 Authenticator
+0x83B0 | Opzaro Security - FIDO2 Authenticator
