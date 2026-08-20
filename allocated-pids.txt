@@ -948,3 +948,4 @@ PID    | Product name
 0x83AC | FloatStone - DualNet DMX4
 0x83AD | INBRAT - PVSense
 0x83AE | KiraLive - DFU
+0x83AF | Banana Ramble, LLC - AutoDecode
