@@ -953,3 +953,8 @@ PID    | Product name
 0x83B1 | EMC PARTNER ESDEX FIBRE ADAPTER - Fiber to serial adapter for ESDEX
 0x83B2 | PROSARIS - PULSE
 0x83B3 | danjinghaoeggggg - AmphiLink
+0x83B4 | Pixelcade Sidekick AMOLED 1.91"
+0x83B5 | Pixelcade Sidekick 2.8"
+0x83B6 | Pixelcade Sidekick 3.5"
+0x83B7 | Pixelcade Sidekick 5"
+0x83B8 | Pixelcade Sidekick 7"
