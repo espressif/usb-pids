@@ -952,3 +952,4 @@ PID    | Product name
 0x83B0 | Opzaro Security - FIDO2 Authenticator
 0x83B1 | EMC PARTNER ESDEX FIBRE ADAPTER - Fiber to serial adapter for ESDEX
 0x83B2 | PROSARIS - PULSE
+0x83B3 | danjinghaoeggggg - AmphiLink
