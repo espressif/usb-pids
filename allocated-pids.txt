@@ -958,3 +958,4 @@ PID    | Product name
 0x83B6 | Pixelcade Sidekick 3.5"
 0x83B7 | Pixelcade Sidekick 5"
 0x83B8 | Pixelcade Sidekick 7"
+0x83B9 | Pixelcade Sidekick 5" Tab5
