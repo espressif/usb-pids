@@ -953,3 +953,4 @@ PID    | Product name
 0x83B1 | EMC PARTNER ESDEX FIBRE ADAPTER - Fiber to serial adapter for ESDEX
 0x83B2 | PROSARIS - PULSE
 0x83B3 | danjinghaoeggggg - AmphiLink
+0x83B4 | PxServ - Quark 
