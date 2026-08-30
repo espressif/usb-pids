@@ -954,3 +954,4 @@ PID    | Product name
 0x83B2 | PROSARIS - PULSE
 0x83B3 | danjinghaoeggggg - AmphiLink
 0x83B4 | Imago Delay - Platinum Series - VTR Effects
+0x83B5 | ESSOTEC - XENPAD Omni programmable macropad with display
