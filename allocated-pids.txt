@@ -955,3 +955,5 @@ PID    | Product name
 0x83B3 | danjinghaoeggggg - AmphiLink
 0x83B4 | Imago Delay - Platinum Series - VTR Effects
 0x83B5 | ESSOTEC - XENPAD Omni programmable macropad with display
+0x83B6 | BUCH.IT - APEX Vision Camera Module
+0x83B7 | BUCH.IT - APEX Vision Camera Module CAN-Bus Interface
