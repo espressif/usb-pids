@@ -957,3 +957,4 @@ PID    | Product name
 0x83B5 | ESSOTEC - XENPAD Omni programmable macropad with display
 0x83B6 | BUCH.IT - APEX Vision Camera Module
 0x83B7 | BUCH.IT - APEX Vision Camera Module CAN-Bus Interface
+0x83B8 | ISM Automotive Tech GmbH - Automotive Diagnostic & Programming Interface
