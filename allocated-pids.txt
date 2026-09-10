@@ -960,3 +960,6 @@ PID    | Product name
 0x83B8 | ZEuON.com - Link G9
 0x83B9 | Calven - Desk display
 0x83BA | ISM Automotive Tech GmbH - Automotive Diagnostic & Programming Interface
+0x83BB | Pixelcade - Sidekick AMOLED 1.91"
+0x83BC | Pixelcade - Sidekick M5Stack Tab5
+0x83BD | Pixelcade - Sidekick 10.1" (Guition)
