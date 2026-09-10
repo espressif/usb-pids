@@ -959,3 +959,4 @@ PID    | Product name
 0x83B7 | BUCH.IT - APEX Vision Camera Module CAN-Bus Interface
 0x83B8 | ZEuON.com - Link G9
 0x83B9 | Calven - Desk display
+0x83BA | ISM Automotive Tech GmbH - Automotive Diagnostic & Programming Interface
