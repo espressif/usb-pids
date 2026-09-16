@@ -964,3 +964,4 @@ PID    | Product name
 0x83BC | Pixelcade - Sidekick M5Stack Tab5
 0x83BD | Pixelcade - Sidekick 10.1" (Guition)
 0x83BE | Pixelcade - Sidekick 5" (Elecrow AI)
+0x83BF | A.S Electroworks - MD-1 MCH UiAMP
