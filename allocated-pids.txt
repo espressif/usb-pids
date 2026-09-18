@@ -965,3 +965,4 @@ PID    | Product name
 0x83BD | Pixelcade - Sidekick 10.1" (Guition)
 0x83BE | Pixelcade - Sidekick 5" (Elecrow AI)
 0x83BF | A.S Electroworks - MD-1 MCH UiAMP
+0x83C0 | LEFO Technology - USB-NCM Interface
