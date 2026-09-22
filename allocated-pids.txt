@@ -967,3 +967,4 @@ PID    | Product name
 0x83BF | A.S Electroworks - MD-1 MCH UiAMP
 0x83C0 | LEFO Technology - USB-NCM Interface
 0x83C1 | Stasher Wallet - Stasher X1 hardware wallet gateway
+0x83C2 | Spark Autonomy - RBI power monitor
