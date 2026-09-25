@@ -968,3 +968,7 @@ PID    | Product name
 0x83C0 | LEFO Technology - USB-NCM Interface
 0x83C1 | Stasher Wallet - Stasher X1 hardware wallet gateway
 0x83C2 | Spark Autonomy - RBI power monitor
+0x83C5 | Buttonwood Protocol Ltd - Vision Pro game controller (USB HID gamepad + CDC)
+0x83C6 | Buttonwood Protocol Ltd - Vision Pro game controller (vendor-specific mode + CDC)
+0x83C7 | Buttonwood Protocol Ltd - Vision Pro Wireless USB receiver (HID gamepad + CDC)
+0x83C8 | Buttonwood Protocol Ltd - Vision Pro Wireless USB receiver (vendor-specific mode + CDC)
