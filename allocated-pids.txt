@@ -968,4 +968,5 @@ PID    | Product name
 0x83C0 | LEFO Technology - USB-NCM Interface
 0x83C1 | Stasher Wallet - Stasher X1 hardware wallet gateway
 0x83C2 | Spark Autonomy - RBI power monitor
-0x83C3 | ClinoVoice - Medical Recorder
+0x83C3 | MINGSTUDIO - RC Pistol USB Controller
+0x83C4 | ClinoVoice - Medical Recorder
