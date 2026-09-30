@@ -975,5 +975,5 @@ PID    | Product name
 0x83C7 | Buttonwood Protocol Ltd - Vision Pro Wireless USB receiver (HID gamepad + CDC)
 0x83C8 | Buttonwood Protocol Ltd - Vision Pro Wireless USB receiver (vendor-specific mode + CDC)
 0x83C9 | Anatomy & Company - Pelvic Trainer
-0x83CA | System Mammut Galaxy (Remote Control)
+0x83CA | AL-KO VT - Manoeuvring System Mammut Galaxy (Remote Control)
 0x83CB | AeroShift - Wind Simulator
