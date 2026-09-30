@@ -976,3 +976,4 @@ PID    | Product name
 0x83C8 | Buttonwood Protocol Ltd - Vision Pro Wireless USB receiver (vendor-specific mode + CDC)
 0x83C9 | Anatomy & Company - Pelvic Trainer
 0x83CA | AL-KO VT - Manoeuvring System Mammut Galaxy (Remote Control)
+0x83CC | BuggrBox - bench instrument for AI-driven embedded prototype testing
