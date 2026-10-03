@@ -977,3 +977,4 @@ PID    | Product name
 0x83C9 | Anatomy & Company - Pelvic Trainer
 0x83CA | AL-KO VT - Manoeuvring System Mammut Galaxy (Remote Control)
 0x83CB | AeroShift - Wind Simulator
+0x83CC | SPL Tools GmbH - L1 Audio Line Leveler
