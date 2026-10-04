@@ -977,3 +977,8 @@ PID    | Product name
 0x83C9 | Anatomy & Company - Pelvic Trainer
 0x83CA | AL-KO VT - Manoeuvring System Mammut Galaxy (Remote Control)
 0x83CB | AeroShift - Wind Simulator
+0x83CC | Javiju555 - Sim racing macro pad with display
+0x83CD | Javiju555 - Sim racing steering wheel
+0x83CE | Javiju555 - Sim racing pedals
+0x83CF | Javiju555 - Sim racing active seatbelt
+0x83D0 | Javiju555 - Sim racing dashboard display
