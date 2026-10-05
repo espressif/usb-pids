@@ -982,3 +982,8 @@ PID    | Product name
 0x83CE | Javiju555 - Sim racing pedals
 0x83CF | Javiju555 - Sim racing active seatbelt
 0x83D0 | Javiju555 - Sim racing dashboard display
+0x83D1 | Incare SAS - ESP32-S3 - Core Board 1
+0x83D2 | Incare SAS - ESP32-S3 - Core Board 2
+0x83D3 | Incare SAS - ESP32-S3 - Core Board 3
+0x83D4 | Incare SAS - ESP32-S3 - Core Board 4
+0x83D5 | Incare SAS - ESP32-S3 - Core Board 5
