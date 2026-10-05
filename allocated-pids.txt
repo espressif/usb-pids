@@ -982,7 +982,7 @@ PID    | Product name
 0x83CE | Javiju555 - Sim racing pedals
 0x83CF | Javiju555 - Sim racing active seatbelt
 0x83D0 | Javiju555 - Sim racing dashboard display
-0x83DB | TMR - Sim Racing Steering Wheel
-0x83DC | TMR - Sim Racing Center Console Switch Panel
-0x83DD | TMR - GPS to CAN Converter
-0x83DE | TMR - Sim Racing Display
+0x83D1 | TMR - Sim Racing Steering Wheel
+0x83D2 | TMR - Sim Racing Center Console Switch Panel
+0x83D3 | TMR - GPS to CAN Converter
+0x83D4 | TMR - Sim Racing Display
