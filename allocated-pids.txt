@@ -986,3 +986,6 @@ PID    | Product name
 0x83D2 | Asate AG - Silent Sleep Training Microphone
 0x83D3 | PAUSCH-e MIDI Tastatur Scanner
 0x83D4 | PAUSCH-e MIDI Pedal Scanner
+0x83D5 | Deneyap Kart 1A v3 - Arduino
+0x83D6 | Deneyap Kart 1A v3 - CircuitPython
+0x83D7 | Deneyap Kart 1A v3 - UF2 Bootloader
