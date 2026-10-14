@@ -986,3 +986,4 @@ PID    | Product name
 0x83D2 | Asate AG - Silent Sleep Training Microphone
 0x83D3 | PAUSCH-e MIDI Tastatur Scanner
 0x83D4 | PAUSCH-e MIDI Pedal Scanner
+0x83D5 | WERMA Signaltechnik GmbH + Co. KG - eSIGN55 Smart
