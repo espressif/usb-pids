@@ -986,3 +986,7 @@ PID    | Product name
 0x83D2 | Asate AG - Silent Sleep Training Microphone
 0x83D3 | PAUSCH-e MIDI Tastatur Scanner
 0x83D4 | PAUSCH-e MIDI Pedal Scanner
+0x83D5 | TMR - Sim Racing Steering Wheel
+0x83D6 | TMR - Sim Racing Center Console Switch Panel
+0x83D7 | TMR - GPS to CAN Converter
+0x83D8 | TMR - Sim Racing Display
