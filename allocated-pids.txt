@@ -986,4 +986,8 @@ PID    | Product name
 0x83D2 | Asate AG - Silent Sleep Training Microphone
 0x83D3 | PAUSCH-e MIDI Tastatur Scanner
 0x83D4 | PAUSCH-e MIDI Pedal Scanner
-0x83D5 | JG3PUP - Si473x Radio (USB audio + CDC)
+0x83D5 | Polaris Technologies - ezResit (USB printer-class ESC/POS receiver, ESP32-S3)
+0x83D6 | Organova.music - LePedalier 27 Compact MIDI Pedalboard
+0x83D7 | Ulanzi - Buddy
+0x83D8 | Ulanzi - D50
+0x83D9 | JG3PUP - Si473x Radio (USB audio + CDC)
