@@ -994,3 +994,6 @@ PID    | Product name
 0x83DA | BeYor CypherKey Pro - ESP-IDF
 0x83DB | WERMA Signaltechnik GmbH + Co. KG - eSIGN55 Smart
 0x83DC | MetaDyno - MetaDyno Link dynamometer data acquisition interface (vendor-specific, WinUSB)
+0x83DD | Deneyap Kart 1A v3 - Arduino
+0x83DE | Deneyap Kart 1A v3 - CircuitPython
+0x83DF | Deneyap Kart 1A v3 - UF2 Bootloader
