@@ -991,3 +991,4 @@ PID    | Product name
 0x83D7 | Ulanzi - Buddy
 0x83D8 | Ulanzi - D50
 0x83D9 | NEXUS TLC - GridFX
+0x83DA | BeYor CypherKey Pro - ESP-IDF
