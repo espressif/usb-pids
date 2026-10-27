@@ -993,3 +993,4 @@ PID    | Product name
 0x83D9 | NEXUS TLC - GridFX
 0x83DA | BeYor CypherKey Pro - ESP-IDF
 0x83DB | WERMA Signaltechnik GmbH + Co. KG - eSIGN55 Smart
+0x83DC | MetaDyno - MetaDyno Link dynamometer data acquisition interface (vendor-specific, WinUSB)
