@@ -992,3 +992,4 @@ PID    | Product name
 0x83D8 | Ulanzi - D50
 0x83D9 | NEXUS TLC - GridFX
 0x83DA | BeYor CypherKey Pro - ESP-IDF
+0x83DB | WERMA Signaltechnik GmbH + Co. KG - eSIGN55 Smart
