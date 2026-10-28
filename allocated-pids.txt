@@ -986,7 +986,23 @@ PID    | Product name
 0x83D2 | Asate AG - Silent Sleep Training Microphone
 0x83D3 | PAUSCH-e MIDI Tastatur Scanner
 0x83D4 | PAUSCH-e MIDI Pedal Scanner
-0x83D5 | TMR - Sim Racing Steering Wheel
-0x83D6 | TMR - Sim Racing Center Console Switch Panel
-0x83D7 | TMR - GPS to CAN Converter
-0x83D8 | TMR - Sim Racing Display
+0x83D5 | Polaris Technologies - ezResit (USB printer-class ESC/POS receiver, ESP32-S3)
+0x83D6 | Organova.music - LePedalier 27 Compact MIDI Pedalboard
+0x83D7 | Ulanzi - Buddy
+0x83D8 | Ulanzi - D50
+0x83D9 | NEXUS TLC - GridFX
+0x83DA | BeYor CypherKey Pro - ESP-IDF
+0x83DB | WERMA Signaltechnik GmbH + Co. KG - eSIGN55 Smart
+0x83DC | MetaDyno - MetaDyno Link dynamometer data acquisition interface (vendor-specific, WinUSB)
+0x83DD | Deneyap Kart 1A v3 - Arduino
+0x83DE | Deneyap Kart 1A v3 - CircuitPython
+0x83DF | Deneyap Kart 1A v3 - UF2 Bootloader
+0x83E0 | ThePiHut Baguette S3 - CircuitPython
+0x83E1 | JG3PUP - Si473x Radio (USB audio + CDC)
+0x83E2 | LFG-meetnet - Basis sound level meter (USB network + serial)
+0x83E3 | LFG-meetnet - Basis sound level meter (USB network + 8-ch sound card)
+0x83E4 | LFG-meetnet - Basis sound level meter (USB network + 4-ch sound card)
+0x83E5 | TMR - Sim Racing Steering Wheel
+0x83E6 | TMR - Sim Racing Center Console Switch Panel
+0x83E7 | TMR - GPS to CAN Converter
+0x83E8 | TMR - Sim Racing Display
