@@ -998,3 +998,4 @@ PID    | Product name
 0x83DE | Deneyap Kart 1A v3 - CircuitPython
 0x83DF | Deneyap Kart 1A v3 - UF2 Bootloader
 0x83E0 | ThePiHut Baguette S3 - CircuitPython
+0x83E1 | JG3PUP - Si473x Radio (USB audio + CDC)
