@@ -999,3 +999,6 @@ PID    | Product name
 0x83DF | Deneyap Kart 1A v3 - UF2 Bootloader
 0x83E0 | ThePiHut Baguette S3 - CircuitPython
 0x83E1 | JG3PUP - Si473x Radio (USB audio + CDC)
+0x83E2 | LFG-meetnet - Basis sound level meter (USB network + serial)
+0x83E3 | LFG-meetnet - Basis sound level meter (USB network + 8-ch sound card)
+0x83E4 | LFG-meetnet - Basis sound level meter (USB network + 4-ch sound card)
