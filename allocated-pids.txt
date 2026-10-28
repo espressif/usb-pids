@@ -997,3 +997,4 @@ PID    | Product name
 0x83DD | Deneyap Kart 1A v3 - Arduino
 0x83DE | Deneyap Kart 1A v3 - CircuitPython
 0x83DF | Deneyap Kart 1A v3 - UF2 Bootloader
+0x83E0 | Dashu - USB HID keyboard and mouse remote automation tool
