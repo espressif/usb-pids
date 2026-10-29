@@ -1006,3 +1006,4 @@ PID    | Product name
 0x83E6 | TMR - Sim Racing Center Console Switch Panel
 0x83E7 | TMR - GPS to CAN Converter
 0x83E8 | TMR - Sim Racing Display
+0x83E9 | Ctrlable - DALI Gateway (vendor HID DALI lighting-bus interface)
