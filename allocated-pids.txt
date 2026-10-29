@@ -1002,3 +1002,7 @@ PID    | Product name
 0x83E2 | LFG-meetnet - Basis sound level meter (USB network + serial)
 0x83E3 | LFG-meetnet - Basis sound level meter (USB network + 8-ch sound card)
 0x83E4 | LFG-meetnet - Basis sound level meter (USB network + 4-ch sound card)
+0x83E5 | TMR - Sim Racing Steering Wheel
+0x83E6 | TMR - Sim Racing Center Console Switch Panel
+0x83E7 | TMR - GPS to CAN Converter
+0x83E8 | TMR - Sim Racing Display
