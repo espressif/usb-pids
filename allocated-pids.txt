@@ -1008,3 +1008,7 @@ PID    | Product name
 0x83E8 | TMR - Sim Racing Display
 0x83E9 | Kvortek - UW-2 CAN bus adapter (gs_usb + CDC)
 0x83EA | M5STACK AtomS3R - CircuitPython
+0x83EB | PAUSCH-e Manual-Scanner I
+0x83EC | PAUSCH-e Manual-Scanner II
+0x83ED | PAUSCH-e Manual-Scanner III
+0x83EE | PAUSCH-e Manual-Scanner IV
