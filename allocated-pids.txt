@@ -1009,3 +1009,8 @@ PID    | Product name
 0x83E9 | Kvortek - UW-2 CAN bus adapter (gs_usb + CDC)
 0x83EA | M5STACK AtomS3R - CircuitPython
 0x83EB | Dashu - USB HID keyboard and mouse remote automation tool
+0x83F1 | Inveo - RFID USB reader (HID keyboard mode)
+0x83F2 | Inveo - RFID USB reader (CDC serial mode)
+0x83F3 | Inveo - RFID USB reader (CCID smart card mode)
+0x83F4 | Inveo - RFID USB reader (WebUSB service mode)
+
