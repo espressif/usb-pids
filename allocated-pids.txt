@@ -1009,3 +1009,4 @@ PID    | Product name
 0x83E9 | Kvortek - UW-2 CAN bus adapter (gs_usb + CDC)
 0x83EA | M5STACK AtomS3R - CircuitPython
 0x83EB | Dashu - USB HID keyboard and mouse remote automation tool
+0x83EC | Z2Labs - Ionos SDR (ESP32-S3 USB I/Q streaming SDR)
