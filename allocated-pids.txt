@@ -1010,3 +1010,5 @@ PID    | Product name
 0x83EA | M5STACK AtomS3R - CircuitPython
 0x83EB | Dashu - USB HID keyboard and mouse remote automation tool
 0x83EC | Elixpo - Oreo Badge (OreoOS / MicroPython)
+0x83ED | AYASHIMO_DSI USB display (non-touch)
+0x83EE | AYASHIMO_DSI USB display (touch)
