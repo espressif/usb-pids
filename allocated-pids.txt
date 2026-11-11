@@ -1010,3 +1010,4 @@ PID    | Product name
 0x83EA | M5STACK AtomS3R - CircuitPython
 0x83EB | Dashu - USB HID keyboard and mouse remote automation tool
 0x83EC | Elixpo - Oreo Badge (OreoOS / MicroPython)
+0x83ED | Parts Express| Dayton Audio USB Sound Card | This is a standard USB Audio Class 2.0 sound card for audio playback and recording, requiring Windows to enumerate and recognize the audio device normally.
