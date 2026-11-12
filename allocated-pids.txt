@@ -1013,4 +1013,4 @@ PID    | Product name
 0x83ED | Inveo - RFID USB reader (HID keyboard mode)
 0x83EE | Inveo - RFID USB reader (CDC serial mode)
 0x83EF | Inveo - RFID USB reader (CCID smart card mode)
-0x83F0 | Inveo - RFID USB reader (WebUSB service mode)
+0x83F0 | Inveo - RFID USB reader (WebUSB API mode)
