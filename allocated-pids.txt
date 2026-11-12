@@ -1005,14 +1005,13 @@ PID    | Product name
 0x83E5 | TMR - Sim Racing Steering Wheel
 0x83E6 | TMR - Sim Racing Center Console Switch Panel
 0x83E7 | TMR - GPS to CAN Converter
-1008  0x83E8 | TMR - Sim Racing Display
-1009  0x83E9 | Kvortek - UW-2 CAN bus adapter (gs_usb + CDC)
-1010  0x83EA | M5STACK AtomS3R - CircuitPython
-1011  0x83EB | Dashu - USB HID keyboard and mouse remote automation tool
-1012  0x83EC | Elixpo - Oreo Badge (OreoOS / MicroPython)
-1013  0x83ED | PAUSCH-e Manual-Scanner I
-1014  0x83EE | PAUSCH-e Manual-Scanner II
-1015  0x83EF | PAUSCH-e Manual-Scanner III
-1016  0x83F0 | PAUSCH-e Manual-Scanner IV
-1017  0x83F1 | PROJECT FIRE - USB-X5 DMX512 Interface
-1018
+0x83E8 | TMR - Sim Racing Display
+0x83E9 | Kvortek - UW-2 CAN bus adapter (gs_usb + CDC)
+0x83EA | M5STACK AtomS3R - CircuitPython
+0x83EB | Dashu - USB HID keyboard and mouse remote automation tool
+0x83EC | Elixpo - Oreo Badge (OreoOS / MicroPython)
+0x83ED | PAUSCH-e Manual-Scanner I
+0x83EE | PAUSCH-e Manual-Scanner II
+0x83EF | PAUSCH-e Manual-Scanner III
+0x83F0 | PAUSCH-e Manual-Scanner IV
+0x83F1 | PROJECT FIRE - USB-X5 DMX512 Interface
