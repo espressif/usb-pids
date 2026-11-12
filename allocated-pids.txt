@@ -1010,4 +1010,8 @@ PID    | Product name
 0x83EA | M5STACK AtomS3R - CircuitPython
 0x83EB | Dashu - USB HID keyboard and mouse remote automation tool
 0x83EC | Elixpo - Oreo Badge (OreoOS / MicroPython)
-0x83ED | Z2Labs - Ionos SDR (ESP32-S3 USB I/Q streaming SDR)
+0x83ED | PAUSCH-e Manual-Scanner I
+0x83EE | PAUSCH-e Manual-Scanner II
+0x83EF | PAUSCH-e Manual-Scanner III
+0x83F0 | PAUSCH-e Manual-Scanner IV
+0x83F1 | Z2Labs - Ionos SDR
