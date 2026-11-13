@@ -1014,3 +1014,5 @@ PID    | Product name
 0x83EE | PAUSCH-e Manual-Scanner II
 0x83EF | PAUSCH-e Manual-Scanner III
 0x83F0 | PAUSCH-e Manual-Scanner IV
+0x83F1 | Parts Express | Dayton Audio USB Sound Card | This is a standard USB Audio Class 2.0 sound card supporting audio playback and recording. It requires Windows to enumerate and recognize the audio device normally.
+
