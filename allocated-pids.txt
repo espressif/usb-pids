@@ -1014,3 +1014,4 @@ PID    | Product name
 0x83EE | PAUSCH-e Manual-Scanner II
 0x83EF | PAUSCH-e Manual-Scanner III
 0x83F0 | PAUSCH-e Manual-Scanner IV
+0x83F1 | Theseus Instruments - Panoptes vehicle instrument display
