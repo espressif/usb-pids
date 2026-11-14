@@ -1015,3 +1015,6 @@ PID    | Product name
 0x83EF | PAUSCH-e Manual-Scanner III
 0x83F0 | PAUSCH-e Manual-Scanner IV
 0x83F1 | PROJECT FIRE - USB-X5 DMX512 Interface
+0x83F2 | Waveshare ESP32-S3-DEV-KIT-NXRX - Arduino
+0x83F3 | Waveshare ESP32-S3-DEV-KIT-NXRX - CircuitPython
+0x83F4 | Waveshare ESP32-S3-DEV-KIT-NXRX - UF2 Bootloader
