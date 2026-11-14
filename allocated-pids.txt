@@ -1015,3 +1015,12 @@ PID    | Product name
 0x83EF | PAUSCH-e Manual-Scanner III
 0x83F0 | PAUSCH-e Manual-Scanner IV
 0x83F1 | PROJECT FIRE - USB-X5 DMX512 Interface
+0x83F2 | LILYGO T-Deck-V2 - Arduino
+0x83F3 | LILYGO T-Deck-V2 - CircuitPython/MicroPython
+0x83F4 | LILYGO T-Deck-V2 - UF2 Bootloader
+0x83F5 | LILYGO T-Embed-Plus - Arduino
+0x83F6 | LILYGO T-Embed-Plus - CircuitPython/MicroPython
+0x83F7 | LILYGO T-Embed-Plus - UF2 Bootloader
+0x83F8 | LILYGO T-Embed-Plus-V2 - Arduino
+0x83F9 | LILYGO T-Embed-Plus-V2 - CircuitPython/MicroPython
+0x83FA | LILYGO T-Embed-Plus-V2 - UF2 Bootloader
