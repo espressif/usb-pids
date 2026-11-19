@@ -1016,4 +1016,6 @@ PID    | Product name
 0x83F0 | PAUSCH-e Manual-Scanner IV
 0x83F1 | PROJECT FIRE - USB-X5 DMX512 Interface
 0x83F2 | BuggrBox - bench instrument for AI-driven embedded prototype testing
-0x83F3 | Alice Core - ESP32-S3 FIDO2 Key (esp32s3-fido)
+0x83F3 | SONOFF - Dongle Max CC2674P10 (ESP32-S3R8)
+0x83F4 | SONOFF - Dongle Max Duo (ESP32-S3R8)
+0x83F5 | Alice Core - ESP32-S3 FIDO2 Key (esp32s3-fido)
