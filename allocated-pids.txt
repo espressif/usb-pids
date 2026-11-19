@@ -1016,9 +1016,11 @@ PID    | Product name
 0x83F0 | PAUSCH-e Manual-Scanner IV
 0x83F1 | PROJECT FIRE - USB-X5 DMX512 Interface
 0x83F2 | BuggrBox - bench instrument for AI-driven embedded prototype testing
-0x83F3 | PCBCupid Glyph S3 Lucid - Arduino
-0x83F4 | PCBCupid Glyph S3 Lucid - CircuitPython/MicroPython
-0x83F5 | PCBCupid Glyph S3 WROOM - Arduino
-0x83F6 | PCBCupid Glyph S3 WROOM - CircuitPython/MicroPython
-0x83F7 | PCBCupid Glyph S3 Motor driver - Arduino
-0x83F8 | PCBCupid Glyph S3 Motor driver - CircuitPython/MicroPython
+0x83F3 | SONOFF - Dongle Max CC2674P10 (ESP32-S3R8)
+0x83F4 | SONOFF - Dongle Max Duo (ESP32-S3R8)
+0x83F5 | PCBCupid Glyph S3 Lucid - Arduino
+0x83F6 | PCBCupid Glyph S3 Lucid - CircuitPython/MicroPython
+0x83F7 | PCBCupid Glyph S3 WROOM - Arduino
+0x83F8 | PCBCupid Glyph S3 WROOM - CircuitPython/MicroPython
+0x83F9 | PCBCupid Glyph S3 Motor driver - Arduino
+0x83FA | PCBCupid Glyph S3 Motor driver - CircuitPython/MicroPython
