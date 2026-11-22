@@ -1018,3 +1018,4 @@ PID    | Product name
 0x83F2 | BuggrBox - bench instrument for AI-driven embedded prototype testing
 0x83F3 | SONOFF - Dongle Max CC2674P10 (ESP32-S3R8)
 0x83F4 | SONOFF - Dongle Max Duo (ESP32-S3R8)
+0x83F5 | bronsonhill - Dictation Dongle USB HID keyboard (iPhone dictation over Bluetooth)
