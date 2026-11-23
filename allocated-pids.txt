@@ -1018,3 +1018,13 @@ PID    | Product name
 0x83F2 | BuggrBox - bench instrument for AI-driven embedded prototype testing
 0x83F3 | SONOFF - Dongle Max CC2674P10 (ESP32-S3R8)
 0x83F4 | SONOFF - Dongle Max Duo (ESP32-S3R8)
+0x83F5 | Flight Control Alchemy - FCA unit 1 Admin (web UI, HID keyboard/mouse) (ESP32-S3R8)
+0x83F6 | Flight Control Alchemy - FCA unit 1 EU slot 1 (remapped HID game controller)(ESP32-S3R8)
+0x83F7 | Flight Control Alchemy - FCA unit 1 EU slot 2 (remapped HID game controller) (ESP32-S3R8)
+0x83F8 | Flight Control Alchemy - FCA unit 1 EU slot 3 (remapped HID game controller) (ESP32-S3R8)
+0x83F9 | Flight Control Alchemy - FCA unit 1 EU slot 4 (remapped HID game controller) (ESP32-S3R8)
+0x83FA | Flight Control Alchemy - FCA unit 2 Admin (web UI, HID keyboard/mouse) (ESP32-S3R8)
+0x83FB | Flight Control Alchemy - FCA unit 2 EU slot 1 (remapped HID game controller) (ESP32-S3R8)
+0x83FC | Flight Control Alchemy - FCA unit 2 EU slot 2 (remapped HID game controller) (ESP32-S3R8)
+0x83FD | Flight Control Alchemy - FCA unit 2 EU slot 3 (remapped HID game controller) (ESP32-S3R8)
+0x83FE | Flight Control Alchemy - FCA unit 2 EU slot 4 (remapped HID game controller) (ESP32-S3R8)
