@@ -1025,3 +1025,4 @@ PID    | Product name
 0x83F8 | Alice Core - ESP32-S3 FIDO2 Key (esp32s3-fido)
 0x83F9 | Theseus™ Instruments - ION
 0x83FA | Theseus™ Instruments - Panoptes
+0x83FB | Ctrlable - DALI Gateway
