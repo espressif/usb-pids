@@ -1040,3 +1040,4 @@ PID    | Product name
 0x8407 | edelkrone - Link Module
 0x8408 | Latency: Zero, LLC - CNC Pendant
 0x8409 | Latency: Zero, LLC - CNC Pendant Wireless Adapter
+0x840A | Apaeron - Cord
