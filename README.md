@@ -17,32 +17,31 @@ selected.
 
 ## How do I get a PID in this range?
 
-To get a PID, you can fork this repository, edit the allocated-pids.txt file and commit the changes. 
-Please make sure to use the next available PID in the range allocated, for easy managing purposes we'd
-like to keep the customer allocated PIDs sequential. Finally, file a pull request here so we can merge 
-the result. Make sure to mention the following in the pull request:
+[Open a PID request issue](https://github.com/espressif/usb-pids/issues/new?template=pid-request.yml) and fill in
+the form. It asks for:
 
 - A short description of what the device is going to do (e.g. cat tracker with USB trace download)
 
-- What chip are you using for the device the PID is allocated for (e.g. ESP32-S2)
+- What chip you are using for the device the PID is allocated for (e.g. ESP32-S2)
 
 - Why you need a custom PID (and can't, for instance, use the default TinyUSB PIDs)
 
-- If you're requesting a PID on behalf of a company, please mention the name of the company
+- The name of your company if you're requesting a PID on behalf of one, and the product name(s)
 
 - If applicable/available, a website or other URL with information about your product or company
 
-(Note that if your application specifically is designed to run on Espressif-built devboards, you will
-need to edit allocated-pids-espressif-devboards.txt instead.)
+You don't need to pick a PID number. An automated check will comment on your request, usually within
+minutes. If something is missing it will tell you what; just edit the issue and it checks again. Once a
+maintainer approves the request, the next free PID(s) are assigned automatically, added to the list, and
+posted as a comment on your issue. From then on you're free to use them.
 
-After you have done that, we will get back to you soon to either merge the request (after which you're
-free to use the PID) or to ask for clarification if needed. Note that we may need to ask you to rebase
-your request to start at a new PID if someone elses request got merged before yours.
+If your application is specifically designed to run on unmodified Espressif-built devboards, choose that
+option in the form; the PID will then be added to allocated-pids-espressif-devboards.txt instead.
 
 ## Disclaimer
 
-Espressif reserves the right to deny a pull request to this repository for any reason. A pull
+Espressif reserves the right to deny a PID request for any reason. A PID
 request granted here does not mean endorsment of your product by Espressif, and should not be
-used as such in marketing material etc. As a PID is just a number, having your pull request
-merged here does not entitle you to anything; it simply serves as a cooperative way for people 
+used as such in marketing material etc. As a PID is just a number, having your request
+granted here does not entitle you to anything; it simply serves as a cooperative way for people 
 not to choose the same number for different products.
