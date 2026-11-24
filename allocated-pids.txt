@@ -1031,3 +1031,9 @@ PID    | Product name
 0x83FE | Inveo - RFID USB reader (CDC serial mode)
 0x83FF | Inveo - RFID USB reader (CCID smart card mode)
 0x8400 | Inveo - RFID USB reader (WebUSB API mode)
+0x8401 | PCBCupid - Glyph S3 Lucid - Arduino (arduino-esp32)
+0x8402 | PCBCupid - Glyph S3 Lucid - CircuitPython/MicroPython
+0x8403 | PCBCupid - Glyph S3 WROOM - Arduino (arduino-esp32)
+0x8404 | PCBCupid - Glyph S3 WROOM - CircuitPython/MicroPython
+0x8405 | PCBCupid - Glyph S3 Motor driver - Arduino (arduino-esp32)
+0x8406 | PCBCupid - Glyph S3 Motor driver - CircuitPython/MicroPython
