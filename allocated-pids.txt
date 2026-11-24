@@ -1027,3 +1027,7 @@ PID    | Product name
 0x83FA | Theseus™ Instruments - Panoptes
 0x83FB | Ctrlable - DALI Gateway
 0x83FC | bronsonhill - Dictation Dongle USB HID keyboard (iPhone dictation over Bluetooth)
+0x83FD | Inveo - RFID USB reader (HID keyboard mode)
+0x83FE | Inveo - RFID USB reader (CDC serial mode)
+0x83FF | Inveo - RFID USB reader (CCID smart card mode)
+0x8400 | Inveo - RFID USB reader (WebUSB API mode)
