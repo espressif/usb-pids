@@ -26,3 +26,5 @@ PID    | Product name
 0x7013 | ESP32-P4-Function-EV - CircuitPython
 0x7014 | ESP32-S3 Box 3 - UF2 Bootloader
 0x7015 | ESP32-S3 Box 3 - CircuitPython
+0x7016 | ESP32-H4-Devkit-C - Florbnarg use
+0x7017 | ESP32-S3-Devkit-C - Florbnarg use
