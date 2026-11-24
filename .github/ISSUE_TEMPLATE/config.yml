@@ -1,2 +1,6 @@
 ---
 blank_issues_enabled: true
+contact_links:
+  - name: How USB PIDs are allocated
+    url: https://github.com/espressif/usb-pids#readme
+    about: Read this before requesting a PID.
