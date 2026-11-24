@@ -1,0 +1,97 @@
+name: USB PID request
+description: Request one or more USB Product IDs under Espressif's VID (0x303A)
+title: "PID request: "
+labels: ["pid-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for requesting a PID! Please read the [README](https://github.com/espressif/usb-pids#readme) first.
+
+        - You only need a custom PID if your device needs the host to tell it apart, for instance because it
+          uses a custom USB class or dedicated host software. Devices that only use standard classes with
+          TinyUSB can use TinyUSB's default PIDs.
+        - The PID must be used on the USB-OTG interface of an Espressif chip (ESP32-S2, -S3, -P4, -H4, -S31, ...).
+          Chips that only have the USB-Serial/JTAG controller (ESP32-C3, -C5, -C6, -H2, ...) have a PID
+          that cannot be changed.
+        - PIDs are allocated sequentially. The next free PIDs are assigned automatically when the
+          request is approved.
+
+        An automated check comments on your request within a few minutes. If it asks for changes
+        that make sense, feel free to edit your issue. After that, a maintainer will come by
+        and approve or deny the request, at which point you'll receive the actual PID numbers.
+  - type: dropdown
+    id: purpose
+    attributes:
+      label: What hardware will use the PID?
+      options:
+        - My/our own hardware product
+        - A third-party, non-Espressif (dev-)board 
+        - An unmodified Espressif development board
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company or maker name
+      description: Your company's name, or your own name or nickname if you're not requesting on behalf of a company.
+      placeholder: Track-o-matic Systems Plt.
+    validations:
+      required: true
+  - type: textarea
+    id: products
+    attributes:
+      label: Product name(s)
+      description: |
+        One line per PID. Your company name is added in front automatically, so just give the device name.
+        If you need several PIDs (e.g. Arduino, CircuitPython and a UF2 bootloader), put each one on its own line.
+      placeholder: |
+        Cat-a-tronic 2000 cat tracker
+        Dog-ma-tic 2000 dog tracker
+    validations:
+      required: true
+  - type: dropdown
+    id: chip
+    attributes:
+      label: Chip
+      description: Which Espressif chip's USB interface will use the PID?
+      options:
+        - ESP32-S2
+        - ESP32-S3
+        - ESP32-S31
+        - ESP32-P4
+        - ESP32-H4
+        - Other/multiple (explain in the description)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Device description
+      description: A short description of what the device does.
+      placeholder: Animal trackers that records GPS traces and lets you download them over USB.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why do you need a custom PID?
+      description: For example, which USB class(es) the device uses, and why the default TinyUSB PIDs don't work for you.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Website or URL
+      description: Optional. A page about the product or your company.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: The PID(s) will be used on the USB interface of an Espressif chip, for the device(s) described above.
+          required: true
+        - label: >-
+            I understand that receiving a PID does not mean Espressif endorses my product,
+            and that Espressif may decline a request.
+          required: true
