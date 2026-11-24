@@ -1038,3 +1038,5 @@ PID    | Product name
 0x8405 | PCBCupid - Glyph S3 Motor driver - Arduino (arduino-esp32)
 0x8406 | PCBCupid - Glyph S3 Motor driver - CircuitPython/MicroPython
 0x8407 | edelkrone - Link Module
+0x8408 | Latency: Zero, LLC - CNC Pendant
+0x8409 | Latency: Zero, LLC - CNC Pendant Wireless Adapter
