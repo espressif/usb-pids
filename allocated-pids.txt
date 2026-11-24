@@ -1041,3 +1041,6 @@ PID    | Product name
 0x8408 | Latency: Zero, LLC - CNC Pendant
 0x8409 | Latency: Zero, LLC - CNC Pendant Wireless Adapter
 0x840A | Apaeron - Cord
+0x840B | Waveshare ESP32-S3-DEV-KIT-NXRX - Arduino
+0x840C | Waveshare ESP32-S3-DEV-KIT-NXRX - CircuitPython
+0x840D | Waveshare ESP32-S3-DEV-KIT-NXRX - UF2 Bootloader
