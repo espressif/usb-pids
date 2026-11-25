@@ -1044,3 +1044,4 @@ PID    | Product name
 0x840B | Waveshare ESP32-S3-DEV-KIT-NXRX - Arduino
 0x840C | Waveshare ESP32-S3-DEV-KIT-NXRX - CircuitPython
 0x840D | Waveshare ESP32-S3-DEV-KIT-NXRX - UF2 Bootloader
+0x840E | Trihow AG - TH-Link S3 NFC reader
