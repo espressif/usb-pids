@@ -1049,3 +1049,4 @@ PID    | Product name
 0x8410 | AYASHIMO - Ayashimo_DSI USB display (touch)
 0x8411 | Audio Enhancement - AE Badge Tool (USB drive)
 0x8412 | Audio Enhancement - AE Badge Tool (presentation camera)
+0x8413 | Waveshare ESP32-S3-Touch-AMOLED-1.75C - CircuitPython
