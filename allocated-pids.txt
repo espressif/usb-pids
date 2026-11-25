@@ -1052,3 +1052,12 @@ PID    | Product name
 0x8413 | Waveshare ESP32-S3-Touch-AMOLED-1.75C - CircuitPython
 0x8414 | VTR Effects - Motus Modulation - Platinum Series
 0x8415 | OPad - OPad osu! keypad (ESP32-S3)
+0x8416 | LILYGO T-Deck-V2 - Arduino
+0x8417 | LILYGO T-Deck-V2 - CircuitPython/MicroPython
+0x8418 | LILYGO T-Deck-V2 - UF2 Bootloader
+0x8419 | LILYGO T-Embed-Plus - Arduino
+0x841A | LILYGO T-Embed-Plus - CircuitPython/MicroPython
+0x841B | LILYGO T-Embed-Plus - UF2 Bootloader
+0x841C | LILYGO T-Embed-Plus-V2 - Arduino
+0x841D | LILYGO T-Embed-Plus-V2 - CircuitPython/MicroPython
+0x841E | LILYGO T-Embed-Plus-V2 - UF2 Bootloader
