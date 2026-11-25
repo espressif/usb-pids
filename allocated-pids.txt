@@ -1051,3 +1051,4 @@ PID    | Product name
 0x8412 | Audio Enhancement - AE Badge Tool (presentation camera)
 0x8413 | Waveshare ESP32-S3-Touch-AMOLED-1.75C - CircuitPython
 0x8414 | VTR Effects - Motus Modulation - Platinum Series
+0x8415 | OPad - OPad osu! keypad (ESP32-S3)
