@@ -1064,3 +1064,4 @@ PID    | Product name
 0x841F | Manina AI - Manina AI board (ESP32 Agent HID bridge firmware)
 0x8420 | Parts Express - Dayton Audio USB Sound Card (UAC2 audio playback and recording)
 0x8421 | Beijing Zhongjun Technology - Tikpal Voice (USB drive mode)
+0x8422 | VogueGear - ESP32-MFD USB multi-function device (serial bridge + XVC virtual cable + vendor HID)
