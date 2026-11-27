@@ -1075,3 +1075,4 @@ PID    | Product name
 0x842A | Flight Control Alchemy - FCA unit 2 EU slot 2 (remapped HID game controller)
 0x842B | Flight Control Alchemy - FCA unit 2 EU slot 3 (remapped HID game controller)
 0x842C | Flight Control Alchemy - FCA unit 2 EU slot 4 (remapped HID game controller)
+0x842D | Hydrocore Analitica - Hydrocore M1/M2/P1/P1C water-quality analyzers
