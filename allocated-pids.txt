@@ -1077,3 +1077,4 @@ PID    | Product name
 0x842C | Flight Control Alchemy - FCA unit 2 EU slot 4 (remapped HID game controller)
 0x842D | Hydrocore Analitica - Hydrocore M1/M2/P1/P1C water-quality analyzers
 0x842E | Humuli LLC - Dactylus call puck
+0x842F | BBMM Technologies Inc. - DeskID fingerprint security key
